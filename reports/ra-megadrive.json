@@ -1,0 +1,42 @@
+{
+  "snapshot_id": 1,
+  "console_id": 1,
+  "fetched_at": "2026-10-04T08:18:40.607281+00:00",
+  "ra_games_with_achievements": 612,
+  "status_totals": {
+    "local": 520,
+    "dat_only": 0,
+    "nointro_db_only": 1,
+    "unmatched": 91
+  },
+  "by_category": {
+    "Official": {
+      "local": 453,
+      "unmatched": 14
+    },
+    "Unlicensed": {
+      "local": 26,
+      "unmatched": 1,
+      "nointro_db_only": 1
+    },
+    "Hack": {
+      "unmatched": 65,
+      "local": 1
+    },
+    "Prototype": {
+      "local": 6
+    },
+    "Homebrew": {
+      "local": 33,
+      "unmatched": 9
+    },
+    "Homebrew/Demo": {
+      "local": 1
+    },
+    "Hack/Demo": {
+      "unmatched": 2
+    }
+  },
+  "local_roms_with_achievements": 673,
+  "rule": "RA hash = MD5 of file (SNES: after 512-byte copier header when size % 8192 == 512); exact hash equality only"
+}

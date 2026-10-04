@@ -1,0 +1,1147 @@
+{
+  "platform": "megadrive",
+  "note": "Assembled from the events table: the build process completed import, scans, diff, catalog, No-Intro, packages, RetroAchievements and names, then was stopped during its legacy-order audit. The audit below is the storage-v4 locality-ordered audit (same checks: integrity, foreign keys, every compression group, every object against its full checksum set, every archive plan regenerated).",
+  "build_log_tail": [
+    "15:59:16 progress zips 2856 groups 80 raw MiB 2206 stored MiB 502 elapsed 861",
+    "16:02:50 progress zips 3623 groups 100 raw MiB 2771 stored MiB 648 elapsed 1074",
+    "16:06:41 progress zips 4461 groups 120 raw MiB 3337 stored MiB 780 elapsed 1306",
+    "16:09:34 ROM import done {\"directories\": [\"/mnt/MyShare/No-Intro/Sega - Mega Drive - Genesis\", \"/mnt/MyShare/No-Intro/Sega - Mega Drive - Genesis (Aftermarket)\", \"/mnt/MyShare/No-Intro/Sega - Mega Drive - Genesis (Private)\"], \"families\": 1663, \"family_assignment\": {\"family_from_dat_or_db\": 5057, \"family_from_title\": 224}, \"groups\": 143, \"raw_group_bytes\": 4140642991, \"stored_group_bytes\": 961268624, \"zips\": 5281, \"seconds\": 1479} errors 0",
+    "16:09:43 scan/diff/catalog {\"scan\": {\"1\": {\"match\": 3398, \"mismatch\": 0, \"unverifiable\": 0, \"no_candidate\": 88}, \"2\": {\"match\": 3398, \"mismatch\": 0, \"unverifiable\": 0, \"no_candidate\": 106}}, \"dat_diff\": {\"1->2\": {\"unchanged\": 3474, \"added\": 18, \"renamed\": 11, \"case_changed\": 1}}, \"catalog\": {\"games\": 1581, \"releases\": 3503, \"old_dat_games_linked\": 3485, \"rom_release_links\": 3398}}",
+    "16:09:45 Parsed file identities and DAT links",
+    "16:09:46 nointro {\"snapshot_id\": 1, \"version\": \"20260927-122056\", \"archives\": 3640, \"files\": 4142, \"files_with_local_payload\": 3537, \"sources\": 9152, \"dumplog_rows\": 3577, \"dat_links\": 6992, \"archive_release_links\": 3503, \"hardware_assertions\": 2017, \"dumplog_status\": {\"trusted_unverified\": 2085, \"unverified\": 615, \"verified\": 868, \"bad\": 8, \"no_dump\": 1}, \"anomalies\": {\"file_without_sha256\": 50}}",
+    "16:14:19 packages 1 3397 / 3397",
+    "16:18:39 packages 2 3397 / 3397",
+    "16:18:41 retroachievements {\"snapshot_id\": 1, \"console_id\": 1, \"fetched_at\": \"2026-10-04T08:18:40.607281+00:00\", \"games\": 1433, \"hashes\": 2072, \"games_with_achievements\": 612, \"hashes_of_games_with_achievements\": 955, \"local_roms_matched\": 673, \"ra_games_with_local_rom\": 520, \"dat_entries_matched\": 1333, \"ra_games_in_any_dat\": 514, \"hashes_with_achievements_unexplained\": 281, \"by_category_local\": {\"Hack\": 1, \"Homebrew\": 33, \"Homebrew/Demo\": 1, \"Official\": 453, \"Prototype\": 6, \"Unlicensed\": 26}}",
+    "16:18:41 names {\"source_name\": \"Sega - Mega Drive - Genesis.csv\", \"source_sha256\": \"3d5480a919fa5062fe36a0448b50cca32c99ed773d377549381fcc26d9ba1fca\", \"normalization_version\": \"parentheses-whitespace-casefold-v1\", \"import_id\": 1, \"matching_version\": \"game-qualified-title-v1\", \"rows\": 2869, \"rows_with_chinese\": 2694, \"unique_chinese_names\": 1226, \"normalized_titles\": 1526, \"matched_rows\": 2715, \"matched_rows_with_chinese\": 2546, \"matched_releases\": 2720, \"releases_with_chinese\": 2550, \"matched_games\": 1140, \"matched_roms\": 2720, \"matched_links\": 8174, \"ambiguous_links\": 284, \"ambiguous_rows\": 58, \"unmatched_r",
+    "16:18:52 audit-all start"
+  ],
+  "dat_sets": [
+    {
+      "id": 1,
+      "name": "Sega - Mega Drive - Genesis (Parent-Clone)",
+      "version": "20260714-063411"
+    },
+    {
+      "id": 2,
+      "name": "Sega - Mega Drive - Genesis (Parent-Clone)",
+      "version": "20260927-122056"
+    }
+  ],
+  "rom_import": [
+    {
+      "directories": [
+        "/mnt/MyShare/No-Intro/Sega - Mega Drive - Genesis",
+        "/mnt/MyShare/No-Intro/Sega - Mega Drive - Genesis (Aftermarket)",
+        "/mnt/MyShare/No-Intro/Sega - Mega Drive - Genesis (Private)"
+      ],
+      "errors": [],
+      "families": 1663,
+      "family_assignment": {
+        "family_from_dat_or_db": 5057,
+        "family_from_title": 224
+      },
+      "groups": 143,
+      "raw_group_bytes": 4140642991,
+      "seconds": 1479,
+      "stored_group_bytes": 961268624,
+      "zips": 5281,
+      "_at": "2026-10-04T08:09:34.715065+00:00"
+    }
+  ],
+  "scan": [
+    {
+      "counts": {
+        "match": 3398,
+        "mismatch": 0,
+        "no_candidate": 88,
+        "unverifiable": 0
+      },
+      "_at": "2026-10-04T08:09:35.030645+00:00"
+    },
+    {
+      "counts": {
+        "match": 3398,
+        "mismatch": 0,
+        "no_candidate": 106,
+        "unverifiable": 0
+      },
+      "_at": "2026-10-04T08:09:35.299476+00:00"
+    }
+  ],
+  "dat_diff": [
+    {
+      "counts": {
+        "added": 18,
+        "case_changed": 1,
+        "renamed": 11,
+        "unchanged": 3474
+      },
+      "new_dat_set": 2,
+      "old_dat_set": 1,
+      "_at": "2026-10-04T08:09:35.420481+00:00"
+    }
+  ],
+  "catalog": {
+    "games": 1581,
+    "releases": 3503,
+    "rom_release_links": 3398
+  },
+  "nointro": [
+    {
+      "report": {
+        "anomalies": {
+          "file_without_sha256": 50
+        },
+        "archive_release_links": 3503,
+        "archives": 3640,
+        "dat_links": 6992,
+        "dumplog_rows": 3577,
+        "dumplog_status": {
+          "bad": 8,
+          "no_dump": 1,
+          "trusted_unverified": 2085,
+          "unverified": 615,
+          "verified": 868
+        },
+        "files": 4142,
+        "files_with_local_payload": 3537,
+        "hardware_assertions": 2017,
+        "snapshot_id": 1,
+        "sources": 9152,
+        "version": "20260927-122056"
+      },
+      "_at": "2026-10-04T08:09:46.067510+00:00"
+    }
+  ],
+  "packages": {
+    "1": 3397,
+    "2": 3397
+  },
+  "retroachievements": [
+    {
+      "by_category_local": {
+        "Hack": 1,
+        "Homebrew": 33,
+        "Homebrew/Demo": 1,
+        "Official": 453,
+        "Prototype": 6,
+        "Unlicensed": 26
+      },
+      "console_id": 1,
+      "dat_entries_matched": 1333,
+      "fetched_at": "2026-10-04T08:18:40.607281+00:00",
+      "games": 1433,
+      "games_with_achievements": 612,
+      "hashes": 2072,
+      "hashes_of_games_with_achievements": 955,
+      "hashes_with_achievements_unexplained": 281,
+      "local_roms_matched": 673,
+      "ra_games_in_any_dat": 514,
+      "ra_games_with_local_rom": 520,
+      "snapshot_id": 1,
+      "_at": "2026-10-04T08:18:40.607281+00:00"
+    }
+  ],
+  "game_names": {
+    "source_name": "Sega - Mega Drive - Genesis.csv",
+    "source_sha256": "3d5480a919fa5062fe36a0448b50cca32c99ed773d377549381fcc26d9ba1fca",
+    "normalization_version": "parentheses-whitespace-casefold-v1",
+    "import_id": 1,
+    "matching_version": "game-qualified-title-v1",
+    "rows": 2869,
+    "rows_with_chinese": 2694,
+    "unique_chinese_names": 1226,
+    "normalized_titles": 1526,
+    "matched_rows": 2715,
+    "matched_rows_with_chinese": 2546,
+    "matched_releases": 2720,
+    "releases_with_chinese": 2550,
+    "matched_games": 1140,
+    "matched_roms": 2720,
+    "matched_links": 8174,
+    "ambiguous_links": 284,
+    "ambiguous_rows": 58,
+    "unmatched_rows": 96,
+    "unresolved_rows": [
+      {
+        "row_number": 29,
+        "name_en": "[BIOS] Sega Teradrive - TMSS (Japan) (En)",
+        "name_cn": "[BIOS] 世嘉 Teradrive - TMSS",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 127,
+        "name_en": "Alisia Dragoon (USA) (Genesis Mini)",
+        "name_cn": "龙骑士",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 128,
+        "name_en": "Alisia Dragoon (Japan) (Mega Drive Mini)",
+        "name_cn": "龙骑士",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 129,
+        "name_en": "Altered Beast (USA, Europe) (Sega 3D Classics)",
+        "name_cn": "兽王记",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 130,
+        "name_en": "Altered Beast (Japan, USA) (En) (Sega 3D Classics)",
+        "name_cn": "兽王记",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 146,
+        "name_en": "Arcade Legends Sega Mega Drive (World)",
+        "name_cn": "街机传奇 - 世嘉MD",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 147,
+        "name_en": "Arcade Legends Street Fighter II' - Special Champion Edition (World)",
+        "name_cn": "街机传奇 - 街头霸王 2' 特别冠军版",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 207,
+        "name_en": "Ballz (USA, Europe) (Beta 2)",
+        "name_cn": "球球大作战",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 208,
+        "name_en": "Ballz (USA, Europe) (Beta 1)",
+        "name_cn": "球球大作战",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 349,
+        "name_en": "Bugs Bunny in Double Trouble (USA) (Demo) (Sega Channel) (Test Drive)",
+        "name_cn": "兔八哥 - 危机重重",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 384,
+        "name_en": "Castlevania - The New Generation (Europe) (Mega Drive Mini)",
+        "name_cn": "恶魔城 - 新的时代",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 478,
+        "name_en": "Comix Zone (USA) (Beta) (1995-06-01) (Alt 2)",
+        "name_cn": "漫画地带",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 479,
+        "name_en": "Comix Zone (USA) (Beta) (1995-06-01) (Alt 3)",
+        "name_cn": "漫画地带",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 482,
+        "name_en": "Contra - Hard Corps (USA) (Genesis Mini)",
+        "name_cn": "魂斗罗 - 铁血兵团",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 484,
+        "name_en": "Contra - The Hard Corps (Japan) (Mega Drive Mini)",
+        "name_cn": "魂斗罗 - 铁血兵团",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 547,
+        "name_en": "Darius (World) (Genesis Mini, Mega Drive Mini)",
+        "name_cn": "太空战斗机",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 590,
+        "name_en": "Devi to Pii (Japan) (Mega Drive Mini 2)",
+        "name_cn": "德维与皮伊",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 847,
+        "name_en": "Futari de Puyo Puyo Sun (Japan) (Mega Drive Mini 2)",
+        "name_cn": "对战魔法气泡",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1159,
+        "name_en": "Landstalker (USA) (Genesis Mini)",
+        "name_cn": "皇帝的财宝",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1160,
+        "name_en": "Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini)",
+        "name_cn": "皇帝的财宝",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1163,
+        "name_en": "Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini)",
+        "name_cn": "皇帝的财宝",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1164,
+        "name_en": "Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini)",
+        "name_cn": "皇帝的财宝",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1167,
+        "name_en": "Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini)",
+        "name_cn": "皇帝的财宝",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1179,
+        "name_en": "Legende de Thor, La (France) (Mega Drive Mini)",
+        "name_cn": "托尔传说",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1196,
+        "name_en": "Light Crusader (Europe) (En,Ja,Fr,De,Es) (Mega Drive Mini)",
+        "name_cn": "光之十字军战士",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1197,
+        "name_en": "Light Crusader (USA) (Genesis Mini)",
+        "name_cn": "光之十字军战士",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1198,
+        "name_en": "Light Crusader (Japan) (En,Ja) (Mega Drive Mini)",
+        "name_cn": "光之十字军战士",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1276,
+        "name_en": "Maximum Carnage (World)",
+        "name_cn": "蜘蛛侠与毒液 - 屠杀",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 1298,
+        "name_en": "Mega Man - The Wily Wars (USA) (Genesis Mini)",
+        "name_cn": "洛克人 - 威利战争",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1379,
+        "name_en": "Monster World IV (USA) (En,Ja) (Genesis Mini)",
+        "name_cn": "冒险世界 4",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1555,
+        "name_en": "Olympic Summer Games (USA) (Demo) (Sega Channel) (Test Drive)",
+        "name_cn": "亚特兰大夏季奥运 96",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1575,
+        "name_en": "Outback Joey (USA)",
+        "name_cn": "荒野乔伊",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1637,
+        "name_en": "Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)",
+        "name_cn": "梦幻之星 4 - 千年纪的终结",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1653,
+        "name_en": "Phantasy Star II - Kaerazaru Toki no Owari ni (Japan) (Mega Drive Mini 2)",
+        "name_cn": "梦幻之星 2 - 不归的终点",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1668,
+        "name_en": "Phantasy Star IV (USA) (Genesis Mini)",
+        "name_cn": "梦幻之星 4 - 千年纪的终结",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1735,
+        "name_en": "Probotector (Europe) (En,Fr,De) (Mega Drive Mini)",
+        "name_cn": "欧版魂斗罗",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1836,
+        "name_en": "Road Rash II (USA) (Genesis Mini)",
+        "name_cn": "暴力摩托 2",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1837,
+        "name_en": "Road Rash II (Japan) (Mega Drive Mini)",
+        "name_cn": "暴力摩托 2",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1860,
+        "name_en": "Rockman - Mega World (Japan) (Mega Drive Mini)",
+        "name_cn": "洛克人",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1918,
+        "name_en": "Separation Anxiety (USA, Europe)",
+        "name_cn": "蜘蛛侠与毒液 - 分离焦虑",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 1954,
+        "name_en": "Shining Force (USA) (Genesis Mini)",
+        "name_cn": "光明力量 - 众神遗产",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1955,
+        "name_en": "Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini)",
+        "name_cn": "光明力量 - 众神遗产",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 1968,
+        "name_en": "Shinobi III - Return of the Ninja Master (USA) (Genesis Mini)",
+        "name_cn": "影武者 3 - 大师之返",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2053,
+        "name_en": "Sonic Spinball (Europe) (Mega Drive Mini)",
+        "name_cn": "索尼克弹珠台",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2060,
+        "name_en": "Sonic The Hedgehog 2 (World) (Beta) (~1992-06-xx)",
+        "name_cn": "索尼克 2",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2062,
+        "name_en": "Sonic The Hedgehog 2 (World) (Beta) (~1992-07-xx)",
+        "name_cn": "索尼克 2",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2070,
+        "name_en": "Sonic The Hedgehog 2 (World) (Beta) (~1992-09-xx)",
+        "name_cn": "索尼克 2",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2077,
+        "name_en": "Sonic The Hedgehog 3 (USA) (Movie Promo)",
+        "name_cn": "索尼克 3",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2107,
+        "name_en": "Spider-Man X-Men - Arcade's Revenge (Europe) (Rev 1)",
+        "name_cn": "蜘蛛侠与X战警",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2108,
+        "name_en": "Spider-Man X-Men - Arcade's Revenge (USA, Europe)",
+        "name_cn": "蜘蛛侠与X战警",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2129,
+        "name_en": "Star Mobile (Japan) (Mega Drive Mini 2)",
+        "name_cn": "星际移动",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2134,
+        "name_en": "Star Trek - The Next Generation (USA) (Beta) (1993-12-28)",
+        "name_cn": null,
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2135,
+        "name_en": "Star Trek - The Next Generation (USA) (Beta) (1993-12-29)",
+        "name_cn": null,
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2136,
+        "name_en": "Star Trek - The Next Generation (USA) (Beta) (1994-01-03)",
+        "name_cn": null,
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2137,
+        "name_en": "Star Trek - The Next Generation (USA) (Beta) (1994-01-10)",
+        "name_cn": null,
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2138,
+        "name_en": "Star Trek - The Next Generation (USA) (Beta) (1994-01-18)",
+        "name_cn": null,
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2139,
+        "name_en": "Star Trek - The Next Generation (USA) (Beta) (1994-01-25)",
+        "name_cn": null,
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2166,
+        "name_en": "Story of Thor, The (Europe) (Mega Drive Mini)",
+        "name_cn": "光之继承者",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2167,
+        "name_en": "Story of Thor, The (Germany) (Mega Drive Mini)",
+        "name_cn": "光之继承者",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2168,
+        "name_en": "Story of Thor, The (Spain) (Mega Drive Mini)",
+        "name_cn": "光之继承者",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2182,
+        "name_en": "Streets of Rage (World) (En,Ja) (Rev A) (Sega 3D Classics)",
+        "name_cn": "怒之铁拳",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2185,
+        "name_en": "Streets of Rage 2 (USA) (Sega 3D Classics)",
+        "name_cn": "怒之铁拳 2",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2205,
+        "name_en": "Streets of Rage II (Japan, Europe) (En,Ja) (Mega Drive Mini)",
+        "name_cn": "怒之铁拳 2",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2207,
+        "name_en": "Streets of Rage II (Japan, Europe) (En,Ja) (Sega 3D Classics)",
+        "name_cn": "怒之铁拳 2",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2213,
+        "name_en": "Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini)",
+        "name_cn": "出击飞龙",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2237,
+        "name_en": "Super Fantasy Zone (USA) (En,Ja) (Genesis Mini)",
+        "name_cn": "超级幻想地带",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2371,
+        "name_en": "Tetris (USA) (Genesis Mini)",
+        "name_cn": "俄罗斯方块",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2372,
+        "name_en": "Tetris (Japan) (Mega Drive Mini)",
+        "name_cn": "俄罗斯方块",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2500,
+        "name_en": "Vampire Killer (Japan) (En) (Mega Drive Mini)",
+        "name_cn": "吸血鬼杀手",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2505,
+        "name_en": "Vectorman (USA) (Genesis Mini)",
+        "name_cn": "粒子斗士",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2690,
+        "name_en": "World Series Baseball '96 (USA) (Demo) (Sega Channel) (Test Drive)",
+        "name_cn": "世界系列棒球 '96",
+        "status": "ambiguous"
+      },
+      {
+        "row_number": 2788,
+        "name_en": "Prince of Persia 2 - The Shadow and the Flame (Europe) (Proto)",
+        "name_cn": "波斯王子 2 - 暗影与烈焰",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2789,
+        "name_en": "Nadia - The Secret of Blue Water (Japan)",
+        "name_cn": "蓝宝石之迷",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2790,
+        "name_en": "Dahna - Goddess' Birth (Japan)",
+        "name_cn": "达娜 - 女神诞生",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2791,
+        "name_en": "Dial Q o Mawase! (Japan) [CHS]",
+        "name_cn": "雀侦物语",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2792,
+        "name_en": "Advanced Busterhawk Gleylancer (Japan) [T-En by M.I.J.E.T. v061023],星际枪骑兵",
+        "name_cn": "星际枪骑兵",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2793,
+        "name_en": "Aoki Ookami to Shiroki Meshika - Genchou Hishi (Japan) [CHT]",
+        "name_cn": "苍狼与白鹿 - 元朝秘史",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2794,
+        "name_en": "Shining Force II - Koe no Fuuin (Japan) [CHS]",
+        "name_cn": "光明力量 2 - 古代封印",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2795,
+        "name_en": "Bare Knuckle II - Shitou heno Chingonka ~ Streets of Rage II (USA) [CHS]",
+        "name_cn": "怒之铁拳 2 - 死斗安魂曲",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2796,
+        "name_en": "Wild Snake (USA) [CHS]",
+        "name_cn": "野蛇",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2797,
+        "name_en": "Phantasy Star III - Toki no Keishousha (Japan) [CHS]",
+        "name_cn": "梦幻之星 3 - 时之继承者",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2798,
+        "name_en": "Bare Knuckle II - Shitou heno Chingonka ~ Streets of Rage II (USA) [CHS]",
+        "name_cn": "怒之铁拳 2 - 死斗安魂曲",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2799,
+        "name_en": "El. Viento (USA)",
+        "name_cn": "旋风女战士",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2800,
+        "name_en": "Cave Story (USA) [CHS]",
+        "name_cn": "洞窟物语",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2801,
+        "name_en": "Astebros (USA, Europe) [CHS]",
+        "name_cn": "阿斯特堡兄弟",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2802,
+        "name_en": "Musha Aleste - Full Metal Fighter Ellinor (Japan) [CHS]",
+        "name_cn": "武者雅士达 - 全金属战士艾琳诺",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2803,
+        "name_en": "Assault Suit Leynos (Japan) [CHS]",
+        "name_cn": "重装机兵雷诺斯",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2804,
+        "name_en": "Shi San Zhang Ma Jiang - 98 Mei Shao Nv (China) [CHT]",
+        "name_cn": "十三张麻将 - 98 美少女",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2805,
+        "name_en": "Shi Liu Zhang Ma Jiang (China) [CHT]",
+        "name_cn": "十六张麻将",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2806,
+        "name_en": "Aq Renkan Awa (China) [CHT]",
+        "name_cn": "阿 Q 连环泡",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2807,
+        "name_en": "Barver Battle Saga - Mo Fa Zhan Shi (China) [CHS]",
+        "name_cn": "太空战士 - 魔法战士",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2808,
+        "name_en": "Barver Battle Saga - Mo Fa Zhan Shi (China) [CHT]",
+        "name_cn": "太空战士 - 魔法战士",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2809,
+        "name_en": "Chinese Chess (China) [CHS]",
+        "name_cn": "中国象棋",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2810,
+        "name_en": "Tun Shi Tian Di III (China) [CHS]",
+        "name_cn": "吞食天地 3",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2811,
+        "name_en": "Tun Shi Tian Di III (China) [CHT]",
+        "name_cn": "吞食天地 3",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2812,
+        "name_en": "Devilish Mahjong Tower (China) [CHT]",
+        "name_cn": "麻雀恶魔塔",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2813,
+        "name_en": "Dial Q o Mawase! (Japan) [CHS]",
+        "name_cn": "雀侦物语",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2814,
+        "name_en": "Explosion Sangokushi (China) [CHS]",
+        "name_cn": "爆笑三国",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2815,
+        "name_en": "Explosion Sangokushi (China) [CHT]",
+        "name_cn": "爆笑三国",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2816,
+        "name_en": "Feng Shen Ying Jie Zhuan (China) [CHS]",
+        "name_cn": "封神英杰传",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2817,
+        "name_en": "Feng Shen Ying Jie Zhuan (China) [CHT]",
+        "name_cn": "封神英杰传",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2818,
+        "name_en": "Super Big 2 (China) [CHT]",
+        "name_cn": "黑桃 2",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2819,
+        "name_en": "Feng Kuang Tao Hua Yuan (China) [CHT]",
+        "name_cn": "疯狂桃花源",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2820,
+        "name_en": "777 Casino (China) [CHT]",
+        "name_cn": "梦幻水果盘",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2821,
+        "name_en": "Magic Girl (China) [CHT]",
+        "name_cn": "小魔女",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2822,
+        "name_en": "Jiu Ji Ma Jiang II - Ye Yan Pian (China) [CHT]",
+        "name_cn": "究极麻将 2 - 冶艳篇",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2823,
+        "name_en": "Romance of the Three Kingdoms - the Battle of Red Cliffs (China) [CHT]",
+        "name_cn": "三国演义 - 火烧赤壁",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2824,
+        "name_en": "San Guo Zhi V (China) [CHT]",
+        "name_cn": "三国志 5",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2825,
+        "name_en": "Chao Ji Da Fu Weng (China) [CHS]",
+        "name_cn": "超级大富翁",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2826,
+        "name_en": "Chao Ji Da Fu Weng (China) [CHT]",
+        "name_cn": "超级大富翁",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2827,
+        "name_en": "Shui Hu - Feng Yun Zhuan (China) [CHT]",
+        "name_cn": "水浒 - 风云传",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2828,
+        "name_en": "Tai Wan Da Heng (China) [CHT]",
+        "name_cn": "台湾大亨",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2829,
+        "name_en": "Tun Shi Tian Di III - San Guo Wai Zhuan (China) [CHT]",
+        "name_cn": "吞食天地 3 - 三国外传",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2830,
+        "name_en": "Shui Hu Zhuan (China) [CHS]",
+        "name_cn": "水浒传",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2831,
+        "name_en": "Shui Hu Zhuan (China) [CHT]",
+        "name_cn": "水浒传",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2832,
+        "name_en": "Shi Jie Zhi Bang Zheng Ba Zhan - Jin Guan Jun Xiong Di Xiang (China) [CHT]",
+        "name_cn": "世界职棒争霸战 - 金冠军兄弟象",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2833,
+        "name_en": "Wu Kong Wai Zhuan (China) [CHS]",
+        "name_cn": "悟空外传",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2834,
+        "name_en": "Wu Kong Wai Zhuan (China) [CHT]",
+        "name_cn": "悟空外传",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2835,
+        "name_en": "Xin Qi Gai Wang Zi (China) [CHT]",
+        "name_cn": "新乞丐王子",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2836,
+        "name_en": "Ya Se Chuan Shuo (China) [CHT]",
+        "name_cn": "亚瑟传说",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2837,
+        "name_en": "Yang Jia Jiang - Yi Men Ying Lie (China) [CHT]",
+        "name_cn": "杨家将 - 一门英烈",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2838,
+        "name_en": "Ghost Hunter (China) [CHT]",
+        "name_cn": "抓鬼大师",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2839,
+        "name_en": "Mulan (China) [CHT]",
+        "name_cn": "花木兰",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2840,
+        "name_en": "Queen of Poker Club (China) [CHT]",
+        "name_cn": "扑克女王俱乐部",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2841,
+        "name_en": "Pokemon Crazy Drummer (China) [CHS]",
+        "name_cn": "疯狂鼓手皮卡丘",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2842,
+        "name_en": "Wu Kong Wai Zhuan (China) [CHT]",
+        "name_cn": "悟空外传",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2843,
+        "name_en": "Ya Se Chuan Shuo (China) [CHT]",
+        "name_cn": "亚瑟传说",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2844,
+        "name_en": "Shui Hu Zhuan (China) [CHT]",
+        "name_cn": "水浒传",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2845,
+        "name_en": "Barver Battle Saga - Mo Fa Zhan Shi (China) [CHT]",
+        "name_cn": "太空战士 - 魔法战士",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2846,
+        "name_en": "Feng Shen Ying Jie Zhuan (China) [CHT]",
+        "name_cn": "封神英杰传",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2847,
+        "name_en": "Adventurous Boy (China) [CHT]",
+        "name_cn": "冒险小子",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2848,
+        "name_en": "Smart Mouse (China) [CHT]",
+        "name_cn": "欢乐淘气鼠",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2849,
+        "name_en": "Xin Qi Gai Wang Zi (China) [CHT]",
+        "name_cn": "新乞丐王子",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2850,
+        "name_en": "Link Dragon (China) [CHT]",
+        "name_cn": "龙",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2851,
+        "name_en": "Elf Wor (China) [CHT]",
+        "name_cn": "灵幻道士",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2852,
+        "name_en": "Ji Ma Jiang - Ma Jiang Qing Ren (China) [CHT]",
+        "name_cn": "姬麻将 - 麻将情人",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2853,
+        "name_en": "Dragon Ball - Final Bout (China) [CHT]",
+        "name_cn": "七龙珠 - 超武斗会完结篇",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2854,
+        "name_en": "Top Fighter 2005 (China) [CHS]",
+        "name_cn": "格斗王",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2855,
+        "name_en": "Bomboy (China) [CHT]",
+        "name_cn": "轰炸小子",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2856,
+        "name_en": "Mulan (China) [CHT]",
+        "name_cn": "花木兰",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2857,
+        "name_en": "Feng Shen Ying Jie Zhuan (China) [CHT]",
+        "name_cn": "封神英杰传",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2858,
+        "name_en": "Ji Ma Jiang - Ma Jiang Qing Ren (China) [CHT]",
+        "name_cn": "姬麻将 - 麻将情人",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2859,
+        "name_en": "Barver Battle Saga - Mo Fa Zhan Shi (China) [CHS]",
+        "name_cn": "太空战士 - 魔法战士",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2860,
+        "name_en": "Commandos (China) [CHS]",
+        "name_cn": "二战特种兵",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2861,
+        "name_en": "Chao Ji Da Fu Weng (China) [CHT]",
+        "name_cn": "超级大富翁",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2862,
+        "name_en": "Shi Liu Zhang Ma Jiang II (China) [CHT]",
+        "name_cn": "十六张麻将 2",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2863,
+        "name_en": "God of Gamblers - Fantasy Poker (China) [CHT]",
+        "name_cn": "赌神 - 梦幻扑克",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2864,
+        "name_en": "Super Poker (China) [CHT]",
+        "name_cn": "超级扑克",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2865,
+        "name_en": "Super Mahjong Club (China) [CHT]",
+        "name_cn": "超级麻将俱乐部",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2866,
+        "name_en": "Top Billionaire (China) [CHT]",
+        "name_cn": "超级大富豪",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2867,
+        "name_en": "Chinese Battle Chess (China) [CHT]",
+        "name_cn": "战棊",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2868,
+        "name_en": "Demons of Asteborg (China) [CHS]",
+        "name_cn": "阿斯特堡的恶魔",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2869,
+        "name_en": "Earthion (World) (En) (Aftermarket)",
+        "name_cn": "地球使命",
+        "status": "unmatched"
+      },
+      {
+        "row_number": 2870,
+        "name_en": "Earthion (World) (Ja) (Aftermarket)",
+        "name_cn": "地球使命",
+        "status": "unmatched"
+      }
+    ],
+    "multiple_translation_keys": [],
+    "matched_rows_by_method": {
+      "exact_title": 2122,
+      "qualified_title": 593
+    }
+  },
+  "coverage": [
+    {
+      "dat_set_id": 1,
+      "status": "matched",
+      "n": 3398
+    },
+    {
+      "dat_set_id": 1,
+      "status": "unmatched",
+      "n": 88
+    },
+    {
+      "dat_set_id": 2,
+      "status": "matched",
+      "n": 3398
+    },
+    {
+      "dat_set_id": 2,
+      "status": "unmatched",
+      "n": 106
+    }
+  ],
+  "storage": {
+    "logical_content_bytes": 6022611430,
+    "historical_zip_bytes_not_stored": 4063712560,
+    "unique_raw_chunk_bytes": 4150227184,
+    "stored_chunk_bytes": 962664876,
+    "header_body_recipes": 0,
+    "zip_plans": 5044,
+    "file_occurrences": 13980,
+    "catalog_objects": 8735
+  },
+  "solid_groups": {
+    "groups": 143,
+    "raw_bytes": 4140642991,
+    "stored_bytes": 961268624
+  },
+  "audit": {
+    "integrity_check": [
+      "ok"
+    ],
+    "foreign_key_errors": [],
+    "objects_checked": 3691,
+    "archive_plans_checked": 5044,
+    "compression_groups_checked": 143,
+    "historical_zip_objects": 5044,
+    "errors": [],
+    "ok": true,
+    "seconds": 891
+  }
+}
