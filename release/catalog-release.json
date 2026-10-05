@@ -1,10 +1,10 @@
 {
-  "tag": "megadrive-catalog-20261005-2",
+  "tag": "megadrive-catalog-20261005-3",
   "title": "Mega Drive Catalog: RetroAchievements ROM set and source collections",
   "platform": "megadrive",
   "catalog_name": "RetroBoxDB.MegaDrive.Catalog.sqlite",
-  "base_url": "https://github.com/rshi0212/RetroBoxDB-MegaDrive/releases/download/megadrive-catalog-base-20261005-2/RetroBoxDB.MegaDrive.Catalog.sqlite",
-  "base_sha256": "704019028a3fdd1d33eb4104ec6e1d99ad8ff13fc2e6bc30e937e2e829b17ac8",
+  "base_url": "https://github.com/rshi0212/RetroBoxDB-MegaDrive/releases/download/megadrive-catalog-base-20261005-3/RetroBoxDB.MegaDrive.Catalog.sqlite",
+  "base_sha256": "60c3cb53bb098bcf915f4b8dff0765a43e91699bbd3fb1daeb5f4d24a7cd5080",
   "data_table_sha256": {
     "archive_entries": {
       "rows": 5369,
@@ -43,8 +43,8 @@
       "sha256": "a368ac0a8b370f47965993f83c9194d078d78943fcdebd9468290f95d74adabe"
     },
     "events": {
-      "rows": 26,
-      "sha256": "02abb9be67b3ca63702cce31a4b9c2b58f96eb72e28716ea3cfd43a862238789"
+      "rows": 28,
+      "sha256": "2c167412f81dc452745fd01f391ca45d572c6a9a12b7d0f94cad04e8318c7157"
     },
     "fds_hardware": {
       "rows": 0,
