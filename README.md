@@ -10,7 +10,7 @@ Single-file SQLite preservation database for Sega Mega Drive / Genesis. The publ
 | Stored size | populated database 998.5 MiB; public Catalog 44.7 MiB (no ROM data) |
 | Ratio | 20.9% of the source ZIPs, 10.2% of the uncompressed ROM files |
 | Technology | storage v4: SHA256-deduplicated 64 KiB blocks packed in No-Intro family order into solid LZMA2 groups of up to 256 MiB (256 MiB dictionary); per-block SHA256 and per-object CRC32/MD5/SHA1/SHA256 verification; source ZIPs reproduced byte-for-byte from TorrentZip plans |
-| Export performance | Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz, idle, Python 3.14.4, all checks included. Whole-set export (6,216 ROM files in storage order, each group decoded once): 21.4 MiB/s, 74 ms per file on average; single file with a cold cache (the group is decoded up to the file): ROM 1.734 s, TorrentZip 2.087 s on average |
+| Export performance | Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz, idle, Python 3.14.4, all checks included. whole newest-DAT set with `export_set.py` (3,398 files, each checked against the DAT hashes): 18.8 MiB/s, 74 ms per file on average; single file with a cold cache (the group is decoded up to the file): ROM 1.734 s, TorrentZip 2.087 s on average |
 
 ## Downloads and documents
 

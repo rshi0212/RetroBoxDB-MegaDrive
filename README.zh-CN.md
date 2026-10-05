@@ -10,7 +10,7 @@
 | 入库后大小 | 完整库 998.5 MiB；公开 Catalog 44.7 MiB（不含 ROM 数据） |
 | 比例 | 完整库为原 ZIP 的 20.9%，为解压后 ROM 总量的 10.2% |
 | 使用的技术 | 存储 v4：64 KiB 块按 SHA256 去重，按 No-Intro 游戏族顺序装入最大 256 MiB 的 LZMA2 实体组（字典 256 MiB）；逐块 SHA256、逐对象 CRC32／MD5／SHA1／SHA256 校验；源 ZIP 由 TorrentZip 配方逐字节重建 |
-| 导出性能 | Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz，空闲负载，Python 3.14.4，含全部校验。全集合顺序导出（6,216 个 ROM 文件，每组解压一次）：21.4 MiB/s，平均 74 毫秒／个；单个文件冷缓存（每次清空缓存，需解压所在组的前段）：ROM 平均 1.734 秒，TorrentZip 平均 2.087 秒 |
+| 导出性能 | Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz，空闲负载，Python 3.14.4，含全部校验。按最新 DAT 整套导出（`export_set.py`，3,398 个文件，逐个按 DAT 哈希校验）：18.8 MiB/s，平均 74 毫秒／个；单个文件冷缓存（每次清空缓存，需解压所在组的前段）：ROM 平均 1.734 秒，TorrentZip 平均 2.087 秒 |
 
 ## 下载与说明
 

@@ -7,7 +7,7 @@ MegaDrive Catalog, storage v4 (64 KiB blocks, 20 solid LZMA2 groups of up to 256
 - Source: 6,215 ZIPs (nointro 5,281, retroachievements 934), 4.66 GiB (6,216 ROM files, 9.61 GiB uncompressed). Populated database: 998.5 MiB (20.9% of the ZIPs). All source ZIPs are reproduced byte-for-byte.
 - Contents: 3,959 ROM records, 1,581 games, 3,503 releases; DAT versions: 20260714-063411, 20260927-122056.
 - RetroAchievements: 606 of 613 games with achievements have a local ROM.
-- Export (Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz, idle, all checks): whole set in storage order 21.4 MiB/s (6,216 ROM files); single file with a cold cache 1.734 s (ROM) / 2.087 s (TorrentZip) on average.
+- Export (Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz, idle, all checks): whole newest-DAT set with export_set.py 18.8 MiB/s (3,398 files); single file with a cold cache 1.734 s (ROM) / 2.087 s (TorrentZip) on average.
 - Full audit of the populated database: 3,963 objects, 20 groups, 5,367 archive plans, no errors.
 
 The release workflow starts from the base Catalog pinned by SHA256 in `release/catalog-release.json`, injects the engine and documents of the tagged commit, checks every data-table digest, SQLite integrity and foreign keys, runs the Catalog audit and the repository tests. Verify the download with `SHA256SUMS`.
