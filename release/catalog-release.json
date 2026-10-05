@@ -1,10 +1,10 @@
 {
-  "tag": "megadrive-catalog-20261005-3",
-  "title": "Mega Drive Catalog: RetroAchievements ROM set and source collections",
+  "tag": "megadrive-catalog-20261006",
+  "title": "Mega Drive Catalog: eight-platform engine and documentation",
   "platform": "megadrive",
   "catalog_name": "RetroBoxDB.MegaDrive.Catalog.sqlite",
-  "base_url": "https://github.com/rshi0212/RetroBoxDB-MegaDrive/releases/download/megadrive-catalog-base-20261005-3/RetroBoxDB.MegaDrive.Catalog.sqlite",
-  "base_sha256": "60c3cb53bb098bcf915f4b8dff0765a43e91699bbd3fb1daeb5f4d24a7cd5080",
+  "base_url": "https://github.com/rshi0212/RetroBoxDB-MegaDrive/releases/download/megadrive-catalog-base-20261006/RetroBoxDB.MegaDrive.Catalog.sqlite",
+  "base_sha256": "15dccc14b921554856efa90ca2aa1f86c1b2aa25a7779dded11344e9063f964f",
   "data_table_sha256": {
     "archive_entries": {
       "rows": 5369,
@@ -17,6 +17,10 @@
     "archive_profiles": {
       "rows": 1,
       "sha256": "a8247ca6bd7302d45bbf2e6dfe2fae5b8624f1333cc6a4087cd18bac6e463690"
+    },
+    "bsx_hardware": {
+      "rows": 0,
+      "sha256": "44f335cb2b7c8f195e63c47f303f37dadc7e880771c4b23baef96323d6cb90d3"
     },
     "chunks": {
       "rows": 0,
@@ -43,8 +47,8 @@
       "sha256": "a368ac0a8b370f47965993f83c9194d078d78943fcdebd9468290f95d74adabe"
     },
     "events": {
-      "rows": 28,
-      "sha256": "2c167412f81dc452745fd01f391ca45d572c6a9a12b7d0f94cad04e8318c7157"
+      "rows": 30,
+      "sha256": "81481a763e8a0310c8745fdad77b60426971559d4988bfe173d4e405674a0a30"
     },
     "fds_hardware": {
       "rows": 0,
@@ -383,6 +387,10 @@
     "storage-experiment-fds": {
       "kind": "json",
       "path": "assessment/data/storage-experiment-fds.json"
+    },
+    "storage-experiment-satellaview": {
+      "kind": "json",
+      "path": "assessment/data/storage-experiment-satellaview.json"
     },
     "storage-curves": {
       "kind": "json",
