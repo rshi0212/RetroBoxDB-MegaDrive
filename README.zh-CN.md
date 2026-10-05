@@ -7,7 +7,7 @@
 | 项目 | 数值 |
 | --- | --- |
 | 原始大小 | 源 ZIP 6,215 个，4.66 GiB（No-Intro 5,281 个，RetroAchievements 集合 934 个）；解压后 ROM 6,216 个，9.61 GiB |
-| 入库后大小 | 完整库 998.5 MiB；公开 Catalog 44.7 MiB（不含 ROM 数据） |
+| 入库后大小 | 完整库 998.7 MiB；公开 Catalog 44.8 MiB（不含 ROM 数据） |
 | 比例 | 完整库为原 ZIP 的 20.9%，为解压后 ROM 总量的 10.2% |
 | 使用的技术 | 存储 v4：64 KiB 块按 SHA256 去重，按 No-Intro 游戏族顺序装入最大 256 MiB 的 LZMA2 实体组（字典 256 MiB）；逐块 SHA256、逐对象 CRC32／MD5／SHA1／SHA256 校验；源 ZIP 由 TorrentZip 配方逐字节重建 |
 | 导出性能 | Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz，空闲负载，Python 3.14.4，含全部校验。按最新 DAT 整套导出（`export_set.py`，3,398 个文件，逐个按 DAT 哈希校验）：18.8 MiB/s，平均 74 毫秒／个；单个文件冷缓存（每次清空缓存，需解压所在组的前段）：ROM 平均 1.734 秒，TorrentZip 平均 2.087 秒 |
@@ -17,7 +17,7 @@
 | 文件／文档 | 内容 |
 | --- | --- |
 | [RetroBoxDB.MegaDrive.Catalog.sqlite](https://github.com/rshi0212/RetroBoxDB-MegaDrive/releases/latest/download/RetroBoxDB.MegaDrive.Catalog.sqlite) | 公开 Catalog（Release 附件，附 `SHA256SUMS`） |
-| [存储 v4 说明](RetroBoxDB.Storage-v4.zh-CN.md)／[English](RetroBoxDB.Storage-v4.en.md) | 七个平台的存储评估、内容、RA、中文名与维护 |
+| [存储 v4 说明](RetroBoxDB.Storage-v4.zh-CN.md)／[English](RetroBoxDB.Storage-v4.en.md) | 八个平台的存储评估、内容、RA、中文名与维护 |
 | [Technical design](RetroBoxDB.Storage-v4.Technical-Design.en.md) | 存储格式、平台适配、增量更新、校验 |
 | [RA 清单](reports/ra-megadrive-games.csv)／[汇总](reports/ra-megadrive.json)、[构建报告](reports/megadrive-build-report.json)、[审计处理](reports/audit-resolution-20261004.md) | 逐项数据 |
 
@@ -38,7 +38,7 @@
 | 不在任何 DAT 的本地 ROM | 561 |
 | RetroAchievements 集合中的 ROM 文件 | DAT 中有 654，仅 RA 收录 275，哈希不在最新 RA 快照 5（[清单](reports/ra-megadrive-collection-unknown.csv)）；仍缺本地 ROM 的 RA 游戏见 [缺口清单](reports/ra-megadrive-missing.csv) |
 | No-Intro DB Export＋Dump Log 20260927-122056 | 3,640 个档案、4,142 个文件身份、2,017 条有文档的硬件声明；Dump Log Verified 868 |
-| RetroAchievements（console 1） | 有成就的游戏 613 个：本地有 ROM 606（942 个 ROM），仅 DAT 有 0，仅 DB 文件 0，无 No-Intro 对应 7 |
+| RetroAchievements（console 1） | 有成就的游戏 613 个：本地有 ROM 606（942 个 ROM），ROM 在兄弟库中 0，仅 DAT 有 0，仅 DB 文件 0，无 No-Intro 对应 7 |
 | 中文名 | 2,869 条记录中 2,694 条有中文（1,226 个唯一名）；本地 ROM 2,656 个有中文名 |
 | 完整库审计 | 3,963 个对象、20 个组、5,367 个 ZIP 配方，全部通过 |
 
