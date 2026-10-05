@@ -1,613 +1,614 @@
-ra_game_id,title,category,achievements,ra_hashes,status,local_roms,local_releases,dat_entries,dat_games,nointro_db_files,nointro_db_titles
-1,Sonic the Hedgehog,Official,35,4,local,1,"Sonic The Hedgehog (USA, Europe)",2,"Sonic The Hedgehog (USA, Europe)",0,
-2,Aladdin,Official,21,1,local,1,Aladdin (USA),2,Aladdin (USA),0,
-3,Streets of Rage 2,Official,40,4,local,2,"Streets of Rage II (Japan, Europe) (En,Ja),Streets of Rage 2 (USA)",4,"Streets of Rage II (Japan, Europe) (En,Ja),Streets of Rage 2 (USA)",0,
-4,Zero Tolerance,Official,95,1,local,1,"Zero Tolerance (USA, Europe) (Rev A)",2,"Zero Tolerance (USA, Europe) (Rev A)",0,
-6,Desert Strike: Return to the Gulf,Official,27,2,local,1,"Desert Strike - Return to the Gulf (USA, Europe)",2,"Desert Strike - Return to the Gulf (USA, Europe)",0,
-7,Gunstar Heroes,Official,54,2,local,2,"Gunstar Heroes (Europe),Gunstar Heroes (USA)",4,"Gunstar Heroes (Europe),Gunstar Heroes (USA)",0,
-8,Ecco the Dolphin,Official,41,2,local,1,"Ecco the Dolphin (USA, Europe, Korea) (En)",2,"Ecco the Dolphin (USA, Europe, Korea) (En)",0,
-9,Castle of Illusion Starring Mickey Mouse,Official,21,4,local,2,"Castle of Illusion Starring Mickey Mouse (USA, Europe),I Love Mickey Mouse - Fushigi no Oshiro Daibouken (Japan)",4,"Castle of Illusion Starring Mickey Mouse (USA, Europe),I Love Mickey Mouse - Fushigi no Oshiro Daibouken (Japan)",0,
-10,Sonic the Hedgehog 2,Official,32,2,local,2,"Sonic The Hedgehog 2 (World),Sonic The Hedgehog 2 (World) (Rev A)",4,"Sonic The Hedgehog 2 (World),Sonic The Hedgehog 2 (World) (Rev A)",0,
-11,Earthworm Jim,Official,117,1,local,1,Earthworm Jim (USA),2,Earthworm Jim (USA),0,
-12,The Addams Family,Official,69,1,local,1,"Addams Family, The (USA, Europe)",2,"Addams Family, The (USA, Europe)",0,
-13,Aero the Acro-Bat 2,Official,81,1,local,1,Aero the Acro-Bat 2 (Europe),2,Aero the Acro-Bat 2 (Europe),0,
-14,Alien 3,Official,44,3,local,2,"Alien 3 (USA, Europe) (Rev A),Alien 3 (USA, Europe)",4,"Alien 3 (USA, Europe) (Rev A),Alien 3 (USA, Europe)",0,
-15,Sonic Spinball,Official,68,3,local,3,"Sonic Spinball (Japan),Sonic Spinball (Europe),Sonic Spinball (USA)",6,"Sonic Spinball (Japan),Sonic Spinball (Europe),Sonic Spinball (USA)",0,
-16,Super Hang-On,Official,21,3,local,2,"Super Hang-On (Europe) (En,Ja) (Rev A),Super Hang-On (Japan, USA) (En,Ja)",4,"Super Hang-On (Europe) (En,Ja) (Rev A),Super Hang-On (Japan, USA) (En,Ja)",0,
-17,NHLPA Hockey 93,Official,31,2,local,2,"NHLPA Hockey 93 (USA, Europe) (Rev 1),NHLPA Hockey 93 (USA, Europe)",4,"NHLPA Hockey 93 (USA, Europe) (Rev 1),NHLPA Hockey 93 (USA, Europe)",0,
-18,Golden Axe,Official,24,4,local,2,"Golden Axe (World),Golden Axe (World) (Rev A)",4,"Golden Axe (World),Golden Axe (World) (Rev A)",0,
-19,Ghostbusters,Official,58,2,local,2,"Ghostbusters (Japan) (En,Ja),Ghostbusters (USA, Europe) (En,Ja)",4,"Ghostbusters (Japan) (En,Ja),Ghostbusters (USA, Europe) (En,Ja)",0,
-20,Alex Kidd in the Enchanted Castle,Official,66,3,local,3,"Alex Kidd - Cheongong Maseong (Korea),Alex Kidd in the Enchanted Castle (USA),Alex Kidd in the Enchanted Castle (Europe)",6,"Alex Kidd - Cheongong Maseong (Korea),Alex Kidd in the Enchanted Castle (USA),Alex Kidd in the Enchanted Castle (Europe)",0,
-21,Sonic the Hedgehog 3,Official,29,3,local,2,"Sonic 3 (Europe),Sonic The Hedgehog 3 (USA)",4,"Sonic 3 (Europe),Sonic The Hedgehog 3 (USA)",0,
-22,ToeJam & Earl,Official,56,4,local,2,"ToeJam & Earl (USA, Europe, Korea) (En),ToeJam & Earl (Japan, Europe) (En) (Rev A)",4,"ToeJam & Earl (USA, Europe, Korea) (En),ToeJam & Earl (Japan, Europe) (En) (Rev A)",0,
-23,Chakan: The Forever Man,Official,41,1,local,1,"Chakan (USA, Europe)",2,"Chakan (USA, Europe)",0,
-24,Altered Beast,Official,26,5,local,3,"Altered Beast (Japan, USA) (En) (Rev 1),Altered Beast (USA, Europe) (Rev 2),Juuouki (Japan) (En)",6,"Altered Beast (Japan, USA) (En) (Rev 1),Altered Beast (USA, Europe) (Rev 2),Juuouki (Japan) (En)",0,
-25,Vectorman,Official,47,2,local,1,"Vectorman (USA, Europe)",2,"Vectorman (USA, Europe)",0,
-26,Cool Spot,Official,40,2,local,2,"Cool Spot (USA),Cool Spot (Europe)",4,"Cool Spot (USA),Cool Spot (Europe)",0,
-28,Batman Forever,Official,66,1,local,1,Batman Forever (World),2,Batman Forever (World),0,
-29,James Pond II - Codename: RoboCod,Official,27,1,local,1,"James Pond II - Codename - Robocod (USA, Europe)",2,"James Pond II - Codename - Robocod (USA, Europe)",0,
-31,Fantastic Dizzy,Official,31,2,local,1,"Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)",2,"Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)",0,
-34,Rocket Knight Adventures,Official,36,4,local,3,"Rocket Knight Adventures (Japan) (En),Rocket Knight Adventures (Europe),Rocket Knight Adventures (USA)",6,"Rocket Knight Adventures (Japan) (En),Rocket Knight Adventures (Europe),Rocket Knight Adventures (USA)",0,
-35,Speedball 2: Brutal Deluxe,Official,22,1,local,1,Speedball 2 - Brutal Deluxe (USA),2,Speedball 2 - Brutal Deluxe (USA),0,
-36,~Unlicensed~ Double Dragon,Unlicensed,15,1,local,1,"Double Dragon (USA, Europe) (Unl)",2,"Double Dragon (USA, Europe) (Unl)",0,
-39,Alisia Dragoon,Official,39,2,local,2,"Alisia Dragoon (USA),Alisia Dragoon (Japan)",4,"Alisia Dragoon (USA),Alisia Dragoon (Japan)",0,
-40,World of Illusion starring Mickey Mouse and Donald Duck,Official,36,3,local,2,"World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En),World of Illusion Starring Mickey Mouse and Donald Duck (Europe)",4,"World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En),World of Illusion Starring Mickey Mouse and Donald Duck (Europe)",0,
-41,Tiny Toon Adventures: ACME All-Stars,Official,39,2,local,2,"Tiny Toon Adventures - ACME All-Stars (USA, Korea) (En),Tiny Toon Adventures - ACME All-Stars (Europe) (En,Fr,De)",4,"Tiny Toon Adventures - ACME All-Stars (USA, Korea) (En),Tiny Toon Adventures - ACME All-Stars (Europe) (En,Fr,De)",0,
-42,Tiny Toon Adventures: Buster's Hidden Treasure,Official,98,2,local,1,Tiny Toon Adventures - Buster's Hidden Treasure (USA),2,Tiny Toon Adventures - Buster's Hidden Treasure (USA),0,
-44,Air Buster,Official,17,1,local,1,Air Buster (USA),2,Air Buster (USA),0,
-45,Batman: The Video Game,Official,17,3,local,2,"Batman - The Video Game (USA),Batman (Europe)",4,"Batman - The Video Game (USA),Batman (Europe)",0,
-46,Atomic Runner,Official,33,2,local,2,"Atomic Runner (USA),Atomic Runner (Europe)",4,"Atomic Runner (USA),Atomic Runner (Europe)",0,
-47,California Games,Official,29,2,local,1,"California Games (USA, Europe)",2,"California Games (USA, Europe)",0,
-50,Phantasy Star IV: The End of the Millennium,Official,93,15,local,3,"Phantasy Star IV (Europe),Phantasy Star IV (USA),Phantasy Star IV (USA) (Mega Drive Mini, Genesis Mini)",6,"Phantasy Star IV (Europe),Phantasy Star IV (USA),Phantasy Star IV (USA) (Mega Drive Mini, Genesis Mini)",0,
-51,Bubsy in Claws Encounters of the Furred Kind,Official,20,1,local,1,"Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)",2,"Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)",0,
-52,Super Street Fighter II: The New Challengers,Official,24,6,local,3,"Super Street Fighter II (Europe),Super Street Fighter II (USA),Super Street Fighter II - The New Challengers (Japan)",6,"Super Street Fighter II (Europe),Super Street Fighter II (USA),Super Street Fighter II - The New Challengers (Japan)",0,
-53,Comix Zone,Official,41,11,local,4,"Comix Zone (USA) (Sega Smash Pack 2),Comix Zone (USA),Comix Zone (Europe) (En,Fr,De,Es),Comix Zone (Japan) (En,Ja)",8,"Comix Zone (USA) (Sega Smash Pack 2),Comix Zone (USA),Comix Zone (Europe) (En,Fr,De,Es),Comix Zone (Japan) (En,Ja)",0,
-54,Streets of Rage 3,Official,48,5,local,2,"Streets of Rage 3 (USA),Streets of Rage 3 (Asia) (En)",4,"Streets of Rage 3 (USA),Streets of Rage 3 (Asia) (En)",0,
-55,Streets of Rage,Official,53,5,local,2,"Streets of Rage (World) (En,Ja),Streets of Rage (World) (En,Ja) (Rev A)",4,"Streets of Rage (World) (En,Ja),Streets of Rage (World) (En,Ja) (Rev A)",0,
-59,Flicky,Official,20,1,local,1,"Flicky (USA, Europe)",2,"Flicky (USA, Europe)",0,
-60,Mortal Kombat II,Official,35,2,local,1,Mortal Kombat II (World),2,Mortal Kombat II (World),0,
-62,OutRun,Official,31,2,local,2,"OutRun (USA, Europe),OutRun (Japan) (En)",4,"OutRun (USA, Europe),OutRun (Japan) (En)",0,
-63,Animaniacs,Official,36,2,local,1,Animaniacs (USA),2,Animaniacs (USA),0,
-64,Shinobi III: Return of the Ninja Master,Official,49,5,local,3,"Shinobi III - Return of the Ninja Master (Europe),Shinobi III - Return of the Ninja Master (USA),Super Shinobi II, The (Japan, Korea) (Ja)",6,"Shinobi III - Return of the Ninja Master (Europe),Shinobi III - Return of the Ninja Master (USA),Super Shinobi II, The (Japan, Korea) (Ja)",0,
-65,Shining Force,Official,70,2,local,1,Shining Force (USA),2,Shining Force (USA),1,Shining Force (USA)
-66,Splatterhouse 2,Official,26,1,local,1,Splatterhouse 2 (USA),2,Splatterhouse 2 (USA),0,
-67,Splatterhouse 3,Official,32,3,local,2,"Splatterhouse Part 3 (Japan, Korea) (En),Splatterhouse 3 (USA)",4,"Splatterhouse Part 3 (Japan, Korea) (En),Splatterhouse 3 (USA)",0,
-68,Kid Chameleon,Official,65,1,local,1,"Kid Chameleon (USA, Europe)",2,"Kid Chameleon (USA, Europe)",0,
-69,Castlevania: Bloodlines,Official,54,1,local,1,Castlevania - Bloodlines (USA),2,Castlevania - Bloodlines (USA),0,
-70,Ultimate Mortal Kombat 3,Official,43,2,local,2,"Ultimate Mortal Kombat 3 (Europe),Ultimate Mortal Kombat 3 (USA)",4,"Ultimate Mortal Kombat 3 (Europe),Ultimate Mortal Kombat 3 (USA)",0,
-73,Samurai Shodown,Official,17,2,local,1,Samurai Shodown (USA),2,Samurai Shodown (USA),0,
-74,Top Gear 2,Official,68,1,local,1,Top Gear 2 (USA),2,Top Gear 2 (USA),0,
-75,Shining Force II,Official,98,6,local,2,"Shining Force II (USA),Shining Force II (Europe)",4,"Shining Force II (USA),Shining Force II (Europe)",0,
-76,International Superstar Soccer Deluxe,Official,77,1,local,1,"International Superstar Soccer Deluxe (Europe, Brazil) (En)",2,"International Superstar Soccer Deluxe (Europe, Brazil) (En)",0,
-77,Mortal Kombat 3,Official,49,1,local,1,Mortal Kombat 3 (USA),2,Mortal Kombat 3 (USA),0,
-79,Mortal Kombat,Official,39,4,local,1,Mortal Kombat (World),2,Mortal Kombat (World),0,
-80,X-Men 2: Clone Wars,Official,42,2,local,1,"X-Men 2 - Clone Wars (USA, Europe)",2,"X-Men 2 - Clone Wars (USA, Europe)",0,
-81,Space Harrier II,Official,30,1,local,1,Space Harrier II (World),2,Space Harrier II (World),0,
-82,Road Rash,Official,24,1,local,1,"Road Rash (USA, Europe)",2,"Road Rash (USA, Europe)",0,
-83,Ristar,Official,29,4,local,3,"Ristar - The Shooting Star (Japan, Korea) (En),Ristar (USA, Europe) (Beta),Ristar (USA, Europe)",6,"Ristar - The Shooting Star (Japan, Korea) (En),Ristar (USA, Europe) (Beta),Ristar (USA, Europe)",0,
-84,Shaq-Fu,Official,52,1,local,1,"Shaq-Fu (USA, Europe)",2,"Shaq-Fu (USA, Europe)",0,
-87,Golden Axe II,Official,32,4,local,1,Golden Axe II (World),2,Golden Axe II (World),0,
-88,Golden Axe III,Official,31,3,local,2,"Golden Axe III (Japan) (En),Golden Axe III (Europe) (Virtual Console)",4,"Golden Axe III (Japan) (En),Golden Axe III (Europe) (Virtual Console)",0,
-90,Mickey's Ultimate Challenge,Official,17,1,local,1,Mickey's Ultimate Challenge (USA),2,Mickey's Ultimate Challenge (USA),0,
-92,Virtua Fighter 2,Official,18,2,local,2,"Virtua Fighter 2 (USA, Europe),Virtua Fighter 2 (Korea) (En)",4,"Virtua Fighter 2 (USA, Europe),Virtua Fighter 2 (Korea) (En)",0,
-93,The Lion King,Official,24,1,local,1,"Lion King, The (World)",2,"Lion King, The (World)",0,
-94,The Revenge of Shinobi,Official,44,3,local,3,"Revenge of Shinobi, The (USA, Europe) (Rev A),Revenge of Shinobi, The (USA, Europe),Revenge of Shinobi, The (Japan, USA) (En)",6,"Revenge of Shinobi, The (USA, Europe) (Rev A),Revenge of Shinobi, The (USA, Europe),Revenge of Shinobi, The (Japan, USA) (En)",0,
-96,El Viento,Official,17,2,local,1,El.Viento (USA),2,El.Viento (USA),0,
-98,Shadow Dancer: The Secret of Shinobi,Official,19,2,local,1,Shadow Dancer - The Secret of Shinobi (World),2,Shadow Dancer - The Secret of Shinobi (World),0,
-99,Fatal Labyrinth,Official,89,3,local,2,"Shi no Meikyuu - Labyrinth of Death (Japan) (Sega Game Toshokan),Fatal Labyrinth (USA, Europe) (En,Ja)",4,"Shi no Meikyuu - Labyrinth of Death (Japan) (Sega Game Toshokan),Fatal Labyrinth (USA, Europe) (En,Ja)",0,
-102,X-Men,Official,32,2,local,2,"X-Men (Europe),X-Men (USA)",4,"X-Men (Europe),X-Men (USA)",0,
-103,Ayrton Senna's Super Monaco GP II,Official,53,1,local,1,"Ayrton Senna's Super Monaco GP II (USA) (En,Ja)",2,"Ayrton Senna's Super Monaco GP II (USA) (En,Ja)",0,
-105,Jurassic Park,Official,42,1,local,1,Jurassic Park (USA),2,Jurassic Park (USA),0,
-107,Earnest Evans,Official,21,1,local,1,Earnest Evans (USA),2,Earnest Evans (USA),0,
-109,After Burner II,Official,25,2,local,1,"After Burner II (USA, Europe)",2,"After Burner II (USA, Europe)",0,
-110,Sunset Riders,Official,15,3,local,2,"Sunset Riders (USA),Sunset Riders (Europe)",4,"Sunset Riders (USA),Sunset Riders (Europe)",0,
-111,Super Monaco GP,Official,29,3,local,2,"Super Monaco GP (USA) (En,Ja) (Sega Classic),Super Monaco GP (World) (En,Ja)",4,"Super Monaco GP (USA) (En,Ja) (Sega Classic),Super Monaco GP (World) (En,Ja)",0,
-113,Hellfire,Official,23,2,local,2,"Hellfire (Europe),Hellfire (USA)",4,"Hellfire (Europe),Hellfire (USA)",0,
-114,Raiden Densetsu: Raiden Trad,Official,85,1,local,1,"Raiden Trad (Japan, USA) (En)",2,"Raiden Trad (Japan, USA) (En)",0,
-116,Mega Man: The Wily Wars,Official,214,4,local,2,"Mega Man - The Wily Wars (USA) (Mega Drive Mini, Genesis Mini),Mega Man - The Wily Wars (Europe)",4,"Mega Man - The Wily Wars (USA) (Mega Drive Mini, Genesis Mini),Mega Man - The Wily Wars (Europe)",0,
-118,Scooby-Doo Mystery,Official,30,2,local,1,Scooby-Doo Mystery (USA),2,Scooby-Doo Mystery (USA),0,
-119,Road Rash II,Official,50,4,local,3,"Road Rash II (USA, Europe) (Rev 1),Road Rash II (Japan),Road Rash II (USA, Europe)",6,"Road Rash II (USA, Europe) (Rev 1),Road Rash II (Japan),Road Rash II (USA, Europe)",0,
-120,Contra: Hard Corps,Official,80,2,local,1,"Contra - Hard Corps (USA, Korea) (En)",2,"Contra - Hard Corps (USA, Korea) (En)",0,
-121,Desert Demolition Starring Road Runner and Wile E. Coyote,Official,47,1,local,1,"Desert Demolition Starring Road Runner and Wile E. Coyote (USA, Europe)",2,"Desert Demolition Starring Road Runner and Wile E. Coyote (USA, Europe)",0,
-123,Pepenga Pengo,Official,58,1,local,1,Pepenga Pengo (Japan) (En),2,Pepenga Pengo (Japan) (En),0,
-124,Beavis and Butt-Head,Official,18,1,local,1,Beavis and Butt-Head (USA),2,Beavis and Butt-Head (USA),0,
-125,Show do Milhão,Official,21,1,local,1,Show do Milhao (Brazil),2,Show do Milhao (Brazil),0,
-126,Show do Milhão: Volume 2,Official,14,1,local,1,Show do Milhao - Volume 2 (Brazil),2,Show do Milhao - Volume 2 (Brazil),0,
-127,Aaahh!!! Real Monsters,Official,39,1,local,1,Aaahh!!! Real Monsters (USA),2,Aaahh!!! Real Monsters (USA),0,
-128,Pit-Fighter,Official,14,1,local,1,"Pit-Fighter (World) (En,Ja) (Beta)",2,"Pit-Fighter (World) (En,Ja) (Beta)",0,
-129,Duke Nukem 3D,Official,17,1,local,1,Duke Nukem 3D (Brazil) (En),2,Duke Nukem 3D (Brazil) (En),0,
-134,Astérix and the Great Rescue,Official,62,1,local,1,Asterix and the Great Rescue (USA),2,Asterix and the Great Rescue (USA),0,
-136,Out of This World | Another World,Official,21,1,local,1,Out of This World (USA),2,Out of This World (USA),0,
-137,Battletoads,Official,33,2,local,1,Battletoads (World),2,Battletoads (World),0,
-138,Where in the World is Carmen Sandiego?,Official,10,1,local,1,"Where in the World Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It)",2,"Where in the World Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It)",0,
-140,Wonder Boy in Monster World,Official,49,4,local,2,"Wonder Boy in Monster World (USA, Europe),Turma da Monica na Terra dos Monstros (Brazil)",4,"Wonder Boy in Monster World (USA, Europe),Turma da Monica na Terra dos Monstros (Brazil)",0,
-142,Fatal Fury 2,Official,40,1,local,1,"Fatal Fury 2 (USA, Korea) (En)",2,"Fatal Fury 2 (USA, Korea) (En)",0,
-143,Beyond Oasis,Official,33,4,local,2,"Story of Thor, The (Spain),Beyond Oasis (USA)",4,"Story of Thor, The (Spain),Beyond Oasis (USA)",0,
-145,Columns,Official,24,2,local,2,"Columns (Japan) (En),Columns (USA, Europe)",4,"Columns (Japan) (En),Columns (USA, Europe)",0,
-148,Mighty Morphin Power Rangers: The Movie,Official,23,1,local,1,Mighty Morphin Power Rangers - The Movie (USA),2,Mighty Morphin Power Rangers - The Movie (USA),0,
-150,Strider Returns: Journey from Darkness,Official,16,2,local,2,"Strider II (Europe),Journey from Darkness - Strider Returns (USA)",4,"Strider II (Europe),Journey from Darkness - Strider Returns (USA)",0,
-153,Back to the Future: Part III,Official,9,1,local,1,Back to the Future Part III (USA),2,Back to the Future Part III (USA),0,
-154,Doom Troopers,Official,35,2,local,1,Doom Troopers (USA),2,Doom Troopers (USA),0,
-156,Boogerman: A Pick and Flick Adventure,Official,30,1,local,1,Boogerman - A Pick and Flick Adventure (USA),2,Boogerman - A Pick and Flick Adventure (USA),0,
-157,Double Dragon 3: The Arcade Game,Official,12,1,local,1,"Double Dragon 3 - The Arcade Game (USA, Europe)",2,"Double Dragon 3 - The Arcade Game (USA, Europe)",0,
-158,Dragon Ball Z: Buyuu Retsuden,Official,29,2,local,2,"Dragon Ball Z - L'Appel du Destin (France),Dragon Ball Z - Buyuu Retsuden (Japan)",4,"Dragon Ball Z - L'Appel du Destin (France),Dragon Ball Z - Buyuu Retsuden (Japan)",0,
-159,B.O.B.,Official,36,1,local,1,"B.O.B. (USA, Europe)",2,"B.O.B. (USA, Europe)",0,
-160,Mutant League Hockey,Official,40,1,local,1,"Mutant League Hockey (USA, Europe)",2,"Mutant League Hockey (USA, Europe)",0,
-162,NBA Jam,Official,35,1,local,1,"NBA Jam (USA, Europe) (Rev 1)",2,"NBA Jam (USA, Europe) (Rev 1)",0,
-164,Pyramid Magic,Official,15,1,local,1,Pyramid Magic (Japan) (Sega Game Toshokan),2,Pyramid Magic (Japan) (Sega Game Toshokan),0,
-165,Flashback: The Quest for Identity,Official,39,3,local,2,"Flashback - The Quest for Identity (USA) (En,Fr),Flashback (Europe) (En,Fr)",4,"Flashback - The Quest for Identity (USA) (En,Fr),Flashback (Europe) (En,Fr)",0,
-166,Road Rash 3: Tour de Force,Official,22,1,local,1,"Road Rash 3 (USA, Europe)",2,"Road Rash 3 (USA, Europe)",0,
-168,The Adventures of Batman & Robin,Official,13,1,local,1,"Adventures of Batman & Robin, The (USA)",2,"Adventures of Batman & Robin, The (USA)",0,
-169,Sonic & Knuckles,Official,20,1,local,1,Sonic & Knuckles (World),2,Sonic & Knuckles (World),0,
-170,Columns III: Revenge of Columns,Official,45,1,local,1,Columns III (USA),2,Columns III (USA),0,
-173,Fatal Fury,Official,23,1,local,1,Fatal Fury (USA),2,Fatal Fury (USA),0,
-175,Fantasia,Official,16,1,local,1,"Fantasia (USA, Europe)",2,"Fantasia (USA, Europe)",0,
-176,Marble Madness,Official,19,1,local,1,"Marble Madness (USA, Europe)",2,"Marble Madness (USA, Europe)",0,
-177,Paperboy,Official,9,1,local,1,"Paperboy (USA, Europe)",2,"Paperboy (USA, Europe)",0,
-178,Mighty Morphin Power Rangers,Official,53,1,local,1,Mighty Morphin Power Rangers (USA),2,Mighty Morphin Power Rangers (USA),0,
-180,Battletoads and Double Dragon: The Ultimate Team,Official,21,2,local,1,Battletoads-Double Dragon (USA),2,Battletoads-Double Dragon (USA),0,
-181,FIFA Soccer 95,Official,32,1,local,1,"FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es)",2,"FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es)",0,
-184,Art of Fighting,Official,35,3,local,3,"Ryuuko no Ken (Japan),Art of Fighting (USA),Art of Fighting (Europe)",6,"Ryuuko no Ken (Japan),Art of Fighting (USA),Art of Fighting (Europe)",0,
-188,Eternal Champions,Official,43,1,local,1,Eternal Champions (USA),2,Eternal Champions (USA),0,
-191,Crystal's Pony Tale,Official,33,1,local,1,Crystal's Pony Tale (USA),2,Crystal's Pony Tale (USA),0,
-192,Shining in the Darkness,Official,18,1,local,1,"Shining in the Darkness (USA, Europe)",2,"Shining in the Darkness (USA, Europe)",0,
-194,James Bond 007: The Duel,Official,15,1,local,1,James Bond 007 - The Duel (USA),2,James Bond 007 - The Duel (USA),0,
-203,Toy Story,Official,32,1,local,1,Toy Story (USA),2,Toy Story (USA),0,
-205,~Hack~ Sonic the Hedgehog: Megamix,Hack,18,2,unmatched,0,,0,,0,
-207,Light Crusader,Official,44,1,unmatched,0,,0,,0,
-209,Dr. Robotnik's Mean Bean Machine,Official,34,3,local,2,"Dr. Robotnik's Mean Bean Machine (USA),Dr. Robotnik's Mean Bean Machine (Europe)",4,"Dr. Robotnik's Mean Bean Machine (USA),Dr. Robotnik's Mean Bean Machine (Europe)",0,
-211,Alien Storm,Official,12,1,local,1,Alien Storm (World),2,Alien Storm (World),0,
-212,Ghouls 'n Ghosts,Official,23,2,local,2,"Ghouls'n Ghosts (Japan, USA) (En,Ja),Ghouls'n Ghosts (World) (En,Ja) (Rev A)",4,"Ghouls'n Ghosts (Japan, USA) (En,Ja),Ghouls'n Ghosts (World) (En,Ja) (Rev A)",0,
-216,Bubsy II,Official,60,1,local,1,"Bubsy II (USA, Europe)",2,"Bubsy II (USA, Europe)",0,
-218,QuackShot starring Donald Duck,Official,31,4,local,2,"QuackShot Starring Donald Duck (World) (En,Ja),QuackShot Starring Donald Duck (World) (En,Ja) (Rev A)",4,"QuackShot Starring Donald Duck (World) (En,Ja),QuackShot Starring Donald Duck (World) (En,Ja) (Rev A)",0,
-219,Phantom 2040,Official,28,1,local,1,Phantom 2040 (USA),2,Phantom 2040 (USA),0,
-221,Dynamite Headdy,Official,39,1,local,1,"Dynamite Headdy (USA, Europe)",2,"Dynamite Headdy (USA, Europe)",0,
-222,The Simpsons: Bart vs. the Space Mutants,Official,22,1,local,1,"Simpsons, The - Bart vs. the Space Mutants (USA, Europe) (Rev A)",2,"Simpsons, The - Bart vs. the Space Mutants (USA, Europe) (Rev A)",0,
-223,Beauty and the Beast: Roar of the Beast,Official,30,1,local,1,Beauty and the Beast - Roar of the Beast (USA),2,Beauty and the Beast - Roar of the Beast (USA),0,
-224,Olympic Gold: Barcelona '92,Official,23,1,local,1,"Olympic Gold (Japan, USA, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev A)",2,"Olympic Gold (Japan, USA, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev A)",0,
-225,Turbo OutRun,Official,24,1,local,1,"Turbo OutRun (Japan, Europe) (En)",2,"Turbo OutRun (Japan, Europe) (En)",0,
-226,Arrow Flash,Official,20,1,local,1,Arrow Flash (USA),2,Arrow Flash (USA),0,
-230,Phelios,Official,50,1,local,1,Phelios (USA),2,Phelios (USA),0,
-231,~Hack~ Sonic Winter Adventures,Hack,29,1,unmatched,0,,0,,0,
-233,Taz-Mania,Official,38,1,local,1,Taz-Mania (World),2,Taz-Mania (World),0,
-239,~Hack~ Pana der Hejhog,Hack,14,1,unmatched,0,,0,,0,
-240,Truxton,Official,31,1,local,1,Truxton (World),2,Truxton (World),0,
-250,Strider,Official,13,1,local,1,"Strider (USA, Europe)",2,"Strider (USA, Europe)",0,
-256,Krusty's Super Fun House,Official,75,1,local,1,"Krusty's Super Fun House (USA, Europe) (Rev A)",2,"Krusty's Super Fun House (USA, Europe) (Rev A)",0,
-257,Prince of Persia,Official,46,3,local,1,Prince of Persia (USA),2,Prince of Persia (USA),0,
-258,Dick Tracy,Official,64,1,local,1,Dick Tracy (World),2,Dick Tracy (World),0,
-262,Wonder Boy III: Monster Lair,Official,29,1,local,1,"Wonder Boy III - Monster Lair (Japan, Europe) (En)",2,"Wonder Boy III - Monster Lair (Japan, Europe) (En)",0,
-263,Michael Jackson's Moonwalker,Official,50,8,local,2,"Michael Jackson's Moonwalker (World) (Rev A),Michael Jackson's Moonwalker (Japan, USA) (En)",4,"Michael Jackson's Moonwalker (World) (Rev A),Michael Jackson's Moonwalker (Japan, USA) (En)",0,
-265,Two Crude Dudes,Official,18,1,local,1,Two Crude Dudes (Europe),2,Two Crude Dudes (Europe),0,
-272,Marvel Land,Official,32,1,local,1,Marvel Land (USA),2,Marvel Land (USA),0,
-276,Street Smart,Official,21,1,local,1,"Street Smart (Japan, USA) (En)",2,"Street Smart (Japan, USA) (En)",0,
-277,~Unlicensed~ Action 52,Unlicensed,183,1,local,1,Action 52 (USA) (Unl),2,Action 52 (USA) (Unl),0,
-278,Cyborg Justice,Official,30,1,local,1,"Cyborg Justice (USA, Europe)",2,"Cyborg Justice (USA, Europe)",0,
-282,Teenage Mutant Ninja Turtles: The Hyperstone Heist,Official,25,6,local,3,"Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA),Teenage Mutant Ninja Turtles - Return of the Shredder (Japan),Teenage Mutant Hero Turtles - The Hyperstone Heist (Europe)",6,"Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA),Teenage Mutant Ninja Turtles - Return of the Shredder (Japan),Teenage Mutant Hero Turtles - The Hyperstone Heist (Europe)",0,
-287,Rambo III,Official,14,2,local,2,"Rambo III (Japan, USA) (En,Ja),Rambo III (USA, Europe, Korea) (En,Ja) (Rev A)",4,"Rambo III (Japan, USA) (En,Ja),Rambo III (USA, Europe, Korea) (En,Ja) (Rev A)",0,
-288,~Prototype~ Ninja Gaiden,Prototype,22,1,local,1,Ninja Gaiden (Japan) (En) (Proto),2,Ninja Gaiden (Japan) (En) (Proto),0,
-289,Last Battle,Official,30,2,local,2,"Last Battle (USA, Europe, Korea) (En),Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan)",4,"Last Battle (USA, Europe, Korea) (En),Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan)",0,
-290,Captain America and the Avengers,Official,11,3,local,1,Captain America and the Avengers (USA),2,Captain America and the Avengers (USA),0,
-293,Thunder Force IV,Official,36,3,local,3,"Thunder Force IV (Europe),Lightening Force - Quest for the Darkstar (USA),Thunder Force IV (Japan) (En)",6,"Thunder Force IV (Europe),Lightening Force - Quest for the Darkstar (USA),Thunder Force IV (Japan) (En)",0,
-294,Mega Turrican,Official,24,1,local,1,Mega Turrican (USA),2,Mega Turrican (USA),0,
-295,Bishoujo Senshi Sailor Moon,Official,13,2,local,1,Bishoujo Senshi Sailor Moon (Japan),2,Bishoujo Senshi Sailor Moon (Japan),0,
-298,FIFA International Soccer,Official,12,1,local,1,"FIFA International Soccer (USA, Europe) (En,Fr,De,Es)",2,"FIFA International Soccer (USA, Europe) (En,Fr,De,Es)",0,
-299,Double Dragon II: The Revenge,Official,13,1,local,1,Double Dragon II - The Revenge (Japan) (En),2,Double Dragon II - The Revenge (Japan) (En),0,
-301,~Unlicensed~ Pocket Monster,Unlicensed,16,1,local,1,Pikachu - Pocket Monster (Taiwan) (En) (Unl),2,Pikachu - Pocket Monster (Taiwan) (En) (Unl),0,
-302,ESWAT: City Under Siege,Official,42,2,local,2,"ESWAT - City under Siege (USA, Europe) (Rev A),Cyber Police - ESWAT (Japan) (En)",4,"ESWAT - City under Siege (USA, Europe) (Rev A),Cyber Police - ESWAT (Japan) (En)",0,
-303,Mercs,Official,22,1,local,1,"Mercs (World) (En,Ja)",2,"Mercs (World) (En,Ja)",0,
-305,Toki: Going Ape Spit,Official,29,1,local,1,"Toki - Going Ape Spit (USA, Europe)",2,"Toki - Going Ape Spit (USA, Europe)",0,
-310,Twinkle Tale,Official,41,1,unmatched,0,,0,,0,
-311,Gain Ground,Official,101,2,local,2,"Gain Ground (Japan) (En),Gain Ground (USA)",4,"Gain Ground (Japan) (En),Gain Ground (USA)",0,
-312,Galaxy Force II,Official,58,2,local,2,"Galaxy Force II (Japan) (En),Galaxy Force II (USA, Europe) (Rev B)",4,"Galaxy Force II (Japan) (En),Galaxy Force II (USA, Europe) (Rev B)",0,
-313,The Immortal,Official,19,1,local,1,"Immortal, The (USA, Europe)",2,"Immortal, The (USA, Europe)",0,
-317,Rolling Thunder 2,Official,24,2,local,2,"Rolling Thunder 2 (USA),Rolling Thunder 2 (Europe)",4,"Rolling Thunder 2 (USA),Rolling Thunder 2 (Europe)",0,
-324,Street Racer,Official,18,1,local,1,Street Racer (Europe),2,Street Racer (Europe),0,
-326,Sonic 3D Blast,Official,85,1,local,1,"Sonic 3D Blast (USA, Europe, Korea) (En)",2,"Sonic 3D Blast (USA, Europe, Korea) (En)",0,
-328,Rainbow Islands: The Story of Bubble Bobble 2 - Extra Version,Official,8,1,local,1,Rainbow Islands Extra (Japan) (En),2,Rainbow Islands Extra (Japan) (En),0,
-330,Wings of Wor,Official,29,3,local,3,"Wings of Wor (USA),Gynoug (Europe),Gynoug (Japan) (En)",6,"Wings of Wor (USA),Gynoug (Europe),Gynoug (Japan) (En)",0,
-335,Wolverine: Adamantium Rage,Official,22,1,local,1,"Wolverine - Adamantium Rage (USA, Europe)",2,"Wolverine - Adamantium Rage (USA, Europe)",0,
-338,DJ Boy,Official,17,1,local,1,DJ Boy (USA),2,DJ Boy (USA),0,
-349,Spider-Man & Venom: Maximum Carnage,Official,29,1,local,1,Spider-Man - Venom - Maximum Carnage (World),2,Spider-Man - Venom - Maximum Carnage (World),0,
-356,Dragon: The Bruce Lee Story,Official,11,2,local,2,"Dragon - The Bruce Lee Story (USA),Dragon - The Bruce Lee Story (Europe)",4,"Dragon - The Bruce Lee Story (USA),Dragon - The Bruce Lee Story (Europe)",0,
-402,Thunder Force II,Official,50,2,local,2,"Thunder Force II (USA, Europe),Thunder Force II MD (Japan) (En)",4,"Thunder Force II (USA, Europe),Thunder Force II MD (Japan) (En)",0,
-407,Zombies Ate My Neighbors,Official,45,2,local,2,"Zombies Ate My Neighbors (USA),Zombies (Europe)",4,"Zombies Ate My Neighbors (USA),Zombies (Europe)",0,
-408,Phantasy Star II: Text Adventures,Official,56,16,local,8,"Phantasy Star II - Anne's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Huey's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Shilka's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Amia's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Yushis's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Rudger's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Nei's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Kinds's Adventure (Japan) (Sega Game Toshokan)",16,"Phantasy Star II - Anne's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Huey's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Shilka's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Amia's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Yushis's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Rudger's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Nei's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Kinds's Adventure (Japan) (Sega Game Toshokan)",0,
-480,Alien Soldier,Official,40,4,local,3,"Alien Soldier (Europe),Alien Soldier (USA) (Virtual Console),Alien Soldier (Japan)",6,"Alien Soldier (Europe),Alien Soldier (USA) (Virtual Console),Alien Soldier (Japan)",0,
-485,Arcus Odyssey,Official,24,1,local,1,Arcus Odyssey (USA),2,Arcus Odyssey (USA),0,
-486,Ariel the Little Mermaid,Official,23,2,local,1,"Ariel - The Little Mermaid (USA, Europe)",2,"Ariel - The Little Mermaid (USA, Europe)",0,
-490,Atomic Robo-Kid,Official,33,1,local,1,Atomic Robo-Kid (USA),2,Atomic Robo-Kid (USA),0,
-491,ATP Tour Championship Tennis,Official,27,1,local,1,ATP Tour Championship Tennis (USA),2,ATP Tour Championship Tennis (USA),0,
-492,Awesome Possum Kicks Dr. Machino's Butt!,Official,11,1,local,1,Awesome Possum Kicks Dr. Machino's Butt (USA),2,Awesome Possum Kicks Dr. Machino's Butt (USA),0,
-494,Mega Bomberman,Official,40,2,local,2,"Mega Bomberman (USA),Mega Bomberman (Europe, Korea) (En)",4,"Mega Bomberman (USA),Mega Bomberman (Europe, Korea) (En)",0,
-501,DEcapAttack,Official,109,1,local,1,"DEcapAttack (USA, Europe, Korea) (En)",2,"DEcapAttack (USA, Europe, Korea) (En)",0,
-524,~Prototype~ Tetris,Prototype,21,1,local,1,Tetris (Japan) (En) (Mega 6),2,Tetris (Japan) (En) (Mega 6),0,
-536,Super Smash T.V.,Official,14,1,local,1,"Super Smash T.V. (USA, Europe)",2,"Super Smash T.V. (USA, Europe)",0,
-538,Double Dragon V: The Shadow Falls,Official,27,1,local,1,Double Dragon V - The Shadow Falls (USA),2,Double Dragon V - The Shadow Falls (USA),0,
-544,The Terminator,Official,17,2,local,1,"Terminator, The (USA)",2,"Terminator, The (USA)",0,
-556,Ranger-X,Official,20,2,local,2,"Ranger X (USA),Ranger X (Europe)",4,"Ranger X (USA),Ranger X (Europe)",0,
-561,Landstalker: The Treasures of King Nole,Official,50,18,local,11,"Landstalker (USA),Landstalker - Le Tresor du Roi Nole (France),Landstalker - Die Schatze von Konig Nolo (Germany),Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini, Genesis Mini),Landstalker - The Treasures of King Nole (Europe),Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini),Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini, Genesis Mini),Landstalker - Koutei no Zaihou (Japan),Landstalker (USA) (Mega Drive Mini, Genesis Mini),Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini, Genesis Mini),Landstalker (USA) (Sega Channel)",22,"Landstalker (USA),Landstalker - Le Tresor du Roi Nole (France),Landstalker - Die Schatze von Konig Nolo (Germany),Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini, Genesis Mini),Landstalker - The Treasures of King Nole (Europe),Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini),Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini, Genesis Mini),Landstalker - Koutei no Zaihou (Japan),Landstalker (USA) (Mega Drive Mini, Genesis Mini),Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini, Genesis Mini),Landstalker (USA) (Sega Channel)",0,
-565,~Hack~ Metal Sonic Hyperdrive,Hack,28,1,unmatched,0,,0,,0,
-571,Midnight Resistance,Official,27,1,local,1,Midnight Resistance (USA),2,Midnight Resistance (USA),0,
-574,The Punisher,Official,30,1,local,1,"Punisher, The (USA)",2,"Punisher, The (USA)",0,
-578,Mystic Defender,Official,9,2,local,2,"Mystic Defender (USA, Europe) (En,Ja),Mystic Defender (USA, Europe) (En,Ja) (Rev A)",4,"Mystic Defender (USA, Europe) (En,Ja),Mystic Defender (USA, Europe) (En,Ja) (Rev A)",0,
-583,Snow Bros.: Nick & Tom,Official,11,1,local,1,Snow Bros. - Nick & Tom (Japan) (En),2,Snow Bros. - Nick & Tom (Japan) (En),0,
-585,Herzog Zwei,Official,40,1,local,1,"Herzog Zwei (USA, Europe)",2,"Herzog Zwei (USA, Europe)",0,
-587,Zero Wing,Official,34,3,local,2,"Zero Wing (Europe),Zero Wing (Japan)",4,"Zero Wing (Europe),Zero Wing (Japan)",0,
-592,Thunder Fox,Official,14,1,local,1,Thunder Fox (USA),2,Thunder Fox (USA),0,
-599,Predator 2,Official,19,1,local,1,"Predator 2 (USA, Europe)",2,"Predator 2 (USA, Europe)",0,
-602,Virtua Racing,Official,25,2,local,2,"Virtua Racing (USA),Virtua Racing (Japan) (En)",4,"Virtua Racing (USA),Virtua Racing (Japan) (En)",0,
-603,Chiki Chiki Boys,Official,30,2,local,2,"Chiki Chiki Boys (USA, Europe),Chiki Chiki Boys (Japan, Korea) (Ja)",4,"Chiki Chiki Boys (USA, Europe),Chiki Chiki Boys (Japan, Korea) (Ja)",0,
-611,Ys III: Wanderers from Ys,Official,60,1,local,1,Ys III (USA),2,Ys III (USA),0,
-615,CrossFire,Official,24,1,local,1,CrossFire (USA),2,CrossFire (USA),0,
-618,The Great Circus Mystery Starring Mickey & Minnie,Official,45,1,local,1,"Great Circus Mystery Starring Mickey & Minnie, The (USA)",2,"Great Circus Mystery Starring Mickey & Minnie, The (USA)",0,
-619,Ultimate Qix,Official,49,2,local,2,"Ultimate QIX (USA),Volfied (Japan) (En)",4,"Ultimate QIX (USA),Volfied (Japan) (En)",0,
-621,Shadow Blasters,Official,52,1,local,1,Shadow Blasters (USA),2,Shadow Blasters (USA),0,
-622,Space Invaders '91,Official,22,1,local,1,Space Invaders '91 (USA),2,Space Invaders '91 (USA),0,
-644,M.U.S.H.A.: Metallic Uniframe Super Hybrid Armor,Official,30,2,local,2,"Musha Aleste (Japan),MUSHA - Metallic Uniframe Super Hybrid Armor (USA)",4,"Musha Aleste (Japan),MUSHA - Metallic Uniframe Super Hybrid Armor (USA)",0,
-649,The Tick,Official,37,1,local,1,"Tick, The (USA)",2,"Tick, The (USA)",0,
-650,PulseMan,Official,30,2,local,1,Pulseman (Japan),2,Pulseman (Japan),0,
-805,Ms. Pac-Man,Official,44,1,local,1,"Ms. Pac-Man (USA, Europe)",2,"Ms. Pac-Man (USA, Europe)",0,
-806,ToeJam & Earl in Panic on Funkotron,Official,62,1,local,1,ToeJam & Earl in Panic on Funkotron (USA),2,ToeJam & Earl in Panic on Funkotron (USA),0,
-807,Jurassic Park: Rampage Edition,Official,38,1,local,1,"Jurassic Park - Rampage Edition (USA, Europe)",2,"Jurassic Park - Rampage Edition (USA, Europe)",0,
-811,Target Earth,Official,45,1,local,1,Target Earth (USA),2,Target Earth (USA),0,
-817,Greendog: The Beached Surfer Dude!,Official,49,1,local,1,"Greendog - The Beached Surfer Dude! (USA, Europe)",2,"Greendog - The Beached Surfer Dude! (USA, Europe)",0,
-1352,TaleSpin,Official,34,1,local,1,"TaleSpin (USA, Europe)",2,"TaleSpin (USA, Europe)",0,
-1355,Zoom!,Official,74,1,local,1,Zoom! (World),2,Zoom! (World),0,
-1356,Blaster Master 2,Official,17,1,local,1,Blaster Master 2 (USA),2,Blaster Master 2 (USA),0,
-1358,Slap Fight MD,Official,29,1,local,1,Slap Fight MD (Japan) (En),2,Slap Fight MD (Japan) (En),0,
-1360,The Flintstones,Official,21,3,local,1,"Flintstones, The (USA) (Taito)",2,"Flintstones, The (USA) (Taito)",0,
-1373,RoboCop Versus The Terminator,Official,32,4,local,3,"RoboCop Versus The Terminator (Japan, Korea) (En),RoboCop Versus The Terminator (Europe),RoboCop Versus The Terminator (USA)",6,"RoboCop Versus The Terminator (Japan, Korea) (En),RoboCop Versus The Terminator (Europe),RoboCop Versus The Terminator (USA)",0,
-1404,Steel Empire,Official,26,1,local,1,Steel Empire (USA),2,Steel Empire (USA),0,
-1426,Burning Force,Official,40,1,local,1,Burning Force (USA),2,Burning Force (USA),0,
-1431,Puyo Puyo Tsuu,Official,25,1,local,1,Puyo Puyo Tsuu (Japan) (Rev A),2,Puyo Puyo Tsuu (Japan) (Rev A),0,
-1432,Monster World IV,Official,84,1,local,1,"Monster World IV (USA, Europe) (En,Ja) (Virtual Console)",2,"Monster World IV (USA, Europe) (En,Ja) (Virtual Console)",0,
-1435,Phantasy Star III: Generations of Doom,Official,55,1,local,1,"Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)",2,"Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)",0,
-1436,Phantasy Star II,Official,69,5,local,4,"Phantasy Star II (USA, Europe) (Rev A),Phantasy Star II (USA, Europe) (Rev A) (SEGA Classic Collection),Phantasy Star II (USA, Europe),Phantasy Star II (Brazil)",8,"Phantasy Star II (USA, Europe) (Rev A),Phantasy Star II (USA, Europe) (Rev A) (SEGA Classic Collection),Phantasy Star II (USA, Europe),Phantasy Star II (Brazil)",0,
-1437,Jungle Strike,Official,93,2,local,1,"Jungle Strike (USA, Europe)",2,"Jungle Strike (USA, Europe)",0,
-1438,Crusader of Centy,Official,79,9,local,5,"Soleil (France),Soleil (Europe),Crusader of Centy (USA),Soleil (Spain),Soleil (Germany)",10,"Soleil (France),Soleil (Europe),Crusader of Centy (USA),Soleil (Spain),Soleil (Germany)",0,
-1439,Daze Before Christmas,Official,27,1,local,1,Daze Before Christmas (Australia),2,Daze Before Christmas (Australia),0,
-1440,Ecco: The Tides of Time,Official,72,1,local,1,"Ecco - The Tides of Time (Europe) (En,Fr,De,Es)",2,"Ecco - The Tides of Time (Europe) (En,Fr,De,Es)",0,
-1443,Vectorman 2,Official,38,1,local,1,Vectorman 2 (USA),2,Vectorman 2 (USA),0,
-2125,Dark Castle,Official,18,1,local,1,"Dark Castle (USA, Europe)",2,"Dark Castle (USA, Europe)",0,
-2157,Warsong | Langrisser: The Descendants of Light,Official,69,1,local,1,Warsong (USA),2,Warsong (USA),0,
-2158,Fire Mustang,Official,27,1,local,1,Fire Mustang (Japan),2,Fire Mustang (Japan),0,
-2166,Thunder Force III,Official,28,2,local,1,"Thunder Force III (Japan, USA) (En)",2,"Thunder Force III (Japan, USA) (En)",0,
-2182,Earthworm Jim 2,Official,55,3,local,2,"Earthworm Jim 2 (USA),Earthworm Jim 2 (Europe)",4,"Earthworm Jim 2 (USA),Earthworm Jim 2 (Europe)",0,
-2185,Hard Drivin',Official,13,1,local,1,Hard Drivin' (World),2,Hard Drivin' (World),0,
-2186,Ecco Jr.,Official,33,1,local,1,"Ecco Jr. (USA, Australia)",2,"Ecco Jr. (USA, Australia)",0,
-2187,Jimmy White's Whirlwind Snooker,Official,24,1,local,1,Jimmy White's Whirlwind Snooker (Europe),2,Jimmy White's Whirlwind Snooker (Europe),0,
-2195,~Hack~ Mega Man X in Sonic the Hedgehog 2,Hack,42,1,unmatched,0,,0,,0,
-2235,~Hack~ Sonic the Hedgehog: Classic Heroes,Hack,42,3,unmatched,0,,0,,0,
-2263,Sub-Terrania,Official,31,1,local,1,Sub-Terrania (USA),2,Sub-Terrania (USA),0,
-2267,Fire Shark,Official,28,1,local,1,Fire Shark (USA),2,Fire Shark (USA),0,
-2268,Valis III,Official,43,1,local,1,Valis III (USA),2,Valis III (USA),0,
-2348,Super Fantasy Zone,Official,45,2,local,2,"Super Fantasy Zone (Europe),Super Fantasy Zone (Japan) (En,Ja)",4,"Super Fantasy Zone (Europe),Super Fantasy Zone (Japan) (En,Ja)",0,
-2364,Gargoyles,Official,37,1,local,1,Gargoyles (USA),2,Gargoyles (USA),0,
-2367,Valis,Official,51,2,local,1,Valis (USA),2,Valis (USA),0,
-2378,Demolition Man,Official,42,1,local,1,"Demolition Man (USA, Europe)",2,"Demolition Man (USA, Europe)",0,
-2382,The Death and Return of Superman,Official,21,1,local,1,"Death and Return of Superman, The (USA)",2,"Death and Return of Superman, The (USA)",0,
-2386,Teenage Mutant Ninja Turtles: Tournament Fighters,Official,80,1,local,1,Teenage Mutant Ninja Turtles - Tournament Fighters (USA),2,Teenage Mutant Ninja Turtles - Tournament Fighters (USA),0,
-2387,Urban Strike,Official,28,1,local,1,"Urban Strike (USA, Europe)",2,"Urban Strike (USA, Europe)",0,
-2392,Madou Monogatari I,Official,38,2,local,1,Madou Monogatari I (Japan),2,Madou Monogatari I (Japan),0,
-2394,~Prototype~ Time Trax,Prototype,23,1,local,1,Time Trax (USA) (Proto),2,Time Trax (USA) (Proto),0,
-2396,Blue Sphere,Official,23,1,local,1,"Sonic & Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-On)",2,"Sonic & Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-on Combination),Sonic & Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-On)",0,
-2399,Sparkster: Rocket Knight Adventures 2,Official,49,1,local,1,Sparkster (USA),2,Sparkster (USA),0,
-2400,T2: The Arcade Game,Official,39,1,local,1,"T2 - The Arcade Game (USA, Europe)",2,"T2 - The Arcade Game (USA, Europe)",0,
-2401,WeaponLord,Official,42,1,local,1,WeaponLord (USA),2,WeaponLord (USA),0,
-2413,Mazin Saga: Mutant Fighter,Official,38,2,local,2,"Mazin Saga (Japan, Korea) (Ja),Mazin Saga - Mutant Fighter (USA)",4,"Mazin Saga (Japan, Korea) (Ja),Mazin Saga - Mutant Fighter (USA)",0,
-2415,McDonald's Treasure Land Adventure,Official,27,1,local,1,McDonald's Treasure Land Adventure (USA),2,McDonald's Treasure Land Adventure (USA),0,
-2438,Dungeons & Dragons: Warriors of the Eternal Sun,Official,42,1,unmatched,0,,0,,0,
-2439,Gaiares,Official,29,2,local,1,"Gaiares (Japan, USA) (En)",2,"Gaiares (Japan, USA) (En)",0,
-2448,~Unlicensed~ Super Tank War,Unlicensed,24,2,local,1,Super Tank War (Taiwan) (En) (Unl),2,Super Tank War (Taiwan) (En) (Unl),1,Super Tank War (Taiwan) (En) (Unl)
-2449,James Pond: Underwater Agent,Official,22,1,local,1,"James Pond - Underwater Agent (USA, Europe)",2,"James Pond - Underwater Agent (USA, Europe)",0,
-2483,~Hack~ Big's Fishing Derby,Hack,14,1,unmatched,0,,0,,0,
-2516,Donald in Maui Mallard,Official,32,1,local,1,Donald in Maui Mallard (Europe) (Rev A),2,Donald in Maui Mallard (Europe) (Rev A),0,
-2545,Mickey Mania: The Timeless Adventures of Mickey Mouse,Official,20,3,local,2,"Mickey Mania - The Timeless Adventures of Mickey Mouse (USA),Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan)",4,"Mickey Mania - The Timeless Adventures of Mickey Mouse (USA),Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan)",0,
-2855,~Homebrew~ Telethugs,Homebrew,10,1,local,1,Telethugs (World) (Aftermarket) (Unl),2,Telethugs (World) (Aftermarket) (Unl),0,
-3108,Battle Mania Daiginjou,Official,33,2,local,1,"Battle Mania Daiginjou (Japan, Korea) (Ja)",2,"Battle Mania Daiginjou (Japan, Korea) (Ja)",0,
-3109,Super Thunder Blade,Official,21,1,local,1,Super Thunder Blade (World),2,Super Thunder Blade (World),0,
-3175,King's Bounty: The Conqueror's Quest,Official,33,1,local,1,"King's Bounty - The Conqueror's Quest (USA, Europe)",2,"King's Bounty - The Conqueror's Quest (USA, Europe)",0,
-3482,Zool: Ninja of the Nth Dimension,Official,75,1,local,1,Zool - Ninja of the 'Nth' Dimension (USA),2,Zool - Ninja of the 'Nth' Dimension (USA),0,
-3684,Advanced Busterhawk: Gley Lancer,Official,44,2,local,1,Advanced Busterhawk Gley Lancer (Japan),2,Advanced Busterhawk Gley Lancer (Japan),0,
-3714,Blades of Vengeance,Official,33,2,local,1,"Blades of Vengeance (USA, Europe)",2,"Blades of Vengeance (USA, Europe)",0,
-3815,Joe & Mac,Official,34,2,local,1,Joe & Mac (USA),2,Joe & Mac (USA),0,
-3824,Haunting Starring Polterguy,Official,55,1,local,1,"Haunting Starring Polterguy (USA, Europe)",2,"Haunting Starring Polterguy (USA, Europe)",0,
-4102,Aero the Acro-Bat,Official,85,1,local,1,Aero the Acro-Bat (USA),2,Aero the Acro-Bat (USA),0,
-4123,Bonanza Bros.,Official,27,1,local,1,"Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)",2,"Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)",0,
-4124,King Salmon: The Big Catch,Official,21,1,local,1,King Salmon - The Big Catch (USA),2,King Salmon - The Big Catch (USA),0,
-4139,Batman: Revenge of the Joker,Official,23,1,local,1,Batman - Revenge of the Joker (USA),2,Batman - Revenge of the Joker (USA),0,
-4140,Batman Returns,Official,23,1,local,1,Batman Returns (World),2,Batman Returns (World),0,
-4143,Superman: The Man of Steel,Official,18,1,local,1,Superman - The Man of Steel (Europe),2,Superman - The Man of Steel (Europe),0,
-4145,Saturday Night Slam Masters,Official,34,1,local,1,Saturday Night Slammasters (USA),2,Saturday Night Slammasters (USA),0,
-4148,The Jungle Book,Official,31,3,local,2,"Jungle Book, The (Europe),Jungle Book, The (USA)",4,"Jungle Book, The (Europe),Jungle Book, The (USA)",0,
-4155,~Hack~ Sonic's Fun and Easy Adventure,Hack,8,1,unmatched,0,,0,,0,
-4159,Battle Golfer Yui,Official,28,1,unmatched,0,,0,,0,
-4162,BattleTech: A Game of Armored Combat,Official,28,1,local,1,Battletech - A Game of Armored Combat (USA),2,Battletech - A Game of Armored Combat (USA),0,
-4164,Beauty and the Beast: Belle's Quest,Official,10,1,local,1,Beauty and the Beast - Belle's Quest (USA),2,Beauty and the Beast - Belle's Quest (USA),0,
-4169,Bio-Hazard Battle,Official,31,1,local,1,"Bio Hazard Battle (USA, Europe)",2,"Bio Hazard Battle (USA, Europe)",0,
-4174,Bonkers,Official,32,1,local,1,"Bonkers (USA, Europe)",2,"Bonkers (USA, Europe)",0,
-4175,Bram Stoker's Dracula,Official,35,2,local,2,"Bram Stoker's Dracula (Europe),Bram Stoker's Dracula (USA)",4,"Bram Stoker's Dracula (Europe),Bram Stoker's Dracula (USA)",0,
-4179,Master of Monsters,Official,160,1,local,1,Master of Monsters (USA),2,Master of Monsters (USA),0,
-4180,Bugs Bunny in Double Trouble,Official,30,1,local,1,Bugs Bunny in Double Trouble (USA),2,Bugs Bunny in Double Trouble (USA),0,
-4221,Daffy Duck in Hollywood,Official,22,1,local,1,"Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)",2,"Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)",0,
-4222,Dahna: Megami Tanjou,Official,18,4,local,1,Dahna - Megami Tanjou (Japan),2,Dahna - Megami Tanjou (Japan),0,
-4228,Devil Crash MD,Official,39,1,local,1,Devil Crash MD (Japan) (En),2,Devil Crash MD (Japan) (En),0,
-4229,Devilish: The Next Possession,Official,32,1,local,1,Devilish - The Next Possession (USA),2,Devilish - The Next Possession (USA),0,
-4230,Dino Land,Official,30,1,local,1,Dino Land (USA),2,Dino Land (USA),0,
-4231,Tom Mason's Dinosaurs for Hire,Official,17,1,local,1,Tom Mason's Dinosaurs for Hire (USA),2,Tom Mason's Dinosaurs for Hire (USA),0,
-4232,Ikasuze! Koi no Doki Doki Penguin Land MD,Official,15,1,local,1,Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (Sega Game Toshokan),2,Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (Sega Game Toshokan),0,
-4236,~Hack~ Amy Rose in Sonic the Hedgehog,Hack,20,1,unmatched,0,,0,,0,
-4237,Dragon's Revenge,Official,25,1,local,1,"Dragon's Revenge (USA, Europe)",2,"Dragon's Revenge (USA, Europe)",0,
-4239,DUNE: The Battle for Arrakis,Official,51,2,local,1,Dune - The Battle for Arrakis (USA),2,Dune - The Battle for Arrakis (USA),0,
-4247,Elemental Master,Official,45,2,local,2,"Elemental Master (Japan),Elemental Master (USA)",4,"Elemental Master (Japan),Elemental Master (USA)",0,
-4248,Eliminate Down,Official,32,1,local,1,Eliminate Down (Japan) (En),2,Eliminate Down (Japan) (En),0,
-4249,Taz in Escape From Mars,Official,20,2,local,2,"Taz in Escape from Mars (Europe),Taz in Escape from Mars (USA)",4,"Taz in Escape from Mars (Europe),Taz in Escape from Mars (USA)",0,
-4251,Exile,Official,24,1,local,1,Exile (USA),2,Exile (USA),0,
-4252,Ex-Mutants,Official,38,1,local,1,"Ex-Mutants (USA, Europe)",2,"Ex-Mutants (USA, Europe)",0,
-4264,Fighting Masters,Official,17,1,local,1,Fighting Masters (USA),2,Fighting Masters (USA),0,
-4265,Championship Bowling,Official,29,1,local,1,Championship Bowling (USA),2,Championship Bowling (USA),0,
-4266,The Great Waldo Search,Official,12,1,local,1,"Great Waldo Search, The (USA)",2,"Great Waldo Search, The (USA)",0,
-4267,Final Zone,Official,39,1,local,1,"Final Zone (Japan, USA) (En)",2,"Final Zone (Japan, USA) (En)",0,
-4269,Forgotten Worlds,Official,35,2,local,2,"Forgotten Worlds (World) (En,Ja) (Rev A),Forgotten Worlds (World) (En,Ja)",4,"Forgotten Worlds (World) (En,Ja) (Rev A),Forgotten Worlds (World) (En,Ja)",0,
-4270,Frogger,Official,21,1,local,1,Frogger (USA),2,Frogger (USA),0,
-4274,Garfield: Caught in the Act,Official,48,1,local,1,"Garfield - Caught in the Act (USA, Europe)",2,"Garfield - Caught in the Act (USA, Europe)",0,
-4275,Gauntlet IV,Official,35,2,local,2,"Gauntlet IV (USA, Europe) (En,Ja),Gauntlet (Japan) (En,Ja)",4,"Gauntlet IV (USA, Europe) (En,Ja),Gauntlet (Japan) (En,Ja)",0,
-4276,Gemfire,Official,63,1,local,1,Gemfire (USA),2,Gemfire (USA),0,
-4277,~Hack~ Knuckles' Emerald Hunt,Hack,19,1,unmatched,0,,0,,0,
-4285,Granada,Official,42,1,local,1,"Granada (Japan, USA) (En)",2,"Granada (Japan, USA) (En)",0,
-4288,Growl,Official,25,1,local,1,Growl (USA),2,Growl (USA),0,
-4291,High Seas Havoc,Official,27,1,local,1,"High Seas Havoc (USA) (En,Ja)",2,"High Seas Havoc (USA) (En,Ja)",0,
-4293,Home Alone,Official,27,1,local,1,"Home Alone (USA, Europe)",2,"Home Alone (USA, Europe)",0,
-4294,Home Alone 2: Lost in New York,Official,34,1,local,1,Home Alone 2 - Lost in New York (USA),2,Home Alone 2 - Lost in New York (USA),0,
-4295,Hook,Official,24,1,local,1,Hook (USA),2,Hook (USA),0,
-4305,Insector X,Official,14,1,local,1,Insector X (USA),2,Insector X (USA),0,
-4310,James Pond 3: Operation Starfish,Official,231,1,local,1,"James Pond 3 (USA, Europe)",2,"James Pond 3 (USA, Europe)",0,
-4313,Jewel Master,Official,29,2,local,2,"Jewel Master (USA, Europe),Jewel Master (Japan) (En)",4,"Jewel Master (USA, Europe),Jewel Master (Japan) (En)",0,
-4315,Judge Dredd,Official,45,1,local,1,Judge Dredd (World),2,Judge Dredd (World),0,
-4316,NBA Live 98,Official,39,1,local,1,NBA Live 98 (USA),2,NBA Live 98 (USA),0,
-4318,Junction,Official,60,1,local,1,"Junction (Japan, USA) (En)",2,"Junction (Japan, USA) (En)",0,
-4320,The Lost World: Jurassic Park,Official,64,1,local,1,"Lost World, The - Jurassic Park (USA, Europe)",2,"Lost World, The - Jurassic Park (USA, Europe)",0,
-4326,Tougiou King Colossus,Official,45,1,unmatched,0,,0,,0,
-4328,King of the Monsters 2,Official,23,1,local,1,King of the Monsters 2 (USA),2,King of the Monsters 2 (USA),0,
-4330,~Prototype~ Akira,Prototype,12,1,local,1,Akira (USA) (Proto),2,Akira (USA) (Proto),0,
-4331,~Unlicensed~ Whac-a-Critter | Mallet Legend,Unlicensed,8,1,local,1,Whac-a-Critter (USA) (Unl),2,Whac-a-Critter (USA) (Unl),0,
-4337,The Lawnmower Man,Official,59,1,local,1,"Lawnmower Man, The (USA, Europe)",2,"Lawnmower Man, The (USA, Europe)",0,
-4338,The Legend of Galahad,Official,31,1,local,1,"Legend of Galahad, The (USA, Europe)",2,"Legend of Galahad, The (USA, Europe)",0,
-4342,Lethal Enforcers II: Gun Fighters,Official,21,2,local,2,"Lethal Enforcers II - Gun Fighters (USA),Lethal Enforcers II - Gun Fighters (Europe)",4,"Lethal Enforcers II - Gun Fighters (USA),Lethal Enforcers II - Gun Fighters (Europe)",0,
-4345,Lord Monarch: Tokoton Sentou Densetsu,Official,31,2,local,1,Lord Monarch - Tokoton Sentou Densetsu (Japan),2,Lord Monarch - Tokoton Sentou Densetsu (Japan),0,
-4346,The Lost Vikings,Official,68,2,local,1,"Lost Vikings, The (USA)",2,"Lost Vikings, The (USA)",0,
-4347,Lotus Turbo Challenge,Official,20,1,local,1,"Lotus Turbo Challenge (USA, Europe)",2,"Lotus Turbo Challenge (USA, Europe)",0,
-4348,Dangerous Seed,Official,22,1,local,1,Dangerous Seed (Japan) (En),2,Dangerous Seed (Japan) (En),0,
-4349,The Magic School Bus: Space Exploration Game,Official,67,1,local,1,"Magic School Bus, The - Space Exploration Game (USA)",2,"Magic School Bus, The - Space Exploration Game (USA)",0,
-4356,Mick & Mack as the Global Gladiators,Official,43,1,local,1,Mick & Mack as the Global Gladiators (USA),2,Mick & Mack as the Global Gladiators (USA),0,
-4372,The Ooze,Official,27,1,local,1,"Ooze, The (Japan, USA) (En)",2,"Ooze, The (Japan, USA) (En)",0,
-4374,Ecco the Dolphin (Japan),Official,35,2,local,2,"Ecco the Dolphin (USA, Europe, Korea) (En) (Rev A) (Beta),Ecco the Dolphin (Japan)",4,"Ecco the Dolphin (USA, Europe, Korea) (En) (Rev A) (Beta),Ecco the Dolphin (Japan)",0,
-4377,OutRun 2019,Official,43,1,local,1,OutRun 2019 (USA),2,OutRun 2019 (USA),0,
-4378,Pac-Attack,Official,28,1,local,1,Pac-Attack (USA),2,Pac-Attack (USA),0,
-4381,The Pagemaster,Official,31,2,local,2,"Pagemaster, The (Europe),Pagemaster, The (USA)",4,"Pagemaster, The (Europe),Pagemaster, The (USA)",0,
-4382,Panorama Cotton,Official,65,2,local,1,Panorama Cotton (Japan),2,Panorama Cotton (Japan),0,
-4386,Pinocchio,Official,37,2,local,1,Pinocchio (Europe),2,Pinocchio (Europe),0,
-4387,The Pirates of Dark Water,Official,36,1,local,1,"Pirates of Dark Water, The (USA)",2,"Pirates of Dark Water, The (USA)",0,
-4389,Pitfall: The Mayan Adventure,Official,78,2,local,2,"Pitfall - The Mayan Adventure (USA),Pitfall - The Mayan Adventure (Europe)",4,"Pitfall - The Mayan Adventure (USA),Pitfall - The Mayan Adventure (Europe)",0,
-4390,Pocahontas,Official,10,1,local,1,Pocahontas (USA),2,Pocahontas (USA),0,
-4391,~Homebrew~ Yazzie,Homebrew,11,2,local,2,"Yazzie (World) (v1.1) (Evercade) (Aftermarket) (Unl),Yazzie (World) (Itch.io) (Aftermarket) (Unl)",4,"Yazzie (World) (v1.1) (Evercade) (Aftermarket) (Unl),Yazzie (World) (Itch.io) (Aftermarket) (Unl)",0,
-4395,Primal Rage,Official,40,1,local,1,"Primal Rage (USA, Europe)",2,"Primal Rage (USA, Europe)",0,
-4398,Puggsy,Official,52,2,local,1,Puggsy (USA),2,Puggsy (USA),0,
-4410,The Ren & Stimpy Show: Stimpy's Invention,Official,25,1,local,1,"Ren & Stimpy Show Presents, The - Stimpy's Invention (USA)",2,"Ren & Stimpy Show Presents, The - Stimpy's Invention (USA)",0,
-4414,Rings of Power,Official,103,1,unmatched,0,,0,,0,
-4418,Rock n' Roll Racing,Official,41,3,local,2,"Rock n' Roll Racing (USA),Rock 'n' Roll Racing (Europe)",4,"Rock n' Roll Racing (USA),Rock 'n' Roll Racing (Europe)",0,
-4420,Rolling Thunder 3,Official,69,1,local,1,Rolling Thunder 3 (USA),2,Rolling Thunder 3 (USA),0,
-4421,Rolo to the Rescue,Official,26,3,local,2,"Rolo to the Rescue (USA, Europe),Zou! Zou! Zou! Rescue Daisakusen (Japan) (En)",4,"Rolo to the Rescue (USA, Europe),Zou! Zou! Zou! Rescue Daisakusen (Japan) (En)",0,
-4424,Second Samurai,Official,33,1,local,1,Second Samurai (Europe),2,Second Samurai (Europe),0,
-4430,Shove It!,Official,80,1,local,1,Shove It! ...The Warehouse Game (USA),2,Shove It! ...The Warehouse Game (USA),0,
-4432,Skeleton Krew,Official,31,1,local,1,Skeleton Krew (USA),2,Skeleton Krew (USA),0,
-4433,Skitchin',Official,44,1,local,1,"Skitchin' (USA, Europe)",2,"Skitchin' (USA, Europe)",0,
-4436,The Smurfs,Official,42,1,local,1,"Smurfs, The (Europe) (En,Fr,De,Es,It)",2,"Smurfs, The (Europe) (En,Fr,De,Es,It)",0,
-4437,Snake Rattle N Roll,Official,40,1,local,1,Snake Rattle n Roll (Europe),2,Snake Rattle n Roll (Europe),0,
-4438,Socket,Official,105,1,local,1,Socket (USA),2,Socket (USA),0,
-4443,~Hack~ Mobius Evolution,Hack,25,1,unmatched,0,,0,,0,
-4444,Sorcerer's Kingdom,Official,28,1,local,1,Sorcerer's Kingdom (USA),2,Sorcerer's Kingdom (USA),0,
-4450,Spot Goes to Hollywood,Official,49,1,local,1,Spot Goes to Hollywood (USA),2,Spot Goes to Hollywood (USA),0,
-4454,Star Trek: Deep Space Nine - Crossroads of Time,Official,32,2,local,2,"Star Trek - Deep Space Nine - Crossroads of Time (USA),Star Trek - Deep Space Nine - Crossroads of Time (Europe)",4,"Star Trek - Deep Space Nine - Crossroads of Time (USA),Star Trek - Deep Space Nine - Crossroads of Time (Europe)",0,
-4455,Star Trek: The Next Generation,Official,32,2,local,2,"Star Trek - The Next Generation - Echoes from the Past (USA) (Rev A),Star Trek - The Next Generation - Echoes from the Past (USA)",4,"Star Trek - The Next Generation - Echoes from the Past (USA) (Rev A),Star Trek - The Next Generation - Echoes from the Past (USA)",0,
-4456,Starflight,Official,40,1,local,1,"Starflight (USA, Europe)",2,"Starflight (USA, Europe)",0,
-4462,Chase H.Q. II,Official,29,3,local,2,"Super H.Q. (Japan),Chase H.Q. II (USA)",4,"Super H.Q. (Japan),Chase H.Q. II (USA)",0,
-4463,Super Hydlide,Official,40,2,local,2,"Super Hydlide (Europe),Super Hydlide (USA)",4,"Super Hydlide (Europe),Super Hydlide (USA)",0,
-4464,~Hack~ Sonic the Hedgehog: The Lost Worlds,Hack,22,1,unmatched,0,,0,,0,
-4466,Sword of Vermilion,Official,96,1,local,1,"Sword of Vermilion (USA, Europe)",2,"Sword of Vermilion (USA, Europe)",0,
-4467,Syd of Valis,Official,19,3,local,2,"SD Valis (Japan),Syd of Valis (USA)",4,"SD Valis (Japan),Syd of Valis (USA)",0,
-4477,Tom and Jerry: Frantic Antics!,Official,20,1,local,1,Tom and Jerry - Frantic Antics! (USA),2,Tom and Jerry - Frantic Antics! (USA),0,
-4480,Toys,Official,20,1,local,1,Toys - Let the Toy Wars begin! (USA),2,Toys - Let the Toy Wars begin! (USA),0,
-4481,Trampoline Terror!,Official,30,1,local,1,Trampoline Terror! (USA),2,Trampoline Terror! (USA),0,
-4483,True Lies,Official,24,1,local,1,True Lies (World),2,True Lies (World),0,
-4485,Sesame Street Counting Cafe,Official,11,1,local,1,Sesame Street Counting Cafe (USA),2,Sesame Street Counting Cafe (USA),0,
-4498,~Unlicensed~ Universal Soldier,Unlicensed,28,1,local,1,"Universal Soldier (USA, Europe) (Unl)",2,"Universal Soldier (USA, Europe) (Unl)",0,
-4499,Warlock,Official,35,1,local,1,"Warlock (USA, Europe)",2,"Warlock (USA, Europe)",0,
-4509,Wiz 'n' Liz: The Frantic Wabbit Wescue,Official,55,2,local,2,"Wiz 'N' Liz (USA),Wiz 'n' Liz - The Frantic Wabbit Wescue (Europe)",4,"Wiz 'N' Liz (USA),Wiz 'n' Liz - The Frantic Wabbit Wescue (Europe)",0,
-4513,WWF Royal Rumble,Official,30,1,local,1,WWF Royal Rumble (World),2,WWF Royal Rumble (World),0,
-4514,WWF Super WrestleMania,Official,18,1,local,1,"WWF Super WrestleMania (USA, Europe)",2,"WWF Super WrestleMania (USA, Europe)",0,
-4521,Yuu Yuu Hakusho: Makyo Toitsusen,Official,33,3,local,2,"YuYu Hakusho - Sunset Fighters (Brazil),Yu Yu Hakusho - Makyou Toitsusen (Japan)",4,"YuYu Hakusho - Sunset Fighters (Brazil),Yu Yu Hakusho - Makyou Toitsusen (Japan)",0,
-4523,~Homebrew~ Pringles Game,Homebrew,26,1,local,1,Pringles Game (World) (Aftermarket) (Unl),2,Pringles Game (World) (Aftermarket) (Unl),0,
-4726,Trouble Shooter,Official,24,2,local,2,"Battle Mania (Japan),Trouble Shooter (USA)",4,"Battle Mania (Japan),Trouble Shooter (USA)",0,
-4748,Shadowrun,Official,65,2,local,1,Shadowrun (USA),2,Shadowrun (USA),0,
-4874,Sonic 3 & Knuckles,Official,53,3,local,2,"Sonic & Knuckles + Sonic The Hedgehog 3 (USA) (Lock-On),Sonic & Knuckles + Sonic The Hedgehog 3 (Japan, Korea) (En) (Lock-On)",4,"Sonic & Knuckles + Sonic The Hedgehog 3 (USA) (Lock-on Combination),Sonic & Knuckles + Sonic The Hedgehog 3 (USA) (Lock-On),Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En) (Lock-on Combination),Sonic & Knuckles + Sonic The Hedgehog 3 (Japan, Korea) (En) (Lock-On)",0,
-5017,Sensible Soccer: International Edition,Official,26,1,local,1,"International Sensible Soccer (Europe) (En,Fr,De,It)",2,"International Sensible Soccer (Europe) (En,Fr,De,It)",0,
-5145,Marko | Marko's Magic Football,Official,17,2,local,2,"Marko's Magic Football (Europe) (En,Fr,De,Es),Marko (USA)",4,"Marko's Magic Football (Europe) (En,Fr,De,Es),Marko (USA)",0,
-5339,TechnoCop,Official,45,1,local,1,Technocop (USA),2,Technocop (USA),0,
-5356,Curse,Official,30,1,local,1,Curse (Japan) (En),2,Curse (Japan) (En),0,
-5362,Dyna Brothers,Official,76,2,local,1,Dyna Brothers (Japan),2,Dyna Brothers (Japan),0,
-5444,~Hack~ Sonic the Hedgehog: Omochao Edition,Hack,91,1,unmatched,0,,0,,0,
-5452,~Homebrew~ The Curse of Illmoore Bay,Homebrew,64,2,local,2,,0,,0,
-5455,~Hack~ Sonic 2: Retro Remix,Hack,16,1,unmatched,0,,0,,0,
-5680,WWF WrestleMania: The Arcade Game,Official,37,1,local,1,"WWF WrestleMania - The Arcade Game (USA, Europe)",2,"WWF WrestleMania - The Arcade Game (USA, Europe)",0,
-5756,Doraemon: Yume Dorobou to 7 Nin no Gozans,Official,29,1,local,1,Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan),2,Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan),0,
-5855,Shadow of the Beast,Official,30,1,local,1,"Shadow of the Beast (USA, Europe)",2,"Shadow of the Beast (USA, Europe)",0,
-5877,Soldiers of Fortune,Official,44,1,local,1,Soldiers of Fortune (USA),2,Soldiers of Fortune (USA),0,
-5902,Side Pocket,Official,16,3,local,3,"Side Pocket (Japan, Korea) (En),Side Pocket (USA),Side Pocket (Europe)",6,"Side Pocket (Japan, Korea) (En),Side Pocket (USA),Side Pocket (Europe)",0,
-6073,~Hack~ Sonic: Scorched Quest,Hack,34,1,unmatched,0,,0,,0,
-6120,The Adventures of Rocky and Bullwinkle and Friends,Official,24,1,local,1,"Adventures of Rocky and Bullwinkle and Friends, The (USA)",2,"Adventures of Rocky and Bullwinkle and Friends, The (USA)",0,
-6153,Cyberball,Official,27,1,local,1,Cyberball (World),2,Cyberball (World),0,
-6196,~Unlicensed~ Pokémon Stadium,Unlicensed,15,1,unmatched,0,,0,,0,
-6239,Cadash,Official,20,1,local,1,"Cadash (USA, Korea) (En)",2,"Cadash (USA, Korea) (En)",0,
-6312,Knuckles the Echidna in Sonic the Hedgehog 2,Official,26,1,local,1,Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-On),2,"Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-on Combination),Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-On)",0,
-6375,~Hack~ Doctor Robotnik's Creature Capture,Hack,18,1,unmatched,0,,0,,0,
-6583,Captain Planet and the Planeteers,Official,20,1,local,1,Captain Planet and the Planeteers (Europe),2,Captain Planet and the Planeteers (Europe),0,
-6667,Jennifer Capriati Tennis | GrandSlam: The Tennis Tournament,Official,14,1,local,1,Jennifer Capriati Tennis (USA),2,Jennifer Capriati Tennis (USA),0,
-6701,~Hack~ Robotnik's Revenge,Hack,20,1,unmatched,0,,0,,0,
-6718,Barney's Hide and Seek Game,Official,17,1,local,1,Barney's Hide & Seek Game (USA),2,Barney's Hide & Seek Game (USA),0,
-6727,Chuck Rock,Official,25,1,local,1,Chuck Rock (USA),2,Chuck Rock (USA),0,
-6728,Spider-Man vs. The Kingpin,Official,31,1,local,1,Spider-Man vs. The Kingpin (World),2,Spider-Man vs. The Kingpin (World),0,
-6816,Cutie Suzuki no Ringside Angel,Official,31,1,local,1,Cutie Suzuki no Ringside Angel (Japan),2,Cutie Suzuki no Ringside Angel (Japan),0,
-7039,Barbie: Super Model,Official,12,1,local,1,Barbie Super Model (USA),2,Barbie Super Model (USA),0,
-7133,Shane Warne Cricket,Official,38,1,local,1,Shane Warne Cricket (Australia),2,Shane Warne Cricket (Australia),0,
-7149,Vapor Trail,Official,27,1,local,1,Vapor Trail (USA),2,Vapor Trail (USA),0,
-7185,Red Zone,Official,24,1,local,1,"Red Zone (USA, Europe)",2,"Red Zone (USA, Europe)",0,
-7273,Wheel of Fortune,Official,20,1,local,1,Wheel of Fortune (USA),2,Wheel of Fortune (USA),0,
-7333,~Prototype~ Sonic Crackers,Prototype,17,1,local,1,Sonic Crackers (USA) (Proto),2,Sonic Crackers (USA) (Proto),0,
-7379,~Unlicensed~ Dial Q wo Mawase!,Unlicensed,35,1,local,1,Dial Q o Mawase! (Japan) (Unl),2,Dial Q o Mawase! (Japan) (Unl),0,
-7530,Puyo Puyo,Official,37,1,local,1,Puyo Puyo (Japan),2,Puyo Puyo (Japan),0,
-7544,~Unlicensed~ Virtua Fighter 2 vs. Tekken 2 | V.R Fighter vs. Taken 2,Unlicensed,25,1,local,1,Virtua Fighter 2 VS Tekken 2 (Taiwan) (En) (Unl),2,Virtua Fighter 2 VS Tekken 2 (Taiwan) (En) (Unl),0,
-7674,~Hack~ CrazySonic,Hack,50,1,unmatched,0,,0,,0,
-7682,~Homebrew~ CrazyBus,Homebrew,13,1,unmatched,0,,0,,0,
-7684,~Unlicensed~ Super Donkey Kong 99,Unlicensed,14,2,local,2,"Super Donkey Kong 99 (Taiwan) (En) (Unl),Super King Kong 99 (Taiwan) (En) (Unl)",4,"Super Donkey Kong 99 (Taiwan) (En) (Unl),Super King Kong 99 (Taiwan) (En) (Unl)",0,
-7702,Math Blaster: Episode 1,Official,25,1,local,1,Math Blaster - Episode 1 (USA),2,Math Blaster - Episode 1 (USA),0,
-8005,~Hack~ Mortal Kombat II Unlimited,Hack,48,3,unmatched,0,,0,,0,
-8079,Gadget Twins,Official,41,1,local,1,Gadget Twins (USA),2,Gadget Twins (USA),0,
-8232,Undead Line,Official,70,2,local,1,Undead Line (Japan),2,Undead Line (Japan),0,
-8393,~Homebrew~ Fix-it Felix Jr.,Homebrew,8,1,local,1,Fix-It Felix Jr. (World) (Aftermarket) (Pirate),2,Fix-It Felix Jr. (World) (Aftermarket) (Pirate),0,
-8421,Minnesota Fats: Pool Legend,Official,58,1,local,1,Minnesota Fats - Pool Legend (USA),2,Minnesota Fats - Pool Legend (USA),0,
-8442,~Unlicensed~ Super Mario World 64,Unlicensed,14,1,nointro_db_only,0,,0,,1,Super Mario World 64 (Taiwan) (En) (Unl)
-8445,~Hack~ The S Factor: Sonia and Silver,Hack,31,1,unmatched,0,,0,,0,
-8474,Cannon Fodder,Official,61,1,local,1,Cannon Fodder (Europe),2,Cannon Fodder (Europe),0,
-8496,Lakers versus Celtics and the NBA Playoffs,Official,21,1,local,1,"Lakers versus Celtics and the NBA Playoffs (USA, Europe)",2,"Lakers versus Celtics and the NBA Playoffs (USA, Europe)",0,
-8514,~Hack~ Sonic 1 Easy Mode,Hack,19,1,unmatched,0,,0,,0,
-8526,Chuck Rock II: Son of Chuck,Official,33,1,local,1,Chuck Rock II - Son of Chuck (USA),2,Chuck Rock II - Son of Chuck (USA),0,
-8531,Jerry Glanville's Pigskin Footbrawl,Official,14,1,local,1,Jerry Glanville's Pigskin Footbrawl (USA),2,Jerry Glanville's Pigskin Footbrawl (USA),0,
-8532,NHL Hockey 94,Official,29,1,local,1,"NHL '94 (USA, Europe)",2,"NHL '94 (USA, Europe)",0,
-8556,Jeopardy!,Official,6,1,local,1,Jeopardy! (USA),2,Jeopardy! (USA),0,
-8598,Cutthroat Island,Official,16,1,local,1,"CutThroat Island (USA, Europe)",2,"CutThroat Island (USA, Europe)",0,
-8663,Monopoly,Official,50,1,local,1,Monopoly (USA),2,Monopoly (USA),0,
-8728,~Hack~ Sonic ERaZor,Hack,29,1,unmatched,0,,0,,0,
-8781,~Unlicensed~ Plants vs. Zombies,Unlicensed,24,1,local,1,Plants vs. Zombies (Russia) (Aftermarket) (Unl),2,Plants vs. Zombies (Russia) (Aftermarket) (Unl),0,
-8797,~Hack~ Streets of Rage 2: Syndicate Wars,Hack,38,1,unmatched,0,,0,,0,
-8899,"Dick Vitale's ""Awesome, Baby!"" College Hoops",Official,43,1,local,1,"Dick Vitale's 'Awesome, Baby!' College Hoops (USA)",2,"Dick Vitale's 'Awesome, Baby!' College Hoops (USA)",0,
-8914,Chester Cheetah: Wild Wild Quest,Official,32,1,local,1,Chester Cheetah - Wild Wild Quest (USA),2,Chester Cheetah - Wild Wild Quest (USA),0,
-8927,Crayon Shin-chan: Arashi o Yobu Enji,Official,35,1,local,1,Crayon Shin-chan - Arashi o Yobu Enji (Japan),2,Crayon Shin-chan - Arashi o Yobu Enji (Japan),0,
-8963,~Prototype~ Scrabble,Prototype,11,1,local,1,Scrabble (Europe) (Proto),2,Scrabble (Europe) (Proto),0,
-9017,~Homebrew~ Demons of Asteborg,Homebrew,108,1,local,1,,0,,0,
-9043,~Hack~ Amy Rose in Sonic the Hedgehog 2,Hack,25,1,unmatched,0,,0,,0,
-9097,Gouketsuji Ichizoku,Official,24,2,local,1,Gouketsuji Ichizoku (Japan),2,Gouketsuji Ichizoku (Japan),0,
-9159,~Hack~ Sonic the Hedgehog 2 Recreation,Hack,31,1,unmatched,0,,0,,0,
-9180,~Unlicensed~ Top Fighter 2000 MK VIII,Unlicensed,20,1,local,1,Top Fighter 2000 MK VIII (Taiwan) (En) (Unl),2,Top Fighter 2000 MK VIII (Taiwan) (En) (Unl),0,
-9395,~Homebrew~ Metal Gear,Homebrew,52,2,local,1,Metal Gear (World) (v1.1) (Aftermarket) (Unl),3,"Metal Gear (World) (v1.1) (Aftermarket) (Unl),Metal Gear (World) (v1.2) (Aftermarket) (Unl)",0,
-9396,Mutant League Football,Official,41,1,local,1,"Mutant League Football (USA, Europe)",2,"Mutant League Football (USA, Europe)",0,
-9490,Combat Cars,Official,60,1,local,1,"Combat Cars (USA, Europe)",2,"Combat Cars (USA, Europe)",0,
-9771,The Faery Tale Adventure,Official,37,1,local,1,"Faery Tale Adventure, The (USA, Europe)",2,"Faery Tale Adventure, The (USA, Europe)",0,
-9902,Ballz 3D: Fighting at its Ballziest,Official,40,1,local,1,"Ballz 3D - The Battle of the Ballz (USA, Europe)",2,"Ballz 3D - The Battle of the Ballz (USA, Europe)",0,
-9933,~Hack~ Sonic: Brother Trouble,Hack,14,1,unmatched,0,,0,,0,
-9939,PGA Tour Golf III,Official,59,1,local,1,"PGA Tour Golf III (USA, Europe)",2,"PGA Tour Golf III (USA, Europe)",0,
-10229,Street Fighter II: Special Champion Edition,Official,26,4,local,2,"Street Fighter II' - Special Champion Edition (USA),Street Fighter II' - Special Champion Edition (Europe)",4,"Street Fighter II' - Special Champion Edition (USA),Street Fighter II' - Special Champion Edition (Europe)",0,
-10340,~Hack~ Sonic the Hedgehog 2 XL,Hack,33,1,unmatched,0,,0,,0,
-10568,Magical Taruruuto-kun,Official,22,1,local,1,Magical Taruruuto-kun (Japan),2,Magical Taruruuto-kun (Japan),0,
-11168,~Hack~ Sonic Delta 40Mb [Subset - No Hit],Hack,37,1,unmatched,0,,0,,0,
-11170,Sylvester and Tweety in Cagey Capers,Official,17,1,unmatched,0,,0,,0,
-11184,Cosmic Spacehead,Official,67,1,local,1,"Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)",2,"Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)",0,
-11185,~Hack~ Sonic 3D Blast: Director's Cut,Hack,50,1,local,1,Sonic 3D Blast - Director's Cut (World) (Unl),2,Sonic 3D Blast - Director's Cut (World) (Unl),0,
-11189,~Unlicensed~ Rockman X3,Unlicensed,9,1,local,1,Rockman X3 (Taiwan) (En) (Unl),2,Rockman X3 (Taiwan) (En) (Unl),0,
-11442,~Hack~ Metal Sonic Rebooted,Hack,50,1,unmatched,0,,0,,0,
-11740,~Hack~ Sonic: Into the Void,Hack,30,1,unmatched,0,,0,,0,
-12671,~Hack~ Sonic 1: Return to the Origin,Hack,18,1,unmatched,0,,0,,0,
-12822,Mamono Hunter Yohko: Dai-7 no Keisho,Official,19,1,local,1,Mamono Hunter Youko - Dai 7 no Keishou (Japan),2,Mamono Hunter Youko - Dai 7 no Keishou (Japan),0,
-12830,~Unlicensed~ Angry Birds,Unlicensed,12,1,local,1,Angry Birds (Russia) (En) (Aftermarket) (Unl),2,Angry Birds (Russia) (En) (Aftermarket) (Unl),0,
-12865,Buck Rogers: Countdown to Doomsday,Official,44,1,local,1,"Buck Rogers - Countdown to Doomsday (USA, Europe)",2,"Buck Rogers - Countdown to Doomsday (USA, Europe)",0,
-12931,Sonic Eraser,Official,19,1,local,1,Sonic Eraser (Japan) (Sega Game Toshokan),2,Sonic Eraser (Japan) (Sega Game Toshokan),0,
-12933,Pac-Mania,Official,60,1,local,1,"Pac-Mania (USA, Europe)",2,"Pac-Mania (USA, Europe)",0,
-13109,~Homebrew~ Pier Solar and the Great Architects,Homebrew,45,2,local,1,"Pier Solar and the Great Architects (Japan) (En,Fr,Es) (Aftermarket) (Unl)",2,"Pier Solar and the Great Architects (Japan) (En,Fr,Es) (Aftermarket) (Unl)",0,
-13225,Micro Machines: Turbo Tournament 96,Official,68,1,local,1,Micro Machines - Turbo Tournament 96 (Europe) (J-Cart),2,Micro Machines - Turbo Tournament 96 (Europe) (J-Cart),0,
-13421,~Hack~ Ultimate Mortal Kombat Trilogy,Hack,170,1,unmatched,0,,0,,0,
-13454,Langrisser II,Official,100,3,local,1,Langrisser II (Japan) (Rev B),2,Langrisser II (Japan) (Rev B),0,
-13921,~Homebrew~ 30 Years of Nintendon't,Homebrew,10,1,local,1,30 Years of Nintendon't (World) (Digital) (Aftermarket) (Unl),2,30 Years of Nintendon't (World) (Digital) (Aftermarket) (Unl),0,
-13943,~Homebrew~ Cave Story MD,Homebrew,84,1,local,1,,0,,1,Cave Story - Doukutsu Monogatari (World) (En) (v0.7.0) (Aftermarket) (Unl)
-14114,~Unlicensed~ Felix the Cat,Unlicensed,29,1,local,1,Felix the Cat (Russia) (Aftermarket) (Unl),2,Felix the Cat (Russia) (Aftermarket) (Unl),0,
-14327,~Homebrew~ L'Abbaye des Morts,Homebrew,18,1,local,1,,0,,1,"Abbaye des Morts, L' (World) (Beta) (Aftermarket) (Unl)"
-14403,~Hack~ Yoshi in Sonic the Hedgehog 2,Hack,59,1,unmatched,0,,0,,0,
-14607,~Unlicensed~ Sonic Jam 6,Unlicensed,15,2,local,1,Sonic Jam 6 (Taiwan) (En) (Pirate),2,Sonic Jam 6 (Taiwan) (En) (Pirate),0,
-14749,~Unlicensed~ LEGO Batman,Unlicensed,38,1,local,1,Lego Batman (Russia) (Aftermarket) (Unl),2,Lego Batman (Russia) (Aftermarket) (Unl),0,
-14772,~Hack~ Sonic Delta 40Mb,Hack,164,1,unmatched,0,,0,,0,
-15327,~Unlicensed~ Angry Birds in Russia,Unlicensed,14,1,local,1,Angry Birds in Russia (Russia) (Aftermarket) (Unl),2,Angry Birds in Russia (Russia) (Aftermarket) (Unl),0,
-15328,Powerball,Official,27,1,local,1,Powerball (USA),2,Powerball (USA),0,
-15329,~Unlicensed~ Mario 3: Around the World,Unlicensed,12,1,local,1,Mario 3 - Around the World (Russia) (Aftermarket) (Unl),2,Mario 3 - Around the World (Russia) (Aftermarket) (Unl),0,
-15370,~Hack~ Sonic 3 and Amy Rose,Hack,30,1,unmatched,0,,0,,0,
-15387,~Homebrew~ Xeno Crisis,Homebrew,54,1,local,1,,0,,0,
-16047,Shadow of the Beast: Mashou no Okite,Official,42,1,local,1,Shadow of the Beast - Mashou no Okite (Japan) (En),2,Shadow of the Beast - Mashou no Okite (Japan) (En),0,
-16210,Bare Knuckle III,Official,48,2,local,1,Bare Knuckle III (Japan),2,Bare Knuckle III (Japan),0,
-16270,~Hack~ Sonic in Troll Island,Hack,52,1,unmatched,0,,0,,0,
-16281,~Hack~ Blue Sphere Plus,Hack,35,1,unmatched,0,,0,,0,
-16285,~Unlicensed~ Mario 4: A Space Odyssey,Unlicensed,13,1,local,1,Mario 4 - Space Odyssey (Russia) (Aftermarket) (Unl),2,Mario 4 - Space Odyssey (Russia) (Aftermarket) (Unl),0,
-16344,~Hack~ Sonic & Ashuro,Hack,27,1,unmatched,0,,0,,0,
-16361,~Unlicensed~ Adventures of the Gummi Bears,Unlicensed,16,1,local,1,"Adventures of the Gummi Bears, The (Russia) (Aftermarket) (Unl)",2,"Adventures of the Gummi Bears, The (Russia) (Aftermarket) (Unl)",0,
-16518,~Hack~ Sonic the Hedgehog 2: Hold Right to Win Edition,Hack,18,1,unmatched,0,,0,,0,
-16566,Ultracore,Official,56,1,local,1,"Ultracore (USA, Europe) (Switch, PS Vita)",2,"Ultracore (USA, Europe) (Switch, PS Vita)",0,
-17070,~Hack~ Bubsy in Sonic 2,Hack,18,1,unmatched,0,,0,,0,
-17182,~Hack~ Rock n' Roll Racing,Hack,107,1,unmatched,0,,0,,0,
-17392,~Homebrew~ Alter Ego,Homebrew,7,1,local,1,AlterEgo - Remastered (World) (Aftermarket) (Unl),2,AlterEgo - Remastered (World) (Aftermarket) (Unl),0,
-17555,Richard Scarry's Busytown,Official,15,1,local,1,Richard Scarry's Busytown (USA),2,Richard Scarry's Busytown (USA),0,
-17666,~Hack~ An Ordinary Sonic ROM Hack,Hack,28,1,unmatched,0,,0,,0,
-17687,~Homebrew~ 16-Bit Rhythm Land,Homebrew,60,1,unmatched,0,,0,,0,
-17724,~Homebrew~ ~Demo~ Mega Man X,Homebrew/Demo,8,3,local,3,"Mega Man X (World) (ROM 1) (Demo) (Aftermarket) (Unl),Mega Man X (World) (ROM 3) (Demo) (Aftermarket) (Unl),Mega Man X (World) (ROM 2) (Demo 2) (Aftermarket) (Unl)",6,"Mega Man X (World) (ROM 1) (Demo) (Aftermarket) (Unl),Mega Man X (World) (ROM 3) (Demo) (Aftermarket) (Unl),Mega Man X (World) (ROM 2) (Demo 2) (Aftermarket) (Unl)",0,
-17762,~Homebrew~ Goldrush,Homebrew,13,1,local,1,Gold Rush (World) (Aftermarket) (Unl),2,Gold Rush (World) (Aftermarket) (Unl),0,
-17765,~Homebrew~ Mega Flappy Sis,Homebrew,13,1,local,1,Mega Flappy Sis (World) (Aftermarket) (Unl),2,Mega Flappy Sis (World) (Aftermarket) (Unl),0,
-17905,~Homebrew~ Barbarian: The Ultimate Warrior,Homebrew,9,1,local,1,Barbarian (World) (F.L.) (Amiga 500) (Aftermarket) (Unl),2,Barbarian (World) (F.L.) (Amiga 500) (Aftermarket) (Unl),0,
-18428,Thomas the Tank Engine & Friends,Official,14,1,local,1,Thomas the Tank Engine & Friends (USA),2,Thomas the Tank Engine & Friends (USA),0,
-18481,~Unlicensed~ Bomber,Unlicensed,8,2,local,1,Bomber (USA) (Sega Gopher),2,Bomber (USA) (Sega Gopher),0,
-18770,Zombies Ate My Neighbors [Subset - Save All Victims],Official,54,1,unmatched,0,,0,,0,
-19437,NFL Quarterback Club,Official,60,2,local,1,NFL Quarterback Club (World),2,NFL Quarterback Club (World),1,NFL Quarterback Club (World)
-19703,~Hack~ Sonic VR,Hack,16,1,unmatched,0,,0,,0,
-19884,~Hack~ Mortal Kombat: Arcade Edition,Hack,37,4,unmatched,0,,0,,0,
-20031,Sonic 3 & Knuckles [Subset - Glitch Showcase],Official,63,1,unmatched,0,,0,,0,
-20044,~Homebrew~ Flappy Bird,Homebrew,11,1,local,1,Flappy Bird (World) (Ru) (Aftermarket) (Unl),2,Flappy Bird (World) (Ru) (Aftermarket) (Unl),0,
-20246,~Hack~ Knuckles the Echidna in Sonic the Hedgehog,Hack,24,1,unmatched,0,,0,,0,
-20297,Knuckles the Echidna in Sonic the Hedgehog 2 [Subset - Hold Right To Lose],Official,21,1,unmatched,0,,0,,0,
-20585,~Hack~ Luigi in Sonic 1,Hack,17,1,unmatched,0,,0,,0,
-20596,~Hack~ Pepsi in Sonic the Hedgehog I,Hack,24,1,unmatched,0,,0,,0,
-21365,~Hack~ Sonic the Hedgehog 2: Pink Edition,Hack,25,1,unmatched,0,,0,,0,
-21513,~Unlicensed~ Angry Birds Star Wars,Unlicensed,11,1,local,1,Angry Birds - Star Wars (Russia) (Aftermarket) (Unl),2,Angry Birds - Star Wars (Russia) (Aftermarket) (Unl),0,
-21995,~Homebrew~ Shaolin Carcará,Homebrew,11,1,local,1,Shaolin Carcara (World) (Pt-BR) (Aftermarket) (Unl),2,Shaolin Carcara (World) (Pt-BR) (Aftermarket) (Unl),0,
-22074,~Hack~ Sonic Zoom,Hack,28,1,unmatched,0,,0,,0,
-22098,~Hack~ Sonic Sunventure,Hack,22,1,unmatched,0,,0,,0,
-22103,~Hack~ 137E0 Action 1 Steak,Hack,7,1,unmatched,0,,0,,0,
-22188,Dynamite Headdy (Japan),Official,58,3,local,1,Dynamite Headdy (Japan),2,Dynamite Headdy (Japan),0,
-22299,~Homebrew~ Mega Q*bert,Homebrew,71,1,local,1,Mega Q-bert (World) (v1.2) (NTSC) (Aftermarket) (Unl),2,Mega Q-bert (World) (v1.2) (NTSC) (Aftermarket) (Unl),0,
-22371,~Homebrew~ Super Byoon,Homebrew,7,1,local,1,Super Byoon (World) (Aftermarket) (Unl),2,Super Byoon (World) (Aftermarket) (Unl),0,
-22594,~Hack~ Yeth,Hack,13,1,unmatched,0,,0,,0,
-22689,~Homebrew~ Drunk as I Like: Gensokyo Drinking Attitude,Homebrew,14,1,local,1,Drunk as I Like (World) (Itch.io) (Aftermarket) (Unl),2,Drunk as I Like (World) (Itch.io) (Aftermarket) (Unl),0,
-22858,~Hack~ Sonic the Hedgehog in Hellfire Saga,Hack,46,1,unmatched,0,,0,,0,
-24119,~Homebrew~ Mega Casanova,Homebrew,6,1,local,1,"Mega Casanova (World) (En,Ru) (v1.3) (Digital) (Aftermarket) (Unl)",2,"Mega Casanova (World) (En,Ru) (v1.3) (Digital) (Aftermarket) (Unl)",0,
-24329,World of Illusion starring Mickey Mouse and Donald Duck [Subset - Multiplayer],Official,28,1,unmatched,0,,0,,0,
-24333,Shadow of the Beast [Subset - Perfect Beast],Official,13,1,unmatched,0,,0,,0,
-24356,Air Hockey,Official,6,2,local,2,"Air Hockey (Europe) (Sega Reactor),Air Hockey (Brazil) (Mega Drive 4)",4,"Air Hockey (Europe) (Sega Reactor),Air Hockey (Brazil) (Mega Drive 4)",0,
-24421,~Unlicensed~ Ben 10,Unlicensed,10,1,local,1,Ben 10 (Russia) (Aftermarket) (Unl),2,Ben 10 (Russia) (Aftermarket) (Unl),0,
-24453,~Homebrew~ Mega Man: The Sequel Wars - Episode Red,Homebrew,135,1,local,1,Mega Man - The Sequel Wars - Episode Red (World) (v1.1) (Aftermarket) (Pirate),2,Mega Man - The Sequel Wars - Episode Red (World) (v1.1) (Aftermarket) (Pirate),0,
-24511,~Homebrew~ Mega Man: The Sequel Wars - Episode Red [Subset - Bonus],Homebrew,6,1,unmatched,0,,0,,0,
-24618,~Unlicensed~ Pokémon Crazy Drummer,Unlicensed,36,1,local,1,Pokemon Crazy Drummer (China) (En) (Aftermarket) (Unl),2,Pokemon Crazy Drummer (China) (En) (Aftermarket) (Unl),0,
-25018,~Homebrew~ Kekcroc,Homebrew,14,1,unmatched,0,,0,,0,
-25807,~Hack~ Teenage Mutant Ninja Turtles: Shredder's Re-Revenge,Hack,25,1,unmatched,0,,0,,0,
-25808,~Hack~ Teenage Mutant Ninja Turtles: Shredder's Re-Revenge [Subset - Multi],Hack,18,1,unmatched,0,,0,,0,
-25811,~Hack~ Teenage Mutant Ninja Turtles: Shredder's Re-Revenge [Subset - Mania],Hack,9,1,unmatched,0,,0,,0,
-26524,~Hack~ Shining Force Alternate,Hack,100,1,unmatched,0,,0,,0,
-26731,~Hack~ Tails in Sonic the Hedgehog,Hack,24,1,unmatched,0,,0,,0,
-26848,Academia do Saber,Official,27,1,local,1,Academia do Saber (Brazil) (Mega Drive 4),2,Academia do Saber (Brazil) (Mega Drive 4),0,
-26987,Phantasy Star II [Subset - Rolf Solo Challenge],Official,27,1,unmatched,0,,0,,0,
-27464,~Homebrew~ TetrisMD,Homebrew,22,1,unmatched,0,,0,,0,
-28819,~Homebrew~ Solitaire In Space,Homebrew,7,1,local,1,Solitaire in Space (World) (Proto) (Aftermarket) (Unl),2,Solitaire in Space (World) (Proto) (Aftermarket) (Unl),0,
-29031,~Homebrew~ Foxy Land,Homebrew,22,1,local,1,Foxy Land (World) (Digital) (Aftermarket) (Unl),2,Foxy Land (World) (Digital) (Aftermarket) (Unl),0,
-29147,~Homebrew~ sweetsdigger,Homebrew,12,1,local,1,Sweetsdigger (World) (Aftermarket) (Unl),2,Sweetsdigger (World) (Aftermarket) (Unl),0,
-29149,~Hack~ Yakuza 1 Kiwami,Hack,32,1,unmatched,0,,0,,0,
-29744,~Hack~ Touhou: An Aftermath of the Index,Hack,42,1,unmatched,0,,0,,0,
-29766,~Hack~ Shining Force: Horizons,Hack,217,1,unmatched,0,,0,,0,
-29787,~Homebrew~ Gravibots,Homebrew,25,1,local,1,Gravibots (World) (Aftermarket) (Unl),2,Gravibots (World) (Aftermarket) (Unl),0,
-29895,Sonic the Hedgehog [Subset - Perfect Bonus],Official,24,1,local,1,"Sonic The Hedgehog (Japan, Europe, Korea) (En) (Rev A)",2,"Sonic The Hedgehog (Japan, Europe, Korea) (En),Sonic The Hedgehog (Japan, Europe, Korea) (En) (Rev A)",0,
-29933,~Hack~ Knuckles the Echidna in Sonic the Hedgehog [Subset - Hold Right to Lose],Hack,26,1,unmatched,0,,0,,0,
-30030,~Homebrew~ Alice Sisters,Homebrew,16,1,local,1,,0,,0,
-30033,~Homebrew~ FX Unit Yuki: The Henshin Engine,Homebrew,33,1,unmatched,0,,0,,0,
-30734,~Hack~ ~Demo~ Gatoslip: Chapter 0,Hack/Demo,28,1,unmatched,0,,0,,0,
-30900,~Hack~ Sonic 1: The Next Level,Hack,12,1,unmatched,0,,0,,0,
-30901,Tetris (M2),Official,17,1,local,1,"Tetris (USA) (Mega Drive Mini, Genesis Mini)",2,"Tetris (USA) (Mega Drive Mini, Genesis Mini)",0,
-30927,Marble Madness (Japan),Official,12,1,local,1,Marble Madness (Japan) (En),2,Marble Madness (Japan) (En),0,
-31684,Darius,Official,38,1,local,1,"Darius (World) (Mega Drive Mini, Genesis Mini)",2,"Darius (World) (Mega Drive Mini, Genesis Mini)",0,
-31908,~Homebrew~ 2048,Homebrew,10,1,unmatched,0,,0,,0,
-31909,~Hack~ ~Demo~ Pantufa the Cat: Extended Edition,Hack/Demo,50,1,unmatched,0,,0,,0,
-32807,~Hack~ SNOLF: The Sonic Golf Experience!,Hack,31,1,unmatched,0,,0,,0,
-32906,~Homebrew~ Super Star Wars Holiday Special,Homebrew,17,1,local,1,Super Star Wars - Holiday Special (World) (v1.1) (Aftermarket) (Unl),2,Super Star Wars - Holiday Special (World) (v1.1) (Aftermarket) (Unl),0,
-33062,~Homebrew~ Real Bout Fatal Fury Genesis,Homebrew,40,1,unmatched,0,,0,,0,
-33403,~Homebrew~ Old Towers,Homebrew,16,1,local,1,Old Towers (World) (v1.2) (Aftermarket) (Unl),2,Old Towers (World) (v1.2) (Aftermarket) (Unl),0,
-33999,~Homebrew~ Ryuthela,Homebrew,8,1,local,1,Ryuthela (World) (Aftermarket) (Unl),2,Ryuthela (World) (Aftermarket) (Unl),0,
-37193,~Unlicensed~ Teenage Mutant Ninja Turtles: The Legend Returns,Unlicensed,8,1,local,1,Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Unl),2,Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Unl),0,
-37602,Garfield: Caught in the Act - The Lost Levels,Official,12,1,local,1,Garfield - The Lost Levels (USA) (Sega Channel),2,Garfield - The Lost Levels (USA) (Sega Channel),0,
-37607,~Homebrew~ Waffle Painter,Homebrew,26,1,unmatched,0,,0,,0,
-38020,~Homebrew~ Fatal Fury One,Homebrew,34,1,local,1,Fatal Fury One (World) (Aftermarket) (Unl),2,Fatal Fury One (World) (Aftermarket) (Unl),0,
-38069,Streets of Rage 2 [Subset - Mania],Official,18,2,unmatched,0,,0,,0,
-38620,~Unlicensed~ Pokémon II,Unlicensed,7,1,local,1,Pokemon II (China) (En) (Aftermarket) (Unl),2,Pokemon II (China) (En) (Aftermarket) (Unl),0,
-38628,~Hack~ Broken Knuckles,Hack,39,1,unmatched,0,,0,,0,
-41154,~Homebrew~ Kunio no Nekketsu School Fighters,Homebrew,52,1,local,1,"Kunio no Nekketsu - School Fighters (World) (En,Ja) (v1.7) (Aftermarket) (Unl)",2,"Kunio no Nekketsu - School Fighters (World) (En,Ja) (v1.7) (Aftermarket) (Unl)",0,
+ra_game_id,title,category,achievements,ra_hashes,status,local_roms,local_releases,dat_entries,dat_games,nointro_db_files,nointro_db_titles,local_sources
+1,Sonic the Hedgehog,Official,35,4,local,3,"Sonic The Hedgehog (USA, Europe)",2,"Sonic The Hedgehog (USA, Europe)",0,,"nointro,retroachievements"
+2,Aladdin,Official,21,1,local,1,Aladdin (USA),2,Aladdin (USA),0,,"nointro,retroachievements"
+3,Streets of Rage 2,Official,40,4,local,4,"Streets of Rage II (Japan, Europe) (En,Ja),Streets of Rage 2 (USA)",4,"Streets of Rage II (Japan, Europe) (En,Ja),Streets of Rage 2 (USA)",0,,"nointro,retroachievements"
+4,Zero Tolerance,Official,95,1,local,1,"Zero Tolerance (USA, Europe) (Rev A)",2,"Zero Tolerance (USA, Europe) (Rev A)",0,,"nointro,retroachievements"
+6,Desert Strike: Return to the Gulf,Official,27,2,local,2,"Desert Strike - Return to the Gulf (USA, Europe)",2,"Desert Strike - Return to the Gulf (USA, Europe)",0,,"nointro,retroachievements"
+7,Gunstar Heroes,Official,54,2,local,2,"Gunstar Heroes (Europe),Gunstar Heroes (USA)",4,"Gunstar Heroes (Europe),Gunstar Heroes (USA)",0,,"nointro,retroachievements"
+8,Ecco the Dolphin,Official,41,2,local,2,"Ecco the Dolphin (USA, Europe, Korea) (En)",2,"Ecco the Dolphin (USA, Europe, Korea) (En)",0,,"nointro,retroachievements"
+9,Castle of Illusion Starring Mickey Mouse,Official,21,4,local,4,"Castle of Illusion Starring Mickey Mouse (USA, Europe),I Love Mickey Mouse - Fushigi no Oshiro Daibouken (Japan)",4,"Castle of Illusion Starring Mickey Mouse (USA, Europe),I Love Mickey Mouse - Fushigi no Oshiro Daibouken (Japan)",0,,"nointro,retroachievements"
+10,Sonic the Hedgehog 2,Official,32,2,local,2,"Sonic The Hedgehog 2 (World),Sonic The Hedgehog 2 (World) (Rev A)",4,"Sonic The Hedgehog 2 (World),Sonic The Hedgehog 2 (World) (Rev A)",0,,"nointro,retroachievements"
+11,Earthworm Jim,Official,117,1,local,1,Earthworm Jim (USA),2,Earthworm Jim (USA),0,,"nointro,retroachievements"
+12,The Addams Family,Official,69,1,local,1,"Addams Family, The (USA, Europe)",2,"Addams Family, The (USA, Europe)",0,,"nointro,retroachievements"
+13,Aero the Acro-Bat 2,Official,81,1,local,1,Aero the Acro-Bat 2 (Europe),2,Aero the Acro-Bat 2 (Europe),0,,"nointro,retroachievements"
+14,Alien 3,Official,44,3,local,3,"Alien 3 (USA, Europe) (Rev A),Alien 3 (USA, Europe)",4,"Alien 3 (USA, Europe) (Rev A),Alien 3 (USA, Europe)",0,,"nointro,retroachievements"
+15,Sonic Spinball,Official,68,3,local,3,"Sonic Spinball (Japan),Sonic Spinball (Europe),Sonic Spinball (USA)",6,"Sonic Spinball (Japan),Sonic Spinball (Europe),Sonic Spinball (USA)",0,,"nointro,retroachievements"
+16,Super Hang-On,Official,21,3,local,3,"Super Hang-On (Europe) (En,Ja) (Rev A),Super Hang-On (Japan, USA) (En,Ja)",4,"Super Hang-On (Europe) (En,Ja) (Rev A),Super Hang-On (Japan, USA) (En,Ja)",0,,"nointro,retroachievements"
+17,NHLPA Hockey 93,Official,31,2,local,2,"NHLPA Hockey 93 (USA, Europe) (Rev 1),NHLPA Hockey 93 (USA, Europe)",4,"NHLPA Hockey 93 (USA, Europe) (Rev 1),NHLPA Hockey 93 (USA, Europe)",0,,"nointro,retroachievements"
+18,Golden Axe,Official,24,4,local,4,"Golden Axe (World),Golden Axe (World) (Rev A)",4,"Golden Axe (World),Golden Axe (World) (Rev A)",0,,"nointro,retroachievements"
+19,Ghostbusters,Official,58,2,local,2,"Ghostbusters (Japan) (En,Ja),Ghostbusters (USA, Europe) (En,Ja)",4,"Ghostbusters (Japan) (En,Ja),Ghostbusters (USA, Europe) (En,Ja)",0,,"nointro,retroachievements"
+20,Alex Kidd in the Enchanted Castle,Official,66,3,local,3,"Alex Kidd - Cheongong Maseong (Korea),Alex Kidd in the Enchanted Castle (USA),Alex Kidd in the Enchanted Castle (Europe)",6,"Alex Kidd - Cheongong Maseong (Korea),Alex Kidd in the Enchanted Castle (USA),Alex Kidd in the Enchanted Castle (Europe)",0,,"nointro,retroachievements"
+21,Sonic the Hedgehog 3,Official,29,3,local,3,"Sonic 3 (Europe),Sonic The Hedgehog 3 (USA)",4,"Sonic 3 (Europe),Sonic The Hedgehog 3 (USA)",0,,"nointro,retroachievements"
+22,ToeJam & Earl,Official,56,4,local,4,"ToeJam & Earl (USA, Europe, Korea) (En),ToeJam & Earl (Japan, Europe) (En) (Rev A)",4,"ToeJam & Earl (USA, Europe, Korea) (En),ToeJam & Earl (Japan, Europe) (En) (Rev A)",0,,"nointro,retroachievements"
+23,Chakan: The Forever Man,Official,41,1,local,1,"Chakan (USA, Europe)",2,"Chakan (USA, Europe)",0,,"nointro,retroachievements"
+24,Altered Beast,Official,26,5,local,5,"Altered Beast (Japan, USA) (En) (Rev 1),Altered Beast (USA, Europe) (Rev 2),Juuouki (Japan) (En)",6,"Altered Beast (Japan, USA) (En) (Rev 1),Altered Beast (USA, Europe) (Rev 2),Juuouki (Japan) (En)",0,,"nointro,retroachievements"
+25,Vectorman,Official,47,2,local,2,"Vectorman (USA, Europe)",2,"Vectorman (USA, Europe)",0,,"nointro,retroachievements"
+26,Cool Spot,Official,40,2,local,2,"Cool Spot (USA),Cool Spot (Europe)",4,"Cool Spot (USA),Cool Spot (Europe)",0,,"nointro,retroachievements"
+28,Batman Forever,Official,66,1,local,1,Batman Forever (World),2,Batman Forever (World),0,,"nointro,retroachievements"
+29,James Pond II - Codename: RoboCod,Official,27,1,local,1,"James Pond II - Codename - Robocod (USA, Europe)",2,"James Pond II - Codename - Robocod (USA, Europe)",0,,"nointro,retroachievements"
+31,Fantastic Dizzy,Official,31,2,local,2,"Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)",2,"Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)",0,,"nointro,retroachievements"
+34,Rocket Knight Adventures,Official,36,4,local,4,"Rocket Knight Adventures (Japan) (En),Rocket Knight Adventures (Europe),Rocket Knight Adventures (USA)",6,"Rocket Knight Adventures (Japan) (En),Rocket Knight Adventures (Europe),Rocket Knight Adventures (USA)",0,,"nointro,retroachievements"
+35,Speedball 2: Brutal Deluxe,Official,22,1,local,1,Speedball 2 - Brutal Deluxe (USA),2,Speedball 2 - Brutal Deluxe (USA),0,,"nointro,retroachievements"
+36,~Unlicensed~ Double Dragon,Unlicensed,15,1,local,1,"Double Dragon (USA, Europe) (Unl)",2,"Double Dragon (USA, Europe) (Unl)",0,,"nointro,retroachievements"
+39,Alisia Dragoon,Official,39,2,local,2,"Alisia Dragoon (USA),Alisia Dragoon (Japan)",4,"Alisia Dragoon (USA),Alisia Dragoon (Japan)",0,,"nointro,retroachievements"
+40,World of Illusion starring Mickey Mouse and Donald Duck,Official,36,3,local,3,"World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En),World of Illusion Starring Mickey Mouse and Donald Duck (Europe)",4,"World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En),World of Illusion Starring Mickey Mouse and Donald Duck (Europe)",0,,"nointro,retroachievements"
+41,Tiny Toon Adventures: ACME All-Stars,Official,39,2,local,2,"Tiny Toon Adventures - ACME All-Stars (USA, Korea) (En),Tiny Toon Adventures - ACME All-Stars (Europe) (En,Fr,De)",4,"Tiny Toon Adventures - ACME All-Stars (USA, Korea) (En),Tiny Toon Adventures - ACME All-Stars (Europe) (En,Fr,De)",0,,"nointro,retroachievements"
+42,Tiny Toon Adventures: Buster's Hidden Treasure,Official,98,2,local,2,Tiny Toon Adventures - Buster's Hidden Treasure (USA),2,Tiny Toon Adventures - Buster's Hidden Treasure (USA),0,,"nointro,retroachievements"
+44,Air Buster,Official,17,1,local,1,Air Buster (USA),2,Air Buster (USA),0,,"nointro,retroachievements"
+45,Batman: The Video Game,Official,17,3,local,3,"Batman - The Video Game (USA),Batman (Europe)",4,"Batman - The Video Game (USA),Batman (Europe)",0,,"nointro,retroachievements"
+46,Atomic Runner,Official,33,2,local,2,"Atomic Runner (USA),Atomic Runner (Europe)",4,"Atomic Runner (USA),Atomic Runner (Europe)",0,,"nointro,retroachievements"
+47,California Games,Official,29,2,local,2,"California Games (USA, Europe)",2,"California Games (USA, Europe)",0,,"nointro,retroachievements"
+50,Phantasy Star IV: The End of the Millennium,Official,93,15,local,15,"Phantasy Star IV (Europe),Phantasy Star IV (USA),Phantasy Star IV (USA) (Mega Drive Mini, Genesis Mini)",6,"Phantasy Star IV (Europe),Phantasy Star IV (USA),Phantasy Star IV (USA) (Mega Drive Mini, Genesis Mini)",0,,"nointro,retroachievements"
+51,Bubsy in Claws Encounters of the Furred Kind,Official,20,1,local,1,"Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)",2,"Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)",0,,"nointro,retroachievements"
+52,Super Street Fighter II: The New Challengers,Official,24,6,local,6,"Super Street Fighter II (Europe),Super Street Fighter II (USA),Super Street Fighter II - The New Challengers (Japan)",6,"Super Street Fighter II (Europe),Super Street Fighter II (USA),Super Street Fighter II - The New Challengers (Japan)",0,,"nointro,retroachievements"
+53,Comix Zone,Official,41,11,local,10,"Comix Zone (USA) (Sega Smash Pack 2),Comix Zone (USA),Comix Zone (Europe) (En,Fr,De,Es),Comix Zone (Japan) (En,Ja)",8,"Comix Zone (USA) (Sega Smash Pack 2),Comix Zone (USA),Comix Zone (Europe) (En,Fr,De,Es),Comix Zone (Japan) (En,Ja)",0,,"nointro,retroachievements"
+54,Streets of Rage 3,Official,48,5,local,5,"Streets of Rage 3 (USA),Streets of Rage 3 (Asia) (En)",4,"Streets of Rage 3 (USA),Streets of Rage 3 (Asia) (En)",0,,"nointro,retroachievements"
+55,Streets of Rage,Official,53,5,local,5,"Streets of Rage (World) (En,Ja),Streets of Rage (World) (En,Ja) (Rev A)",4,"Streets of Rage (World) (En,Ja),Streets of Rage (World) (En,Ja) (Rev A)",0,,"nointro,retroachievements"
+59,Flicky,Official,20,1,local,1,"Flicky (USA, Europe)",2,"Flicky (USA, Europe)",0,,"nointro,retroachievements"
+60,Mortal Kombat II,Official,35,2,local,2,Mortal Kombat II (World),2,Mortal Kombat II (World),0,,"nointro,retroachievements"
+62,OutRun,Official,31,2,local,2,"OutRun (USA, Europe),OutRun (Japan) (En)",4,"OutRun (USA, Europe),OutRun (Japan) (En)",0,,"nointro,retroachievements"
+63,Animaniacs,Official,36,2,local,2,Animaniacs (USA),2,Animaniacs (USA),0,,"nointro,retroachievements"
+64,Shinobi III: Return of the Ninja Master,Official,49,5,local,5,"Shinobi III - Return of the Ninja Master (Europe),Shinobi III - Return of the Ninja Master (USA),Super Shinobi II, The (Japan, Korea) (Ja)",6,"Shinobi III - Return of the Ninja Master (Europe),Shinobi III - Return of the Ninja Master (USA),Super Shinobi II, The (Japan, Korea) (Ja)",0,,"nointro,retroachievements"
+65,Shining Force,Official,70,2,local,2,Shining Force (USA),2,Shining Force (USA),1,Shining Force (USA),"nointro,retroachievements"
+66,Splatterhouse 2,Official,26,1,local,1,Splatterhouse 2 (USA),2,Splatterhouse 2 (USA),0,,"nointro,retroachievements"
+67,Splatterhouse 3,Official,32,3,local,3,"Splatterhouse Part 3 (Japan, Korea) (En),Splatterhouse 3 (USA)",4,"Splatterhouse Part 3 (Japan, Korea) (En),Splatterhouse 3 (USA)",0,,"nointro,retroachievements"
+68,Kid Chameleon,Official,65,1,local,1,"Kid Chameleon (USA, Europe)",2,"Kid Chameleon (USA, Europe)",0,,"nointro,retroachievements"
+69,Castlevania: Bloodlines,Official,54,1,local,1,Castlevania - Bloodlines (USA),2,Castlevania - Bloodlines (USA),0,,"nointro,retroachievements"
+70,Ultimate Mortal Kombat 3,Official,43,2,local,2,"Ultimate Mortal Kombat 3 (Europe),Ultimate Mortal Kombat 3 (USA)",4,"Ultimate Mortal Kombat 3 (Europe),Ultimate Mortal Kombat 3 (USA)",0,,"nointro,retroachievements"
+73,Samurai Shodown,Official,17,2,local,2,Samurai Shodown (USA),2,Samurai Shodown (USA),0,,"nointro,retroachievements"
+74,Top Gear 2,Official,68,1,local,1,Top Gear 2 (USA),2,Top Gear 2 (USA),0,,"nointro,retroachievements"
+75,Shining Force II,Official,98,6,local,6,"Shining Force II (USA),Shining Force II (Europe)",4,"Shining Force II (USA),Shining Force II (Europe)",0,,"nointro,retroachievements"
+76,International Superstar Soccer Deluxe,Official,77,1,local,1,"International Superstar Soccer Deluxe (Europe, Brazil) (En)",2,"International Superstar Soccer Deluxe (Europe, Brazil) (En)",0,,"nointro,retroachievements"
+77,Mortal Kombat 3,Official,49,1,local,1,Mortal Kombat 3 (USA),2,Mortal Kombat 3 (USA),0,,"nointro,retroachievements"
+79,Mortal Kombat,Official,39,4,local,4,Mortal Kombat (World),2,Mortal Kombat (World),0,,"nointro,retroachievements"
+80,X-Men 2: Clone Wars,Official,42,2,local,2,"X-Men 2 - Clone Wars (USA, Europe)",2,"X-Men 2 - Clone Wars (USA, Europe)",0,,"nointro,retroachievements"
+81,Space Harrier II,Official,30,1,local,1,Space Harrier II (World),2,Space Harrier II (World),0,,"nointro,retroachievements"
+82,Road Rash,Official,24,1,local,1,"Road Rash (USA, Europe)",2,"Road Rash (USA, Europe)",0,,"nointro,retroachievements"
+83,Ristar,Official,29,4,local,4,"Ristar - The Shooting Star (Japan, Korea) (En),Ristar (USA, Europe) (Beta),Ristar (USA, Europe)",6,"Ristar - The Shooting Star (Japan, Korea) (En),Ristar (USA, Europe) (Beta),Ristar (USA, Europe)",0,,"nointro,retroachievements"
+84,Shaq-Fu,Official,52,1,local,1,"Shaq-Fu (USA, Europe)",2,"Shaq-Fu (USA, Europe)",0,,"nointro,retroachievements"
+87,Golden Axe II,Official,32,4,local,4,Golden Axe II (World),2,Golden Axe II (World),0,,"nointro,retroachievements"
+88,Golden Axe III,Official,31,3,local,3,"Golden Axe III (Japan) (En),Golden Axe III (Europe) (Virtual Console)",4,"Golden Axe III (Japan) (En),Golden Axe III (Europe) (Virtual Console)",0,,"nointro,retroachievements"
+90,Mickey's Ultimate Challenge,Official,17,1,local,1,Mickey's Ultimate Challenge (USA),2,Mickey's Ultimate Challenge (USA),0,,"nointro,retroachievements"
+92,Virtua Fighter 2,Official,18,2,local,2,"Virtua Fighter 2 (USA, Europe),Virtua Fighter 2 (Korea) (En)",4,"Virtua Fighter 2 (USA, Europe),Virtua Fighter 2 (Korea) (En)",0,,"nointro,retroachievements"
+93,The Lion King,Official,24,1,local,1,"Lion King, The (World)",2,"Lion King, The (World)",0,,"nointro,retroachievements"
+94,The Revenge of Shinobi,Official,44,3,local,3,"Revenge of Shinobi, The (USA, Europe) (Rev A),Revenge of Shinobi, The (USA, Europe),Revenge of Shinobi, The (Japan, USA) (En)",6,"Revenge of Shinobi, The (USA, Europe) (Rev A),Revenge of Shinobi, The (USA, Europe),Revenge of Shinobi, The (Japan, USA) (En)",0,,"nointro,retroachievements"
+96,El Viento,Official,17,2,local,2,El.Viento (USA),2,El.Viento (USA),0,,"nointro,retroachievements"
+98,Shadow Dancer: The Secret of Shinobi,Official,19,2,local,2,Shadow Dancer - The Secret of Shinobi (World),2,Shadow Dancer - The Secret of Shinobi (World),0,,"nointro,retroachievements"
+99,Fatal Labyrinth,Official,89,3,local,3,"Shi no Meikyuu - Labyrinth of Death (Japan) (Sega Game Toshokan),Fatal Labyrinth (USA, Europe) (En,Ja)",4,"Shi no Meikyuu - Labyrinth of Death (Japan) (Sega Game Toshokan),Fatal Labyrinth (USA, Europe) (En,Ja)",0,,"nointro,retroachievements"
+102,X-Men,Official,32,2,local,2,"X-Men (Europe),X-Men (USA)",4,"X-Men (Europe),X-Men (USA)",0,,"nointro,retroachievements"
+103,Ayrton Senna's Super Monaco GP II,Official,53,1,local,1,"Ayrton Senna's Super Monaco GP II (USA) (En,Ja)",2,"Ayrton Senna's Super Monaco GP II (USA) (En,Ja)",0,,"nointro,retroachievements"
+105,Jurassic Park,Official,42,1,local,1,Jurassic Park (USA),2,Jurassic Park (USA),0,,"nointro,retroachievements"
+107,Earnest Evans,Official,21,1,local,1,Earnest Evans (USA),2,Earnest Evans (USA),0,,"nointro,retroachievements"
+109,After Burner II,Official,25,2,local,2,"After Burner II (USA, Europe)",2,"After Burner II (USA, Europe)",0,,"nointro,retroachievements"
+110,Sunset Riders,Official,15,3,local,3,"Sunset Riders (USA),Sunset Riders (Europe)",4,"Sunset Riders (USA),Sunset Riders (Europe)",0,,"nointro,retroachievements"
+111,Super Monaco GP,Official,29,3,local,3,"Super Monaco GP (USA) (En,Ja) (Sega Classic),Super Monaco GP (World) (En,Ja)",4,"Super Monaco GP (USA) (En,Ja) (Sega Classic),Super Monaco GP (World) (En,Ja)",0,,"nointro,retroachievements"
+113,Hellfire,Official,23,2,local,2,"Hellfire (Europe),Hellfire (USA)",4,"Hellfire (Europe),Hellfire (USA)",0,,"nointro,retroachievements"
+114,Raiden Densetsu: Raiden Trad,Official,85,1,local,1,"Raiden Trad (Japan, USA) (En)",2,"Raiden Trad (Japan, USA) (En)",0,,"nointro,retroachievements"
+116,Mega Man: The Wily Wars,Official,214,4,local,4,"Mega Man - The Wily Wars (USA) (Mega Drive Mini, Genesis Mini),Mega Man - The Wily Wars (Europe)",4,"Mega Man - The Wily Wars (USA) (Mega Drive Mini, Genesis Mini),Mega Man - The Wily Wars (Europe)",0,,"nointro,retroachievements"
+118,Scooby-Doo Mystery,Official,30,2,local,2,Scooby-Doo Mystery (USA),2,Scooby-Doo Mystery (USA),0,,"nointro,retroachievements"
+119,Road Rash II,Official,50,4,local,4,"Road Rash II (USA, Europe) (Rev 1),Road Rash II (Japan),Road Rash II (USA, Europe)",6,"Road Rash II (USA, Europe) (Rev 1),Road Rash II (Japan),Road Rash II (USA, Europe)",0,,"nointro,retroachievements"
+120,Contra: Hard Corps,Official,80,2,local,2,"Contra - Hard Corps (USA, Korea) (En)",2,"Contra - Hard Corps (USA, Korea) (En)",0,,"nointro,retroachievements"
+121,Desert Demolition Starring Road Runner and Wile E. Coyote,Official,47,1,local,1,"Desert Demolition Starring Road Runner and Wile E. Coyote (USA, Europe)",2,"Desert Demolition Starring Road Runner and Wile E. Coyote (USA, Europe)",0,,"nointro,retroachievements"
+123,Pepenga Pengo,Official,58,1,local,1,Pepenga Pengo (Japan) (En),2,Pepenga Pengo (Japan) (En),0,,"nointro,retroachievements"
+124,Beavis and Butt-Head,Official,18,1,local,1,Beavis and Butt-Head (USA),2,Beavis and Butt-Head (USA),0,,"nointro,retroachievements"
+125,Show do Milhão,Official,21,1,local,1,Show do Milhao (Brazil),2,Show do Milhao (Brazil),0,,"nointro,retroachievements"
+126,Show do Milhão: Volume 2,Official,14,1,local,1,Show do Milhao - Volume 2 (Brazil),2,Show do Milhao - Volume 2 (Brazil),0,,"nointro,retroachievements"
+127,Aaahh!!! Real Monsters,Official,39,1,local,1,Aaahh!!! Real Monsters (USA),2,Aaahh!!! Real Monsters (USA),0,,"nointro,retroachievements"
+128,Pit-Fighter,Official,14,1,local,1,"Pit-Fighter (World) (En,Ja) (Beta)",2,"Pit-Fighter (World) (En,Ja) (Beta)",0,,"nointro,retroachievements"
+129,Duke Nukem 3D,Official,17,1,local,1,Duke Nukem 3D (Brazil) (En),2,Duke Nukem 3D (Brazil) (En),0,,"nointro,retroachievements"
+134,Astérix and the Great Rescue,Official,62,1,local,1,Asterix and the Great Rescue (USA),2,Asterix and the Great Rescue (USA),0,,"nointro,retroachievements"
+136,Out of This World | Another World,Official,21,1,local,1,Out of This World (USA),2,Out of This World (USA),0,,"nointro,retroachievements"
+137,Battletoads,Official,33,2,local,2,Battletoads (World),2,Battletoads (World),0,,"nointro,retroachievements"
+138,Where in the World is Carmen Sandiego?,Official,10,1,local,1,"Where in the World Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It)",2,"Where in the World Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It)",0,,"nointro,retroachievements"
+140,Wonder Boy in Monster World,Official,49,4,local,4,"Wonder Boy in Monster World (USA, Europe),Turma da Monica na Terra dos Monstros (Brazil)",4,"Wonder Boy in Monster World (USA, Europe),Turma da Monica na Terra dos Monstros (Brazil)",0,,"nointro,retroachievements"
+142,Fatal Fury 2,Official,40,1,local,1,"Fatal Fury 2 (USA, Korea) (En)",2,"Fatal Fury 2 (USA, Korea) (En)",0,,"nointro,retroachievements"
+143,Beyond Oasis,Official,33,4,local,4,"Story of Thor, The (Spain),Beyond Oasis (USA)",4,"Story of Thor, The (Spain),Beyond Oasis (USA)",0,,"nointro,retroachievements"
+145,Columns,Official,24,2,local,2,"Columns (Japan) (En),Columns (USA, Europe)",4,"Columns (Japan) (En),Columns (USA, Europe)",0,,"nointro,retroachievements"
+148,Mighty Morphin Power Rangers: The Movie,Official,23,1,local,1,Mighty Morphin Power Rangers - The Movie (USA),2,Mighty Morphin Power Rangers - The Movie (USA),0,,"nointro,retroachievements"
+150,Strider Returns: Journey from Darkness,Official,16,2,local,2,"Strider II (Europe),Journey from Darkness - Strider Returns (USA)",4,"Strider II (Europe),Journey from Darkness - Strider Returns (USA)",0,,"nointro,retroachievements"
+153,Back to the Future: Part III,Official,9,1,local,1,Back to the Future Part III (USA),2,Back to the Future Part III (USA),0,,"nointro,retroachievements"
+154,Doom Troopers,Official,35,2,local,2,Doom Troopers (USA),2,Doom Troopers (USA),0,,"nointro,retroachievements"
+156,Boogerman: A Pick and Flick Adventure,Official,30,1,local,1,Boogerman - A Pick and Flick Adventure (USA),2,Boogerman - A Pick and Flick Adventure (USA),0,,"nointro,retroachievements"
+157,Double Dragon 3: The Arcade Game,Official,12,1,local,1,"Double Dragon 3 - The Arcade Game (USA, Europe)",2,"Double Dragon 3 - The Arcade Game (USA, Europe)",0,,"nointro,retroachievements"
+158,Dragon Ball Z: Buyuu Retsuden,Official,29,2,local,2,"Dragon Ball Z - L'Appel du Destin (France),Dragon Ball Z - Buyuu Retsuden (Japan)",4,"Dragon Ball Z - L'Appel du Destin (France),Dragon Ball Z - Buyuu Retsuden (Japan)",0,,"nointro,retroachievements"
+159,B.O.B.,Official,36,1,local,1,"B.O.B. (USA, Europe)",2,"B.O.B. (USA, Europe)",0,,"nointro,retroachievements"
+160,Mutant League Hockey,Official,40,1,local,1,"Mutant League Hockey (USA, Europe)",2,"Mutant League Hockey (USA, Europe)",0,,"nointro,retroachievements"
+162,NBA Jam,Official,35,1,local,1,"NBA Jam (USA, Europe) (Rev 1)",2,"NBA Jam (USA, Europe) (Rev 1)",0,,"nointro,retroachievements"
+164,Pyramid Magic,Official,15,1,local,1,Pyramid Magic (Japan) (Sega Game Toshokan),2,Pyramid Magic (Japan) (Sega Game Toshokan),0,,"nointro,retroachievements"
+165,Flashback: The Quest for Identity,Official,39,3,local,3,"Flashback - The Quest for Identity (USA) (En,Fr),Flashback (Europe) (En,Fr)",4,"Flashback - The Quest for Identity (USA) (En,Fr),Flashback (Europe) (En,Fr)",0,,"nointro,retroachievements"
+166,Road Rash 3: Tour de Force,Official,22,1,local,1,"Road Rash 3 (USA, Europe)",2,"Road Rash 3 (USA, Europe)",0,,"nointro,retroachievements"
+168,The Adventures of Batman & Robin,Official,13,1,local,1,"Adventures of Batman & Robin, The (USA)",2,"Adventures of Batman & Robin, The (USA)",0,,"nointro,retroachievements"
+169,Sonic & Knuckles,Official,20,1,local,1,Sonic & Knuckles (World),2,Sonic & Knuckles (World),0,,"nointro,retroachievements"
+170,Columns III: Revenge of Columns,Official,45,1,local,1,Columns III (USA),2,Columns III (USA),0,,"nointro,retroachievements"
+173,Fatal Fury,Official,23,1,local,1,Fatal Fury (USA),2,Fatal Fury (USA),0,,"nointro,retroachievements"
+175,Fantasia,Official,16,1,local,1,"Fantasia (USA, Europe)",2,"Fantasia (USA, Europe)",0,,"nointro,retroachievements"
+176,Marble Madness,Official,19,1,local,1,"Marble Madness (USA, Europe)",2,"Marble Madness (USA, Europe)",0,,"nointro,retroachievements"
+177,Paperboy,Official,9,1,local,1,"Paperboy (USA, Europe)",2,"Paperboy (USA, Europe)",0,,"nointro,retroachievements"
+178,Mighty Morphin Power Rangers,Official,53,1,local,1,Mighty Morphin Power Rangers (USA),2,Mighty Morphin Power Rangers (USA),0,,"nointro,retroachievements"
+180,Battletoads and Double Dragon: The Ultimate Team,Official,21,2,local,2,Battletoads-Double Dragon (USA),2,Battletoads-Double Dragon (USA),0,,"nointro,retroachievements"
+181,FIFA Soccer 95,Official,32,1,local,1,"FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es)",2,"FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es)",0,,"nointro,retroachievements"
+184,Art of Fighting,Official,35,3,local,3,"Ryuuko no Ken (Japan),Art of Fighting (USA),Art of Fighting (Europe)",6,"Ryuuko no Ken (Japan),Art of Fighting (USA),Art of Fighting (Europe)",0,,"nointro,retroachievements"
+188,Eternal Champions,Official,43,1,local,1,Eternal Champions (USA),2,Eternal Champions (USA),0,,"nointro,retroachievements"
+191,Crystal's Pony Tale,Official,33,1,local,1,Crystal's Pony Tale (USA),2,Crystal's Pony Tale (USA),0,,"nointro,retroachievements"
+192,Shining in the Darkness,Official,18,1,local,1,"Shining in the Darkness (USA, Europe)",2,"Shining in the Darkness (USA, Europe)",0,,"nointro,retroachievements"
+194,James Bond 007: The Duel,Official,15,1,local,1,James Bond 007 - The Duel (USA),2,James Bond 007 - The Duel (USA),0,,"nointro,retroachievements"
+203,Toy Story,Official,32,1,local,1,Toy Story (USA),2,Toy Story (USA),0,,"nointro,retroachievements"
+205,~Hack~ Sonic the Hedgehog: Megamix,Hack,18,2,local,2,,0,,0,,retroachievements
+207,Light Crusader,Official,44,1,local,1,,0,,0,,retroachievements
+209,Dr. Robotnik's Mean Bean Machine,Official,34,3,local,3,"Dr. Robotnik's Mean Bean Machine (USA),Dr. Robotnik's Mean Bean Machine (Europe)",4,"Dr. Robotnik's Mean Bean Machine (USA),Dr. Robotnik's Mean Bean Machine (Europe)",0,,"nointro,retroachievements"
+211,Alien Storm,Official,12,1,local,1,Alien Storm (World),2,Alien Storm (World),0,,"nointro,retroachievements"
+212,Ghouls 'n Ghosts,Official,23,2,local,2,"Ghouls'n Ghosts (Japan, USA) (En,Ja),Ghouls'n Ghosts (World) (En,Ja) (Rev A)",4,"Ghouls'n Ghosts (Japan, USA) (En,Ja),Ghouls'n Ghosts (World) (En,Ja) (Rev A)",0,,"nointro,retroachievements"
+216,Bubsy II,Official,60,1,local,1,"Bubsy II (USA, Europe)",2,"Bubsy II (USA, Europe)",0,,"nointro,retroachievements"
+218,QuackShot starring Donald Duck,Official,31,4,local,4,"QuackShot Starring Donald Duck (World) (En,Ja),QuackShot Starring Donald Duck (World) (En,Ja) (Rev A)",4,"QuackShot Starring Donald Duck (World) (En,Ja),QuackShot Starring Donald Duck (World) (En,Ja) (Rev A)",0,,"nointro,retroachievements"
+219,Phantom 2040,Official,28,1,local,1,Phantom 2040 (USA),2,Phantom 2040 (USA),0,,"nointro,retroachievements"
+221,Dynamite Headdy,Official,39,1,local,1,"Dynamite Headdy (USA, Europe)",2,"Dynamite Headdy (USA, Europe)",0,,"nointro,retroachievements"
+222,The Simpsons: Bart vs. the Space Mutants,Official,22,1,local,1,"Simpsons, The - Bart vs. the Space Mutants (USA, Europe) (Rev A)",2,"Simpsons, The - Bart vs. the Space Mutants (USA, Europe) (Rev A)",0,,"nointro,retroachievements"
+223,Beauty and the Beast: Roar of the Beast,Official,30,1,local,1,Beauty and the Beast - Roar of the Beast (USA),2,Beauty and the Beast - Roar of the Beast (USA),0,,"nointro,retroachievements"
+224,Olympic Gold: Barcelona '92,Official,23,1,local,1,"Olympic Gold (Japan, USA, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev A)",2,"Olympic Gold (Japan, USA, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev A)",0,,"nointro,retroachievements"
+225,Turbo OutRun,Official,24,1,local,1,"Turbo OutRun (Japan, Europe) (En)",2,"Turbo OutRun (Japan, Europe) (En)",0,,"nointro,retroachievements"
+226,Arrow Flash,Official,20,1,local,1,Arrow Flash (USA),2,Arrow Flash (USA),0,,"nointro,retroachievements"
+230,Phelios,Official,50,1,local,1,Phelios (USA),2,Phelios (USA),0,,"nointro,retroachievements"
+231,~Hack~ Sonic Winter Adventures,Hack,29,1,local,1,,0,,0,,retroachievements
+233,Taz-Mania,Official,38,1,local,1,Taz-Mania (World),2,Taz-Mania (World),0,,"nointro,retroachievements"
+239,~Hack~ Pana der Hejhog,Hack,14,1,local,1,,0,,0,,retroachievements
+240,Truxton,Official,31,1,local,1,Truxton (World),2,Truxton (World),0,,"nointro,retroachievements"
+250,Strider,Official,13,1,local,1,"Strider (USA, Europe)",2,"Strider (USA, Europe)",0,,"nointro,retroachievements"
+256,Krusty's Super Fun House,Official,75,1,local,1,"Krusty's Super Fun House (USA, Europe) (Rev A)",2,"Krusty's Super Fun House (USA, Europe) (Rev A)",0,,"nointro,retroachievements"
+257,Prince of Persia,Official,46,3,local,3,Prince of Persia (USA),2,Prince of Persia (USA),0,,"nointro,retroachievements"
+258,Dick Tracy,Official,64,1,local,1,Dick Tracy (World),2,Dick Tracy (World),0,,"nointro,retroachievements"
+262,Wonder Boy III: Monster Lair,Official,29,1,local,1,"Wonder Boy III - Monster Lair (Japan, Europe) (En)",2,"Wonder Boy III - Monster Lair (Japan, Europe) (En)",0,,"nointro,retroachievements"
+263,Michael Jackson's Moonwalker,Official,50,8,local,8,"Michael Jackson's Moonwalker (World) (Rev A),Michael Jackson's Moonwalker (Japan, USA) (En)",4,"Michael Jackson's Moonwalker (World) (Rev A),Michael Jackson's Moonwalker (Japan, USA) (En)",0,,"nointro,retroachievements"
+265,Two Crude Dudes,Official,18,1,local,1,Two Crude Dudes (Europe),2,Two Crude Dudes (Europe),0,,"nointro,retroachievements"
+272,Marvel Land,Official,32,1,local,1,Marvel Land (USA),2,Marvel Land (USA),0,,"nointro,retroachievements"
+276,Street Smart,Official,21,1,local,1,"Street Smart (Japan, USA) (En)",2,"Street Smart (Japan, USA) (En)",0,,"nointro,retroachievements"
+277,~Unlicensed~ Action 52,Unlicensed,183,1,local,1,Action 52 (USA) (Unl),2,Action 52 (USA) (Unl),0,,"nointro,retroachievements"
+278,Cyborg Justice,Official,30,1,local,1,"Cyborg Justice (USA, Europe)",2,"Cyborg Justice (USA, Europe)",0,,"nointro,retroachievements"
+282,Teenage Mutant Ninja Turtles: The Hyperstone Heist,Official,25,6,local,6,"Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA),Teenage Mutant Ninja Turtles - Return of the Shredder (Japan),Teenage Mutant Hero Turtles - The Hyperstone Heist (Europe)",6,"Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA),Teenage Mutant Ninja Turtles - Return of the Shredder (Japan),Teenage Mutant Hero Turtles - The Hyperstone Heist (Europe)",0,,"nointro,retroachievements"
+287,Rambo III,Official,14,2,local,2,"Rambo III (Japan, USA) (En,Ja),Rambo III (USA, Europe, Korea) (En,Ja) (Rev A)",4,"Rambo III (Japan, USA) (En,Ja),Rambo III (USA, Europe, Korea) (En,Ja) (Rev A)",0,,"nointro,retroachievements"
+288,~Prototype~ Ninja Gaiden,Prototype,22,1,local,1,Ninja Gaiden (Japan) (En) (Proto),2,Ninja Gaiden (Japan) (En) (Proto),0,,"nointro,retroachievements"
+289,Last Battle,Official,30,2,local,2,"Last Battle (USA, Europe, Korea) (En),Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan)",4,"Last Battle (USA, Europe, Korea) (En),Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan)",0,,"nointro,retroachievements"
+290,Captain America and the Avengers,Official,11,3,local,3,Captain America and the Avengers (USA),2,Captain America and the Avengers (USA),0,,"nointro,retroachievements"
+293,Thunder Force IV,Official,36,3,local,3,"Thunder Force IV (Europe),Lightening Force - Quest for the Darkstar (USA),Thunder Force IV (Japan) (En)",6,"Thunder Force IV (Europe),Lightening Force - Quest for the Darkstar (USA),Thunder Force IV (Japan) (En)",0,,"nointro,retroachievements"
+294,Mega Turrican,Official,24,1,local,1,Mega Turrican (USA),2,Mega Turrican (USA),0,,"nointro,retroachievements"
+295,Bishoujo Senshi Sailor Moon,Official,13,2,local,2,Bishoujo Senshi Sailor Moon (Japan),2,Bishoujo Senshi Sailor Moon (Japan),0,,"nointro,retroachievements"
+298,FIFA International Soccer,Official,12,1,local,1,"FIFA International Soccer (USA, Europe) (En,Fr,De,Es)",2,"FIFA International Soccer (USA, Europe) (En,Fr,De,Es)",0,,nointro
+299,Double Dragon II: The Revenge,Official,13,1,local,1,Double Dragon II - The Revenge (Japan) (En),2,Double Dragon II - The Revenge (Japan) (En),0,,"nointro,retroachievements"
+301,~Unlicensed~ Pocket Monster,Unlicensed,16,1,local,1,Pikachu - Pocket Monster (Taiwan) (En) (Unl),2,Pikachu - Pocket Monster (Taiwan) (En) (Unl),0,,"nointro,retroachievements"
+302,ESWAT: City Under Siege,Official,42,2,local,2,"ESWAT - City under Siege (USA, Europe) (Rev A),Cyber Police - ESWAT (Japan) (En)",4,"ESWAT - City under Siege (USA, Europe) (Rev A),Cyber Police - ESWAT (Japan) (En)",0,,"nointro,retroachievements"
+303,Mercs,Official,22,1,local,1,"Mercs (World) (En,Ja)",2,"Mercs (World) (En,Ja)",0,,"nointro,retroachievements"
+305,Toki: Going Ape Spit,Official,29,1,local,1,"Toki - Going Ape Spit (USA, Europe)",2,"Toki - Going Ape Spit (USA, Europe)",0,,"nointro,retroachievements"
+310,Twinkle Tale,Official,41,1,local,1,,0,,0,,retroachievements
+311,Gain Ground,Official,101,2,local,2,"Gain Ground (Japan) (En),Gain Ground (USA)",4,"Gain Ground (Japan) (En),Gain Ground (USA)",0,,"nointro,retroachievements"
+312,Galaxy Force II,Official,58,2,local,2,"Galaxy Force II (Japan) (En),Galaxy Force II (USA, Europe) (Rev B)",4,"Galaxy Force II (Japan) (En),Galaxy Force II (USA, Europe) (Rev B)",0,,"nointro,retroachievements"
+313,The Immortal,Official,19,1,local,1,"Immortal, The (USA, Europe)",2,"Immortal, The (USA, Europe)",0,,"nointro,retroachievements"
+317,Rolling Thunder 2,Official,24,2,local,2,"Rolling Thunder 2 (USA),Rolling Thunder 2 (Europe)",4,"Rolling Thunder 2 (USA),Rolling Thunder 2 (Europe)",0,,"nointro,retroachievements"
+324,Street Racer,Official,18,1,local,1,Street Racer (Europe),2,Street Racer (Europe),0,,"nointro,retroachievements"
+326,Sonic 3D Blast,Official,85,1,local,1,"Sonic 3D Blast (USA, Europe, Korea) (En)",2,"Sonic 3D Blast (USA, Europe, Korea) (En)",0,,"nointro,retroachievements"
+328,Rainbow Islands: The Story of Bubble Bobble 2 - Extra Version,Official,8,1,local,1,Rainbow Islands Extra (Japan) (En),2,Rainbow Islands Extra (Japan) (En),0,,"nointro,retroachievements"
+330,Wings of Wor,Official,29,3,local,3,"Wings of Wor (USA),Gynoug (Europe),Gynoug (Japan) (En)",6,"Wings of Wor (USA),Gynoug (Europe),Gynoug (Japan) (En)",0,,"nointro,retroachievements"
+335,Wolverine: Adamantium Rage,Official,22,1,local,1,"Wolverine - Adamantium Rage (USA, Europe)",2,"Wolverine - Adamantium Rage (USA, Europe)",0,,"nointro,retroachievements"
+338,DJ Boy,Official,17,1,local,1,DJ Boy (USA),2,DJ Boy (USA),0,,"nointro,retroachievements"
+349,Spider-Man & Venom: Maximum Carnage,Official,29,1,local,1,Spider-Man - Venom - Maximum Carnage (World),2,Spider-Man - Venom - Maximum Carnage (World),0,,"nointro,retroachievements"
+356,Dragon: The Bruce Lee Story,Official,11,2,local,2,"Dragon - The Bruce Lee Story (USA),Dragon - The Bruce Lee Story (Europe)",4,"Dragon - The Bruce Lee Story (USA),Dragon - The Bruce Lee Story (Europe)",0,,"nointro,retroachievements"
+402,Thunder Force II,Official,50,2,local,2,"Thunder Force II (USA, Europe),Thunder Force II MD (Japan) (En)",4,"Thunder Force II (USA, Europe),Thunder Force II MD (Japan) (En)",0,,"nointro,retroachievements"
+407,Zombies Ate My Neighbors,Official,45,2,local,2,"Zombies Ate My Neighbors (USA),Zombies (Europe)",4,"Zombies Ate My Neighbors (USA),Zombies (Europe)",0,,"nointro,retroachievements"
+408,Phantasy Star II: Text Adventures,Official,56,16,local,16,"Phantasy Star II - Anne's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Huey's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Shilka's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Amia's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Yushis's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Rudger's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Nei's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Kinds's Adventure (Japan) (Sega Game Toshokan)",16,"Phantasy Star II - Anne's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Huey's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Shilka's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Amia's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Yushis's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Rudger's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Nei's Adventure (Japan) (Sega Game Toshokan),Phantasy Star II - Kinds's Adventure (Japan) (Sega Game Toshokan)",0,,"nointro,retroachievements"
+480,Alien Soldier,Official,40,4,local,4,"Alien Soldier (Europe),Alien Soldier (USA) (Virtual Console),Alien Soldier (Japan)",6,"Alien Soldier (Europe),Alien Soldier (USA) (Virtual Console),Alien Soldier (Japan)",0,,"nointro,retroachievements"
+485,Arcus Odyssey,Official,24,1,local,1,Arcus Odyssey (USA),2,Arcus Odyssey (USA),0,,"nointro,retroachievements"
+486,Ariel the Little Mermaid,Official,23,2,local,2,"Ariel - The Little Mermaid (USA, Europe)",2,"Ariel - The Little Mermaid (USA, Europe)",0,,"nointro,retroachievements"
+490,Atomic Robo-Kid,Official,33,1,local,1,Atomic Robo-Kid (USA),2,Atomic Robo-Kid (USA),0,,"nointro,retroachievements"
+491,ATP Tour Championship Tennis,Official,27,1,local,1,ATP Tour Championship Tennis (USA),2,ATP Tour Championship Tennis (USA),0,,"nointro,retroachievements"
+492,Awesome Possum Kicks Dr. Machino's Butt!,Official,11,1,local,1,Awesome Possum Kicks Dr. Machino's Butt (USA),2,Awesome Possum Kicks Dr. Machino's Butt (USA),0,,"nointro,retroachievements"
+494,Mega Bomberman,Official,40,2,local,2,"Mega Bomberman (USA),Mega Bomberman (Europe, Korea) (En)",4,"Mega Bomberman (USA),Mega Bomberman (Europe, Korea) (En)",0,,"nointro,retroachievements"
+501,DEcapAttack,Official,109,1,local,1,"DEcapAttack (USA, Europe, Korea) (En)",2,"DEcapAttack (USA, Europe, Korea) (En)",0,,"nointro,retroachievements"
+524,~Prototype~ Tetris,Prototype,21,1,local,1,Tetris (Japan) (En) (Mega 6),2,Tetris (Japan) (En) (Mega 6),0,,"nointro,retroachievements"
+536,Super Smash T.V.,Official,14,1,local,1,"Super Smash T.V. (USA, Europe)",2,"Super Smash T.V. (USA, Europe)",0,,"nointro,retroachievements"
+538,Double Dragon V: The Shadow Falls,Official,27,1,local,1,Double Dragon V - The Shadow Falls (USA),2,Double Dragon V - The Shadow Falls (USA),0,,"nointro,retroachievements"
+544,The Terminator,Official,17,2,local,2,"Terminator, The (USA)",2,"Terminator, The (USA)",0,,"nointro,retroachievements"
+556,Ranger-X,Official,20,2,local,2,"Ranger X (USA),Ranger X (Europe)",4,"Ranger X (USA),Ranger X (Europe)",0,,"nointro,retroachievements"
+561,Landstalker: The Treasures of King Nole,Official,50,18,local,18,"Landstalker (USA),Landstalker - Le Tresor du Roi Nole (France),Landstalker - Die Schatze von Konig Nolo (Germany),Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini, Genesis Mini),Landstalker - The Treasures of King Nole (Europe),Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini),Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini, Genesis Mini),Landstalker - Koutei no Zaihou (Japan),Landstalker (USA) (Mega Drive Mini, Genesis Mini),Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini, Genesis Mini),Landstalker (USA) (Sega Channel)",22,"Landstalker (USA),Landstalker - Le Tresor du Roi Nole (France),Landstalker - Die Schatze von Konig Nolo (Germany),Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini, Genesis Mini),Landstalker - The Treasures of King Nole (Europe),Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini),Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini, Genesis Mini),Landstalker - Koutei no Zaihou (Japan),Landstalker (USA) (Mega Drive Mini, Genesis Mini),Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini, Genesis Mini),Landstalker (USA) (Sega Channel)",0,,"nointro,retroachievements"
+565,~Hack~ Metal Sonic Hyperdrive,Hack,28,1,local,1,,0,,0,,retroachievements
+571,Midnight Resistance,Official,27,1,local,1,Midnight Resistance (USA),2,Midnight Resistance (USA),0,,"nointro,retroachievements"
+574,The Punisher,Official,30,1,local,1,"Punisher, The (USA)",2,"Punisher, The (USA)",0,,"nointro,retroachievements"
+578,Mystic Defender,Official,9,2,local,2,"Mystic Defender (USA, Europe) (En,Ja),Mystic Defender (USA, Europe) (En,Ja) (Rev A)",4,"Mystic Defender (USA, Europe) (En,Ja),Mystic Defender (USA, Europe) (En,Ja) (Rev A)",0,,"nointro,retroachievements"
+583,Snow Bros.: Nick & Tom,Official,11,1,local,1,Snow Bros. - Nick & Tom (Japan) (En),2,Snow Bros. - Nick & Tom (Japan) (En),0,,"nointro,retroachievements"
+585,Herzog Zwei,Official,40,1,local,1,"Herzog Zwei (USA, Europe)",2,"Herzog Zwei (USA, Europe)",0,,"nointro,retroachievements"
+587,Zero Wing,Official,34,3,local,3,"Zero Wing (Europe),Zero Wing (Japan)",4,"Zero Wing (Europe),Zero Wing (Japan)",0,,"nointro,retroachievements"
+592,Thunder Fox,Official,14,1,local,1,Thunder Fox (USA),2,Thunder Fox (USA),0,,"nointro,retroachievements"
+599,Predator 2,Official,19,1,local,1,"Predator 2 (USA, Europe)",2,"Predator 2 (USA, Europe)",0,,"nointro,retroachievements"
+602,Virtua Racing,Official,25,2,local,2,"Virtua Racing (USA),Virtua Racing (Japan) (En)",4,"Virtua Racing (USA),Virtua Racing (Japan) (En)",0,,"nointro,retroachievements"
+603,Chiki Chiki Boys,Official,30,2,local,2,"Chiki Chiki Boys (USA, Europe),Chiki Chiki Boys (Japan, Korea) (Ja)",4,"Chiki Chiki Boys (USA, Europe),Chiki Chiki Boys (Japan, Korea) (Ja)",0,,"nointro,retroachievements"
+611,Ys III: Wanderers from Ys,Official,60,1,local,1,Ys III (USA),2,Ys III (USA),0,,"nointro,retroachievements"
+615,CrossFire,Official,24,1,local,1,CrossFire (USA),2,CrossFire (USA),0,,"nointro,retroachievements"
+618,The Great Circus Mystery Starring Mickey & Minnie,Official,45,1,local,1,"Great Circus Mystery Starring Mickey & Minnie, The (USA)",2,"Great Circus Mystery Starring Mickey & Minnie, The (USA)",0,,"nointro,retroachievements"
+619,Ultimate Qix,Official,49,2,local,2,"Ultimate QIX (USA),Volfied (Japan) (En)",4,"Ultimate QIX (USA),Volfied (Japan) (En)",0,,"nointro,retroachievements"
+621,Shadow Blasters,Official,52,1,local,1,Shadow Blasters (USA),2,Shadow Blasters (USA),0,,"nointro,retroachievements"
+622,Space Invaders '91,Official,22,1,local,1,Space Invaders '91 (USA),2,Space Invaders '91 (USA),0,,"nointro,retroachievements"
+644,M.U.S.H.A.: Metallic Uniframe Super Hybrid Armor,Official,30,2,local,2,"Musha Aleste (Japan),MUSHA - Metallic Uniframe Super Hybrid Armor (USA)",4,"Musha Aleste (Japan),MUSHA - Metallic Uniframe Super Hybrid Armor (USA)",0,,"nointro,retroachievements"
+649,The Tick,Official,37,1,local,1,"Tick, The (USA)",2,"Tick, The (USA)",0,,"nointro,retroachievements"
+650,PulseMan,Official,30,2,local,2,Pulseman (Japan),2,Pulseman (Japan),0,,"nointro,retroachievements"
+805,Ms. Pac-Man,Official,44,1,local,1,"Ms. Pac-Man (USA, Europe)",2,"Ms. Pac-Man (USA, Europe)",0,,"nointro,retroachievements"
+806,ToeJam & Earl in Panic on Funkotron,Official,62,1,local,1,ToeJam & Earl in Panic on Funkotron (USA),2,ToeJam & Earl in Panic on Funkotron (USA),0,,"nointro,retroachievements"
+807,Jurassic Park: Rampage Edition,Official,38,1,local,1,"Jurassic Park - Rampage Edition (USA, Europe)",2,"Jurassic Park - Rampage Edition (USA, Europe)",0,,"nointro,retroachievements"
+811,Target Earth,Official,45,1,local,1,Target Earth (USA),2,Target Earth (USA),0,,nointro
+817,Greendog: The Beached Surfer Dude!,Official,49,1,local,1,"Greendog - The Beached Surfer Dude! (USA, Europe)",2,"Greendog - The Beached Surfer Dude! (USA, Europe)",0,,"nointro,retroachievements"
+1352,TaleSpin,Official,34,1,local,1,"TaleSpin (USA, Europe)",2,"TaleSpin (USA, Europe)",0,,"nointro,retroachievements"
+1355,Zoom!,Official,74,1,local,1,Zoom! (World),2,Zoom! (World),0,,nointro
+1356,Blaster Master 2,Official,17,1,local,1,Blaster Master 2 (USA),2,Blaster Master 2 (USA),0,,"nointro,retroachievements"
+1358,Slap Fight MD,Official,29,1,local,1,Slap Fight MD (Japan) (En),2,Slap Fight MD (Japan) (En),0,,"nointro,retroachievements"
+1360,The Flintstones,Official,21,3,local,3,"Flintstones, The (USA) (Taito)",2,"Flintstones, The (USA) (Taito)",0,,"nointro,retroachievements"
+1373,RoboCop Versus The Terminator,Official,32,4,local,4,"RoboCop Versus The Terminator (Japan, Korea) (En),RoboCop Versus The Terminator (Europe),RoboCop Versus The Terminator (USA)",6,"RoboCop Versus The Terminator (Japan, Korea) (En),RoboCop Versus The Terminator (Europe),RoboCop Versus The Terminator (USA)",0,,"nointro,retroachievements"
+1404,Steel Empire,Official,26,1,local,1,Steel Empire (USA),2,Steel Empire (USA),0,,"nointro,retroachievements"
+1426,Burning Force,Official,40,1,local,1,Burning Force (USA),2,Burning Force (USA),0,,"nointro,retroachievements"
+1431,Puyo Puyo Tsuu,Official,25,1,local,1,Puyo Puyo Tsuu (Japan) (Rev A),2,Puyo Puyo Tsuu (Japan) (Rev A),0,,nointro
+1432,Monster World IV,Official,84,1,local,1,"Monster World IV (USA, Europe) (En,Ja) (Virtual Console)",2,"Monster World IV (USA, Europe) (En,Ja) (Virtual Console)",0,,"nointro,retroachievements"
+1435,Phantasy Star III: Generations of Doom,Official,55,1,local,1,"Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)",2,"Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)",0,,"nointro,retroachievements"
+1436,Phantasy Star II,Official,69,5,local,5,"Phantasy Star II (USA, Europe) (Rev A),Phantasy Star II (USA, Europe) (Rev A) (SEGA Classic Collection),Phantasy Star II (USA, Europe),Phantasy Star II (Brazil)",8,"Phantasy Star II (USA, Europe) (Rev A),Phantasy Star II (USA, Europe) (Rev A) (SEGA Classic Collection),Phantasy Star II (USA, Europe),Phantasy Star II (Brazil)",0,,"nointro,retroachievements"
+1437,Jungle Strike,Official,93,2,local,2,"Jungle Strike (USA, Europe)",2,"Jungle Strike (USA, Europe)",0,,"nointro,retroachievements"
+1438,Crusader of Centy,Official,79,9,local,8,"Soleil (France),Soleil (Europe),Crusader of Centy (USA),Soleil (Spain),Soleil (Germany)",10,"Soleil (France),Soleil (Europe),Crusader of Centy (USA),Soleil (Spain),Soleil (Germany)",0,,"nointro,retroachievements"
+1439,Daze Before Christmas,Official,27,1,local,1,Daze Before Christmas (Australia),2,Daze Before Christmas (Australia),0,,"nointro,retroachievements"
+1440,Ecco: The Tides of Time,Official,72,1,local,1,"Ecco - The Tides of Time (Europe) (En,Fr,De,Es)",2,"Ecco - The Tides of Time (Europe) (En,Fr,De,Es)",0,,"nointro,retroachievements"
+1443,Vectorman 2,Official,38,1,local,1,Vectorman 2 (USA),2,Vectorman 2 (USA),0,,"nointro,retroachievements"
+2125,Dark Castle,Official,18,1,local,1,"Dark Castle (USA, Europe)",2,"Dark Castle (USA, Europe)",0,,"nointro,retroachievements"
+2157,Warsong | Langrisser: The Descendants of Light,Official,69,1,local,1,Warsong (USA),2,Warsong (USA),0,,"nointro,retroachievements"
+2158,Fire Mustang,Official,27,1,local,1,Fire Mustang (Japan),2,Fire Mustang (Japan),0,,"nointro,retroachievements"
+2166,Thunder Force III,Official,28,2,local,2,"Thunder Force III (Japan, USA) (En)",2,"Thunder Force III (Japan, USA) (En)",0,,"nointro,retroachievements"
+2182,Earthworm Jim 2,Official,55,3,local,3,"Earthworm Jim 2 (USA),Earthworm Jim 2 (Europe)",4,"Earthworm Jim 2 (USA),Earthworm Jim 2 (Europe)",0,,"nointro,retroachievements"
+2185,Hard Drivin',Official,13,1,local,1,Hard Drivin' (World),2,Hard Drivin' (World),0,,"nointro,retroachievements"
+2186,Ecco Jr.,Official,33,1,local,1,"Ecco Jr. (USA, Australia)",2,"Ecco Jr. (USA, Australia)",0,,"nointro,retroachievements"
+2187,Jimmy White's Whirlwind Snooker,Official,24,1,local,1,Jimmy White's Whirlwind Snooker (Europe),2,Jimmy White's Whirlwind Snooker (Europe),0,,"nointro,retroachievements"
+2195,~Hack~ Mega Man X in Sonic the Hedgehog 2,Hack,42,1,local,1,,0,,0,,retroachievements
+2235,~Hack~ Sonic the Hedgehog: Classic Heroes,Hack,42,3,local,3,,0,,0,,retroachievements
+2263,Sub-Terrania,Official,31,1,local,1,Sub-Terrania (USA),2,Sub-Terrania (USA),0,,"nointro,retroachievements"
+2267,Fire Shark,Official,28,1,local,1,Fire Shark (USA),2,Fire Shark (USA),0,,"nointro,retroachievements"
+2268,Valis III,Official,43,1,local,1,Valis III (USA),2,Valis III (USA),0,,"nointro,retroachievements"
+2348,Super Fantasy Zone,Official,45,2,local,2,"Super Fantasy Zone (Europe),Super Fantasy Zone (Japan) (En,Ja)",4,"Super Fantasy Zone (Europe),Super Fantasy Zone (Japan) (En,Ja)",0,,"nointro,retroachievements"
+2364,Gargoyles,Official,37,1,local,1,Gargoyles (USA),2,Gargoyles (USA),0,,"nointro,retroachievements"
+2367,Valis,Official,51,2,local,2,Valis (USA),2,Valis (USA),0,,"nointro,retroachievements"
+2378,Demolition Man,Official,42,1,local,1,"Demolition Man (USA, Europe)",2,"Demolition Man (USA, Europe)",0,,"nointro,retroachievements"
+2382,The Death and Return of Superman,Official,21,1,local,1,"Death and Return of Superman, The (USA)",2,"Death and Return of Superman, The (USA)",0,,"nointro,retroachievements"
+2386,Teenage Mutant Ninja Turtles: Tournament Fighters,Official,80,1,local,1,Teenage Mutant Ninja Turtles - Tournament Fighters (USA),2,Teenage Mutant Ninja Turtles - Tournament Fighters (USA),0,,"nointro,retroachievements"
+2387,Urban Strike,Official,28,1,local,1,"Urban Strike (USA, Europe)",2,"Urban Strike (USA, Europe)",0,,"nointro,retroachievements"
+2392,Madou Monogatari I,Official,38,2,local,2,Madou Monogatari I (Japan),2,Madou Monogatari I (Japan),0,,"nointro,retroachievements"
+2394,~Prototype~ Time Trax,Prototype,23,1,local,1,Time Trax (USA) (Proto),2,Time Trax (USA) (Proto),0,,"nointro,retroachievements"
+2396,Blue Sphere,Official,23,1,local,1,"Sonic & Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-On)",2,"Sonic & Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-on Combination),Sonic & Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-On)",0,,"nointro,retroachievements"
+2399,Sparkster: Rocket Knight Adventures 2,Official,49,1,local,1,Sparkster (USA),2,Sparkster (USA),0,,"nointro,retroachievements"
+2400,T2: The Arcade Game,Official,39,1,local,1,"T2 - The Arcade Game (USA, Europe)",2,"T2 - The Arcade Game (USA, Europe)",0,,"nointro,retroachievements"
+2401,WeaponLord,Official,42,1,local,1,WeaponLord (USA),2,WeaponLord (USA),0,,"nointro,retroachievements"
+2413,Mazin Saga: Mutant Fighter,Official,38,2,local,2,"Mazin Saga (Japan, Korea) (Ja),Mazin Saga - Mutant Fighter (USA)",4,"Mazin Saga (Japan, Korea) (Ja),Mazin Saga - Mutant Fighter (USA)",0,,"nointro,retroachievements"
+2415,McDonald's Treasure Land Adventure,Official,27,1,local,1,McDonald's Treasure Land Adventure (USA),2,McDonald's Treasure Land Adventure (USA),0,,"nointro,retroachievements"
+2438,Dungeons & Dragons: Warriors of the Eternal Sun,Official,42,1,local,1,,0,,0,,retroachievements
+2439,Gaiares,Official,29,2,local,2,"Gaiares (Japan, USA) (En)",2,"Gaiares (Japan, USA) (En)",0,,"nointro,retroachievements"
+2448,~Unlicensed~ Super Tank War,Unlicensed,24,2,local,2,Super Tank War (Taiwan) (En) (Unl),2,Super Tank War (Taiwan) (En) (Unl),1,Super Tank War (Taiwan) (En) (Unl),"nointro,retroachievements"
+2449,James Pond: Underwater Agent,Official,22,1,local,1,"James Pond - Underwater Agent (USA, Europe)",2,"James Pond - Underwater Agent (USA, Europe)",0,,"nointro,retroachievements"
+2483,~Hack~ Big's Fishing Derby,Hack,14,1,local,1,,0,,0,,retroachievements
+2516,Donald in Maui Mallard,Official,32,1,local,1,Donald in Maui Mallard (Europe) (Rev A),2,Donald in Maui Mallard (Europe) (Rev A),0,,"nointro,retroachievements"
+2545,Mickey Mania: The Timeless Adventures of Mickey Mouse,Official,20,3,local,3,"Mickey Mania - The Timeless Adventures of Mickey Mouse (USA),Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan)",4,"Mickey Mania - The Timeless Adventures of Mickey Mouse (USA),Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan)",0,,"nointro,retroachievements"
+2855,~Homebrew~ Telethugs,Homebrew,10,1,local,1,Telethugs (World) (Aftermarket) (Unl),2,Telethugs (World) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+3108,Battle Mania Daiginjou,Official,33,2,local,2,"Battle Mania Daiginjou (Japan, Korea) (Ja)",2,"Battle Mania Daiginjou (Japan, Korea) (Ja)",0,,"nointro,retroachievements"
+3109,Super Thunder Blade,Official,21,1,local,1,Super Thunder Blade (World),2,Super Thunder Blade (World),0,,"nointro,retroachievements"
+3175,King's Bounty: The Conqueror's Quest,Official,33,1,local,1,"King's Bounty - The Conqueror's Quest (USA, Europe)",2,"King's Bounty - The Conqueror's Quest (USA, Europe)",0,,"nointro,retroachievements"
+3482,Zool: Ninja of the Nth Dimension,Official,75,1,local,1,Zool - Ninja of the 'Nth' Dimension (USA),2,Zool - Ninja of the 'Nth' Dimension (USA),0,,"nointro,retroachievements"
+3684,Advanced Busterhawk: Gley Lancer,Official,44,2,local,2,Advanced Busterhawk Gley Lancer (Japan),2,Advanced Busterhawk Gley Lancer (Japan),0,,"nointro,retroachievements"
+3714,Blades of Vengeance,Official,33,2,local,2,"Blades of Vengeance (USA, Europe)",2,"Blades of Vengeance (USA, Europe)",0,,"nointro,retroachievements"
+3815,Joe & Mac,Official,34,2,local,2,Joe & Mac (USA),2,Joe & Mac (USA),0,,"nointro,retroachievements"
+3824,Haunting Starring Polterguy,Official,55,1,local,1,"Haunting Starring Polterguy (USA, Europe)",2,"Haunting Starring Polterguy (USA, Europe)",0,,"nointro,retroachievements"
+4102,Aero the Acro-Bat,Official,85,1,local,1,Aero the Acro-Bat (USA),2,Aero the Acro-Bat (USA),0,,"nointro,retroachievements"
+4123,Bonanza Bros.,Official,27,1,local,1,"Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)",2,"Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)",0,,"nointro,retroachievements"
+4124,King Salmon: The Big Catch,Official,21,1,local,1,King Salmon - The Big Catch (USA),2,King Salmon - The Big Catch (USA),0,,"nointro,retroachievements"
+4139,Batman: Revenge of the Joker,Official,23,1,local,1,Batman - Revenge of the Joker (USA),2,Batman - Revenge of the Joker (USA),0,,"nointro,retroachievements"
+4140,Batman Returns,Official,23,1,local,1,Batman Returns (World),2,Batman Returns (World),0,,"nointro,retroachievements"
+4143,Superman: The Man of Steel,Official,18,1,local,1,Superman - The Man of Steel (Europe),2,Superman - The Man of Steel (Europe),0,,"nointro,retroachievements"
+4145,Saturday Night Slam Masters,Official,34,1,local,1,Saturday Night Slammasters (USA),2,Saturday Night Slammasters (USA),0,,"nointro,retroachievements"
+4148,The Jungle Book,Official,31,3,local,3,"Jungle Book, The (Europe),Jungle Book, The (USA)",4,"Jungle Book, The (Europe),Jungle Book, The (USA)",0,,"nointro,retroachievements"
+4155,~Hack~ Sonic's Fun and Easy Adventure,Hack,8,1,local,1,,0,,0,,retroachievements
+4159,Battle Golfer Yui,Official,28,1,local,1,,0,,0,,retroachievements
+4162,BattleTech: A Game of Armored Combat,Official,28,1,local,1,Battletech - A Game of Armored Combat (USA),2,Battletech - A Game of Armored Combat (USA),0,,"nointro,retroachievements"
+4164,Beauty and the Beast: Belle's Quest,Official,10,1,local,1,Beauty and the Beast - Belle's Quest (USA),2,Beauty and the Beast - Belle's Quest (USA),0,,"nointro,retroachievements"
+4169,Bio-Hazard Battle,Official,31,1,local,1,"Bio Hazard Battle (USA, Europe)",2,"Bio Hazard Battle (USA, Europe)",0,,"nointro,retroachievements"
+4174,Bonkers,Official,32,1,local,1,"Bonkers (USA, Europe)",2,"Bonkers (USA, Europe)",0,,"nointro,retroachievements"
+4175,Bram Stoker's Dracula,Official,35,2,local,2,"Bram Stoker's Dracula (Europe),Bram Stoker's Dracula (USA)",4,"Bram Stoker's Dracula (Europe),Bram Stoker's Dracula (USA)",0,,"nointro,retroachievements"
+4179,Master of Monsters,Official,160,1,local,1,Master of Monsters (USA),2,Master of Monsters (USA),0,,"nointro,retroachievements"
+4180,Bugs Bunny in Double Trouble,Official,30,1,local,1,Bugs Bunny in Double Trouble (USA),2,Bugs Bunny in Double Trouble (USA),0,,"nointro,retroachievements"
+4221,Daffy Duck in Hollywood,Official,22,1,local,1,"Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)",2,"Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)",0,,"nointro,retroachievements"
+4222,Dahna: Megami Tanjou,Official,18,4,local,4,Dahna - Megami Tanjou (Japan),2,Dahna - Megami Tanjou (Japan),0,,"nointro,retroachievements"
+4228,Devil Crash MD,Official,39,1,local,1,Devil Crash MD (Japan) (En),2,Devil Crash MD (Japan) (En),0,,"nointro,retroachievements"
+4229,Devilish: The Next Possession,Official,32,1,local,1,Devilish - The Next Possession (USA),2,Devilish - The Next Possession (USA),0,,"nointro,retroachievements"
+4230,Dino Land,Official,30,1,local,1,Dino Land (USA),2,Dino Land (USA),0,,"nointro,retroachievements"
+4231,Tom Mason's Dinosaurs for Hire,Official,17,1,local,1,Tom Mason's Dinosaurs for Hire (USA),2,Tom Mason's Dinosaurs for Hire (USA),0,,"nointro,retroachievements"
+4232,Ikasuze! Koi no Doki Doki Penguin Land MD,Official,15,1,local,1,Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (Sega Game Toshokan),2,Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (Sega Game Toshokan),0,,"nointro,retroachievements"
+4236,~Hack~ Amy Rose in Sonic the Hedgehog,Hack,20,1,local,1,,0,,0,,retroachievements
+4237,Dragon's Revenge,Official,25,1,local,1,"Dragon's Revenge (USA, Europe)",2,"Dragon's Revenge (USA, Europe)",0,,"nointro,retroachievements"
+4239,DUNE: The Battle for Arrakis,Official,51,2,local,2,Dune - The Battle for Arrakis (USA),2,Dune - The Battle for Arrakis (USA),0,,"nointro,retroachievements"
+4247,Elemental Master,Official,45,2,local,2,"Elemental Master (Japan),Elemental Master (USA)",4,"Elemental Master (Japan),Elemental Master (USA)",0,,"nointro,retroachievements"
+4248,Eliminate Down,Official,32,1,local,1,Eliminate Down (Japan) (En),2,Eliminate Down (Japan) (En),0,,"nointro,retroachievements"
+4249,Taz in Escape From Mars,Official,20,2,local,2,"Taz in Escape from Mars (Europe),Taz in Escape from Mars (USA)",4,"Taz in Escape from Mars (Europe),Taz in Escape from Mars (USA)",0,,"nointro,retroachievements"
+4251,Exile,Official,24,1,local,1,Exile (USA),2,Exile (USA),0,,"nointro,retroachievements"
+4252,Ex-Mutants,Official,38,1,local,1,"Ex-Mutants (USA, Europe)",2,"Ex-Mutants (USA, Europe)",0,,"nointro,retroachievements"
+4264,Fighting Masters,Official,17,1,local,1,Fighting Masters (USA),2,Fighting Masters (USA),0,,"nointro,retroachievements"
+4265,Championship Bowling,Official,29,1,local,1,Championship Bowling (USA),2,Championship Bowling (USA),0,,nointro
+4266,The Great Waldo Search,Official,12,1,local,1,"Great Waldo Search, The (USA)",2,"Great Waldo Search, The (USA)",0,,"nointro,retroachievements"
+4267,Final Zone,Official,39,1,local,1,"Final Zone (Japan, USA) (En)",2,"Final Zone (Japan, USA) (En)",0,,"nointro,retroachievements"
+4269,Forgotten Worlds,Official,35,2,local,2,"Forgotten Worlds (World) (En,Ja) (Rev A),Forgotten Worlds (World) (En,Ja)",4,"Forgotten Worlds (World) (En,Ja) (Rev A),Forgotten Worlds (World) (En,Ja)",0,,"nointro,retroachievements"
+4270,Frogger,Official,21,1,local,1,Frogger (USA),2,Frogger (USA),0,,"nointro,retroachievements"
+4274,Garfield: Caught in the Act,Official,48,1,local,1,"Garfield - Caught in the Act (USA, Europe)",2,"Garfield - Caught in the Act (USA, Europe)",0,,"nointro,retroachievements"
+4275,Gauntlet IV,Official,35,2,local,2,"Gauntlet IV (USA, Europe) (En,Ja),Gauntlet (Japan) (En,Ja)",4,"Gauntlet IV (USA, Europe) (En,Ja),Gauntlet (Japan) (En,Ja)",0,,"nointro,retroachievements"
+4276,Gemfire,Official,63,1,local,1,Gemfire (USA),2,Gemfire (USA),0,,"nointro,retroachievements"
+4277,~Hack~ Knuckles' Emerald Hunt,Hack,19,1,local,1,,0,,0,,retroachievements
+4285,Granada,Official,42,1,local,1,"Granada (Japan, USA) (En)",2,"Granada (Japan, USA) (En)",0,,"nointro,retroachievements"
+4288,Growl,Official,25,1,local,1,Growl (USA),2,Growl (USA),0,,"nointro,retroachievements"
+4291,High Seas Havoc,Official,27,1,local,1,"High Seas Havoc (USA) (En,Ja)",2,"High Seas Havoc (USA) (En,Ja)",0,,"nointro,retroachievements"
+4293,Home Alone,Official,27,1,local,1,"Home Alone (USA, Europe)",2,"Home Alone (USA, Europe)",0,,"nointro,retroachievements"
+4294,Home Alone 2: Lost in New York,Official,34,1,local,1,Home Alone 2 - Lost in New York (USA),2,Home Alone 2 - Lost in New York (USA),0,,"nointro,retroachievements"
+4295,Hook,Official,24,1,local,1,Hook (USA),2,Hook (USA),0,,"nointro,retroachievements"
+4305,Insector X,Official,14,1,local,1,Insector X (USA),2,Insector X (USA),0,,"nointro,retroachievements"
+4310,James Pond 3: Operation Starfish,Official,231,1,local,1,"James Pond 3 (USA, Europe)",2,"James Pond 3 (USA, Europe)",0,,"nointro,retroachievements"
+4313,Jewel Master,Official,29,2,local,2,"Jewel Master (USA, Europe),Jewel Master (Japan) (En)",4,"Jewel Master (USA, Europe),Jewel Master (Japan) (En)",0,,"nointro,retroachievements"
+4315,Judge Dredd,Official,45,1,local,1,Judge Dredd (World),2,Judge Dredd (World),0,,"nointro,retroachievements"
+4316,NBA Live 98,Official,39,1,local,1,NBA Live 98 (USA),2,NBA Live 98 (USA),0,,"nointro,retroachievements"
+4318,Junction,Official,60,1,local,1,"Junction (Japan, USA) (En)",2,"Junction (Japan, USA) (En)",0,,"nointro,retroachievements"
+4320,The Lost World: Jurassic Park,Official,64,1,local,1,"Lost World, The - Jurassic Park (USA, Europe)",2,"Lost World, The - Jurassic Park (USA, Europe)",0,,"nointro,retroachievements"
+4326,Tougiou King Colossus,Official,45,1,local,1,,0,,0,,retroachievements
+4328,King of the Monsters 2,Official,23,1,local,1,King of the Monsters 2 (USA),2,King of the Monsters 2 (USA),0,,"nointro,retroachievements"
+4330,~Prototype~ Akira,Prototype,12,1,local,1,Akira (USA) (Proto),2,Akira (USA) (Proto),0,,"nointro,retroachievements"
+4331,~Unlicensed~ Whac-a-Critter | Mallet Legend,Unlicensed,8,1,local,1,Whac-a-Critter (USA) (Unl),2,Whac-a-Critter (USA) (Unl),0,,"nointro,retroachievements"
+4337,The Lawnmower Man,Official,59,1,local,1,"Lawnmower Man, The (USA, Europe)",2,"Lawnmower Man, The (USA, Europe)",0,,"nointro,retroachievements"
+4338,The Legend of Galahad,Official,31,1,local,1,"Legend of Galahad, The (USA, Europe)",2,"Legend of Galahad, The (USA, Europe)",0,,"nointro,retroachievements"
+4342,Lethal Enforcers II: Gun Fighters,Official,21,2,local,2,"Lethal Enforcers II - Gun Fighters (USA),Lethal Enforcers II - Gun Fighters (Europe)",4,"Lethal Enforcers II - Gun Fighters (USA),Lethal Enforcers II - Gun Fighters (Europe)",0,,"nointro,retroachievements"
+4345,Lord Monarch: Tokoton Sentou Densetsu,Official,31,2,local,2,Lord Monarch - Tokoton Sentou Densetsu (Japan),2,Lord Monarch - Tokoton Sentou Densetsu (Japan),0,,"nointro,retroachievements"
+4346,The Lost Vikings,Official,68,2,local,2,"Lost Vikings, The (USA)",2,"Lost Vikings, The (USA)",0,,"nointro,retroachievements"
+4347,Lotus Turbo Challenge,Official,20,1,local,1,"Lotus Turbo Challenge (USA, Europe)",2,"Lotus Turbo Challenge (USA, Europe)",0,,"nointro,retroachievements"
+4348,Dangerous Seed,Official,22,1,local,1,Dangerous Seed (Japan) (En),2,Dangerous Seed (Japan) (En),0,,"nointro,retroachievements"
+4349,The Magic School Bus: Space Exploration Game,Official,67,1,local,1,"Magic School Bus, The - Space Exploration Game (USA)",2,"Magic School Bus, The - Space Exploration Game (USA)",0,,"nointro,retroachievements"
+4356,Mick & Mack as the Global Gladiators,Official,43,1,local,1,Mick & Mack as the Global Gladiators (USA),2,Mick & Mack as the Global Gladiators (USA),0,,"nointro,retroachievements"
+4372,The Ooze,Official,27,1,local,1,"Ooze, The (Japan, USA) (En)",2,"Ooze, The (Japan, USA) (En)",0,,"nointro,retroachievements"
+4374,Ecco the Dolphin (Japan),Official,35,2,local,2,"Ecco the Dolphin (USA, Europe, Korea) (En) (Rev A) (Beta),Ecco the Dolphin (Japan)",4,"Ecco the Dolphin (USA, Europe, Korea) (En) (Rev A) (Beta),Ecco the Dolphin (Japan)",0,,"nointro,retroachievements"
+4377,OutRun 2019,Official,43,1,local,1,OutRun 2019 (USA),2,OutRun 2019 (USA),0,,"nointro,retroachievements"
+4378,Pac-Attack,Official,28,1,local,1,Pac-Attack (USA),2,Pac-Attack (USA),0,,"nointro,retroachievements"
+4381,The Pagemaster,Official,31,2,local,2,"Pagemaster, The (Europe),Pagemaster, The (USA)",4,"Pagemaster, The (Europe),Pagemaster, The (USA)",0,,"nointro,retroachievements"
+4382,Panorama Cotton,Official,65,2,local,2,Panorama Cotton (Japan),2,Panorama Cotton (Japan),0,,"nointro,retroachievements"
+4386,Pinocchio,Official,37,2,local,2,Pinocchio (Europe),2,Pinocchio (Europe),0,,"nointro,retroachievements"
+4387,The Pirates of Dark Water,Official,36,1,local,1,"Pirates of Dark Water, The (USA)",2,"Pirates of Dark Water, The (USA)",0,,"nointro,retroachievements"
+4389,Pitfall: The Mayan Adventure,Official,78,2,local,2,"Pitfall - The Mayan Adventure (USA),Pitfall - The Mayan Adventure (Europe)",4,"Pitfall - The Mayan Adventure (USA),Pitfall - The Mayan Adventure (Europe)",0,,"nointro,retroachievements"
+4390,Pocahontas,Official,10,1,local,1,Pocahontas (USA),2,Pocahontas (USA),0,,"nointro,retroachievements"
+4391,~Homebrew~ Yazzie,Homebrew,11,2,local,2,"Yazzie (World) (v1.1) (Evercade) (Aftermarket) (Unl),Yazzie (World) (Itch.io) (Aftermarket) (Unl)",4,"Yazzie (World) (v1.1) (Evercade) (Aftermarket) (Unl),Yazzie (World) (Itch.io) (Aftermarket) (Unl)",0,,"nointro,retroachievements"
+4395,Primal Rage,Official,40,1,local,1,"Primal Rage (USA, Europe)",2,"Primal Rage (USA, Europe)",0,,"nointro,retroachievements"
+4398,Puggsy,Official,52,2,local,2,Puggsy (USA),2,Puggsy (USA),0,,"nointro,retroachievements"
+4410,The Ren & Stimpy Show: Stimpy's Invention,Official,25,1,local,1,"Ren & Stimpy Show Presents, The - Stimpy's Invention (USA)",2,"Ren & Stimpy Show Presents, The - Stimpy's Invention (USA)",0,,"nointro,retroachievements"
+4414,Rings of Power,Official,103,1,local,1,,0,,0,,retroachievements
+4418,Rock n' Roll Racing,Official,41,3,local,3,"Rock n' Roll Racing (USA),Rock 'n' Roll Racing (Europe)",4,"Rock n' Roll Racing (USA),Rock 'n' Roll Racing (Europe)",0,,"nointro,retroachievements"
+4420,Rolling Thunder 3,Official,69,1,local,1,Rolling Thunder 3 (USA),2,Rolling Thunder 3 (USA),0,,"nointro,retroachievements"
+4421,Rolo to the Rescue,Official,26,3,local,3,"Rolo to the Rescue (USA, Europe),Zou! Zou! Zou! Rescue Daisakusen (Japan) (En)",4,"Rolo to the Rescue (USA, Europe),Zou! Zou! Zou! Rescue Daisakusen (Japan) (En)",0,,"nointro,retroachievements"
+4424,Second Samurai,Official,33,1,local,1,Second Samurai (Europe),2,Second Samurai (Europe),0,,"nointro,retroachievements"
+4430,Shove It!,Official,80,1,local,1,Shove It! ...The Warehouse Game (USA),2,Shove It! ...The Warehouse Game (USA),0,,"nointro,retroachievements"
+4432,Skeleton Krew,Official,31,1,local,1,Skeleton Krew (USA),2,Skeleton Krew (USA),0,,"nointro,retroachievements"
+4433,Skitchin',Official,44,1,local,1,"Skitchin' (USA, Europe)",2,"Skitchin' (USA, Europe)",0,,"nointro,retroachievements"
+4436,The Smurfs,Official,42,1,local,1,"Smurfs, The (Europe) (En,Fr,De,Es,It)",2,"Smurfs, The (Europe) (En,Fr,De,Es,It)",0,,"nointro,retroachievements"
+4437,Snake Rattle N Roll,Official,40,1,local,1,Snake Rattle n Roll (Europe),2,Snake Rattle n Roll (Europe),0,,"nointro,retroachievements"
+4438,Socket,Official,105,1,local,1,Socket (USA),2,Socket (USA),0,,"nointro,retroachievements"
+4443,~Hack~ Mobius Evolution,Hack,25,1,local,1,,0,,0,,retroachievements
+4444,Sorcerer's Kingdom,Official,28,1,local,1,Sorcerer's Kingdom (USA),2,Sorcerer's Kingdom (USA),0,,"nointro,retroachievements"
+4450,Spot Goes to Hollywood,Official,49,1,local,1,Spot Goes to Hollywood (USA),2,Spot Goes to Hollywood (USA),0,,"nointro,retroachievements"
+4454,Star Trek: Deep Space Nine - Crossroads of Time,Official,32,2,local,2,"Star Trek - Deep Space Nine - Crossroads of Time (USA),Star Trek - Deep Space Nine - Crossroads of Time (Europe)",4,"Star Trek - Deep Space Nine - Crossroads of Time (USA),Star Trek - Deep Space Nine - Crossroads of Time (Europe)",0,,"nointro,retroachievements"
+4455,Star Trek: The Next Generation,Official,32,2,local,2,"Star Trek - The Next Generation - Echoes from the Past (USA) (Rev A),Star Trek - The Next Generation - Echoes from the Past (USA)",4,"Star Trek - The Next Generation - Echoes from the Past (USA) (Rev A),Star Trek - The Next Generation - Echoes from the Past (USA)",0,,"nointro,retroachievements"
+4456,Starflight,Official,40,1,local,1,"Starflight (USA, Europe)",2,"Starflight (USA, Europe)",0,,"nointro,retroachievements"
+4462,Chase H.Q. II,Official,29,3,local,3,"Super H.Q. (Japan),Chase H.Q. II (USA)",4,"Super H.Q. (Japan),Chase H.Q. II (USA)",0,,"nointro,retroachievements"
+4463,Super Hydlide,Official,40,2,local,2,"Super Hydlide (Europe),Super Hydlide (USA)",4,"Super Hydlide (Europe),Super Hydlide (USA)",0,,"nointro,retroachievements"
+4464,~Hack~ Sonic the Hedgehog: The Lost Worlds,Hack,22,1,local,1,,0,,0,,retroachievements
+4466,Sword of Vermilion,Official,96,1,local,1,"Sword of Vermilion (USA, Europe)",2,"Sword of Vermilion (USA, Europe)",0,,"nointro,retroachievements"
+4467,Syd of Valis,Official,19,3,local,3,"SD Valis (Japan),Syd of Valis (USA)",4,"SD Valis (Japan),Syd of Valis (USA)",0,,"nointro,retroachievements"
+4477,Tom and Jerry: Frantic Antics!,Official,20,1,local,1,Tom and Jerry - Frantic Antics! (USA),2,Tom and Jerry - Frantic Antics! (USA),0,,"nointro,retroachievements"
+4480,Toys,Official,20,1,local,1,Toys - Let the Toy Wars begin! (USA),2,Toys - Let the Toy Wars begin! (USA),0,,"nointro,retroachievements"
+4481,Trampoline Terror!,Official,30,1,local,1,Trampoline Terror! (USA),2,Trampoline Terror! (USA),0,,"nointro,retroachievements"
+4483,True Lies,Official,24,1,local,1,True Lies (World),2,True Lies (World),0,,"nointro,retroachievements"
+4485,Sesame Street Counting Cafe,Official,11,1,local,1,Sesame Street Counting Cafe (USA),2,Sesame Street Counting Cafe (USA),0,,"nointro,retroachievements"
+4498,~Unlicensed~ Universal Soldier,Unlicensed,28,1,local,1,"Universal Soldier (USA, Europe) (Unl)",2,"Universal Soldier (USA, Europe) (Unl)",0,,"nointro,retroachievements"
+4499,Warlock,Official,35,1,local,1,"Warlock (USA, Europe)",2,"Warlock (USA, Europe)",0,,"nointro,retroachievements"
+4509,Wiz 'n' Liz: The Frantic Wabbit Wescue,Official,55,2,local,2,"Wiz 'N' Liz (USA),Wiz 'n' Liz - The Frantic Wabbit Wescue (Europe)",4,"Wiz 'N' Liz (USA),Wiz 'n' Liz - The Frantic Wabbit Wescue (Europe)",0,,"nointro,retroachievements"
+4513,WWF Royal Rumble,Official,30,1,local,1,WWF Royal Rumble (World),2,WWF Royal Rumble (World),0,,"nointro,retroachievements"
+4514,WWF Super WrestleMania,Official,18,1,local,1,"WWF Super WrestleMania (USA, Europe)",2,"WWF Super WrestleMania (USA, Europe)",0,,"nointro,retroachievements"
+4521,Yuu Yuu Hakusho: Makyo Toitsusen,Official,33,3,local,3,"YuYu Hakusho - Sunset Fighters (Brazil),Yu Yu Hakusho - Makyou Toitsusen (Japan)",4,"YuYu Hakusho - Sunset Fighters (Brazil),Yu Yu Hakusho - Makyou Toitsusen (Japan)",0,,"nointro,retroachievements"
+4523,~Homebrew~ Pringles Game,Homebrew,26,1,local,1,Pringles Game (World) (Aftermarket) (Unl),2,Pringles Game (World) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+4726,Trouble Shooter,Official,24,2,local,2,"Battle Mania (Japan),Trouble Shooter (USA)",4,"Battle Mania (Japan),Trouble Shooter (USA)",0,,"nointro,retroachievements"
+4748,Shadowrun,Official,65,2,local,2,Shadowrun (USA),2,Shadowrun (USA),0,,"nointro,retroachievements"
+4874,Sonic 3 & Knuckles,Official,53,3,local,2,"Sonic & Knuckles + Sonic The Hedgehog 3 (USA) (Lock-On),Sonic & Knuckles + Sonic The Hedgehog 3 (Japan, Korea) (En) (Lock-On)",4,"Sonic & Knuckles + Sonic The Hedgehog 3 (USA) (Lock-on Combination),Sonic & Knuckles + Sonic The Hedgehog 3 (USA) (Lock-On),Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En) (Lock-on Combination),Sonic & Knuckles + Sonic The Hedgehog 3 (Japan, Korea) (En) (Lock-On)",0,,"nointro,retroachievements"
+5017,Sensible Soccer: International Edition,Official,26,1,local,1,"International Sensible Soccer (Europe) (En,Fr,De,It)",2,"International Sensible Soccer (Europe) (En,Fr,De,It)",0,,"nointro,retroachievements"
+5145,Marko | Marko's Magic Football,Official,17,2,local,2,"Marko's Magic Football (Europe) (En,Fr,De,Es),Marko (USA)",4,"Marko's Magic Football (Europe) (En,Fr,De,Es),Marko (USA)",0,,"nointro,retroachievements"
+5339,TechnoCop,Official,45,1,local,1,Technocop (USA),2,Technocop (USA),0,,"nointro,retroachievements"
+5356,Curse,Official,30,1,local,1,Curse (Japan) (En),2,Curse (Japan) (En),0,,"nointro,retroachievements"
+5362,Dyna Brothers,Official,76,2,local,2,Dyna Brothers (Japan),2,Dyna Brothers (Japan),0,,"nointro,retroachievements"
+5444,~Hack~ Sonic the Hedgehog: Omochao Edition,Hack,91,1,local,1,,0,,0,,retroachievements
+5452,~Homebrew~ The Curse of Illmoore Bay,Homebrew,64,2,local,2,,0,,0,,"nointro,retroachievements"
+5455,~Hack~ Sonic 2: Retro Remix,Hack,16,1,local,1,,0,,0,,retroachievements
+5680,WWF WrestleMania: The Arcade Game,Official,37,1,local,1,"WWF WrestleMania - The Arcade Game (USA, Europe)",2,"WWF WrestleMania - The Arcade Game (USA, Europe)",0,,"nointro,retroachievements"
+5756,Doraemon: Yume Dorobou to 7 Nin no Gozans,Official,29,1,local,1,Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan),2,Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan),0,,"nointro,retroachievements"
+5855,Shadow of the Beast,Official,30,1,local,1,"Shadow of the Beast (USA, Europe)",2,"Shadow of the Beast (USA, Europe)",0,,"nointro,retroachievements"
+5877,Soldiers of Fortune,Official,44,1,local,1,Soldiers of Fortune (USA),2,Soldiers of Fortune (USA),0,,"nointro,retroachievements"
+5902,Side Pocket,Official,16,3,local,3,"Side Pocket (Japan, Korea) (En),Side Pocket (USA),Side Pocket (Europe)",6,"Side Pocket (Japan, Korea) (En),Side Pocket (USA),Side Pocket (Europe)",0,,"nointro,retroachievements"
+6073,~Hack~ Sonic: Scorched Quest,Hack,34,1,local,1,,0,,0,,retroachievements
+6120,The Adventures of Rocky and Bullwinkle and Friends,Official,24,1,local,1,"Adventures of Rocky and Bullwinkle and Friends, The (USA)",2,"Adventures of Rocky and Bullwinkle and Friends, The (USA)",0,,"nointro,retroachievements"
+6153,Cyberball,Official,27,1,local,1,Cyberball (World),2,Cyberball (World),0,,"nointro,retroachievements"
+6196,~Unlicensed~ Pokémon Stadium,Unlicensed,15,1,local,1,,0,,0,,retroachievements
+6239,Cadash,Official,20,1,local,1,"Cadash (USA, Korea) (En)",2,"Cadash (USA, Korea) (En)",0,,"nointro,retroachievements"
+6312,Knuckles the Echidna in Sonic the Hedgehog 2,Official,26,1,local,1,Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-On),2,"Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-on Combination),Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-On)",0,,"nointro,retroachievements"
+6375,~Hack~ Doctor Robotnik's Creature Capture,Hack,18,1,local,1,,0,,0,,retroachievements
+6583,Captain Planet and the Planeteers,Official,20,1,local,1,Captain Planet and the Planeteers (Europe),2,Captain Planet and the Planeteers (Europe),0,,"nointro,retroachievements"
+6667,Jennifer Capriati Tennis | GrandSlam: The Tennis Tournament,Official,14,1,local,1,Jennifer Capriati Tennis (USA),2,Jennifer Capriati Tennis (USA),0,,"nointro,retroachievements"
+6701,~Hack~ Robotnik's Revenge,Hack,20,1,local,1,,0,,0,,retroachievements
+6718,Barney's Hide and Seek Game,Official,17,1,local,1,Barney's Hide & Seek Game (USA),2,Barney's Hide & Seek Game (USA),0,,"nointro,retroachievements"
+6727,Chuck Rock,Official,25,1,local,1,Chuck Rock (USA),2,Chuck Rock (USA),0,,"nointro,retroachievements"
+6728,Spider-Man vs. The Kingpin,Official,31,1,local,1,Spider-Man vs. The Kingpin (World),2,Spider-Man vs. The Kingpin (World),0,,"nointro,retroachievements"
+6816,Cutie Suzuki no Ringside Angel,Official,31,1,local,1,Cutie Suzuki no Ringside Angel (Japan),2,Cutie Suzuki no Ringside Angel (Japan),0,,"nointro,retroachievements"
+7039,Barbie: Super Model,Official,12,1,local,1,Barbie Super Model (USA),2,Barbie Super Model (USA),0,,"nointro,retroachievements"
+7133,Shane Warne Cricket,Official,38,1,local,1,Shane Warne Cricket (Australia),2,Shane Warne Cricket (Australia),0,,"nointro,retroachievements"
+7149,Vapor Trail,Official,27,1,local,1,Vapor Trail (USA),2,Vapor Trail (USA),0,,"nointro,retroachievements"
+7185,Red Zone,Official,24,1,local,1,"Red Zone (USA, Europe)",2,"Red Zone (USA, Europe)",0,,"nointro,retroachievements"
+7273,Wheel of Fortune,Official,20,1,local,1,Wheel of Fortune (USA),2,Wheel of Fortune (USA),0,,"nointro,retroachievements"
+7333,~Prototype~ Sonic Crackers,Prototype,17,1,local,1,Sonic Crackers (USA) (Proto),2,Sonic Crackers (USA) (Proto),0,,"nointro,retroachievements"
+7379,~Unlicensed~ Dial Q wo Mawase!,Unlicensed,35,1,local,1,Dial Q o Mawase! (Japan) (Unl),2,Dial Q o Mawase! (Japan) (Unl),0,,"nointro,retroachievements"
+7530,Puyo Puyo,Official,37,1,local,1,Puyo Puyo (Japan),2,Puyo Puyo (Japan),0,,"nointro,retroachievements"
+7544,~Unlicensed~ Virtua Fighter 2 vs. Tekken 2 | V.R Fighter vs. Taken 2,Unlicensed,25,1,local,1,Virtua Fighter 2 VS Tekken 2 (Taiwan) (En) (Unl),2,Virtua Fighter 2 VS Tekken 2 (Taiwan) (En) (Unl),0,,"nointro,retroachievements"
+7674,~Hack~ CrazySonic,Hack,50,1,local,1,,0,,0,,retroachievements
+7682,~Homebrew~ CrazyBus,Homebrew,13,1,local,1,,0,,0,,retroachievements
+7684,~Unlicensed~ Super Donkey Kong 99,Unlicensed,14,2,local,2,"Super Donkey Kong 99 (Taiwan) (En) (Unl),Super King Kong 99 (Taiwan) (En) (Unl)",4,"Super Donkey Kong 99 (Taiwan) (En) (Unl),Super King Kong 99 (Taiwan) (En) (Unl)",0,,"nointro,retroachievements"
+7702,Math Blaster: Episode 1,Official,25,1,local,1,Math Blaster - Episode 1 (USA),2,Math Blaster - Episode 1 (USA),0,,"nointro,retroachievements"
+8005,~Hack~ Mortal Kombat II Unlimited,Hack,48,3,local,3,,0,,0,,retroachievements
+8079,Gadget Twins,Official,41,1,local,1,Gadget Twins (USA),2,Gadget Twins (USA),0,,"nointro,retroachievements"
+8232,Undead Line,Official,70,2,local,2,Undead Line (Japan),2,Undead Line (Japan),0,,"nointro,retroachievements"
+8393,~Homebrew~ Fix-it Felix Jr.,Homebrew,8,1,local,1,Fix-It Felix Jr. (World) (Aftermarket) (Pirate),2,Fix-It Felix Jr. (World) (Aftermarket) (Pirate),0,,"nointro,retroachievements"
+8421,Minnesota Fats: Pool Legend,Official,58,1,local,1,Minnesota Fats - Pool Legend (USA),2,Minnesota Fats - Pool Legend (USA),0,,"nointro,retroachievements"
+8442,~Unlicensed~ Super Mario World 64,Unlicensed,14,1,local,1,,0,,1,Super Mario World 64 (Taiwan) (En) (Unl),retroachievements
+8445,~Hack~ The S Factor: Sonia and Silver,Hack,31,1,local,1,,0,,0,,retroachievements
+8474,Cannon Fodder,Official,61,1,local,1,Cannon Fodder (Europe),2,Cannon Fodder (Europe),0,,"nointro,retroachievements"
+8496,Lakers versus Celtics and the NBA Playoffs,Official,21,1,local,1,"Lakers versus Celtics and the NBA Playoffs (USA, Europe)",2,"Lakers versus Celtics and the NBA Playoffs (USA, Europe)",0,,"nointro,retroachievements"
+8514,~Hack~ Sonic 1 Easy Mode,Hack,19,1,local,1,,0,,0,,retroachievements
+8526,Chuck Rock II: Son of Chuck,Official,33,1,local,1,Chuck Rock II - Son of Chuck (USA),2,Chuck Rock II - Son of Chuck (USA),0,,"nointro,retroachievements"
+8531,Jerry Glanville's Pigskin Footbrawl,Official,14,1,local,1,Jerry Glanville's Pigskin Footbrawl (USA),2,Jerry Glanville's Pigskin Footbrawl (USA),0,,"nointro,retroachievements"
+8532,NHL Hockey 94,Official,29,1,local,1,"NHL '94 (USA, Europe)",2,"NHL '94 (USA, Europe)",0,,"nointro,retroachievements"
+8556,Jeopardy!,Official,6,1,local,1,Jeopardy! (USA),2,Jeopardy! (USA),0,,"nointro,retroachievements"
+8598,Cutthroat Island,Official,16,1,local,1,"CutThroat Island (USA, Europe)",2,"CutThroat Island (USA, Europe)",0,,"nointro,retroachievements"
+8663,Monopoly,Official,50,1,local,1,Monopoly (USA),2,Monopoly (USA),0,,"nointro,retroachievements"
+8728,~Hack~ Sonic ERaZor,Hack,29,1,local,1,,0,,0,,retroachievements
+8781,~Unlicensed~ Plants vs. Zombies,Unlicensed,24,1,local,1,Plants vs. Zombies (Russia) (Aftermarket) (Unl),2,Plants vs. Zombies (Russia) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+8797,~Hack~ Streets of Rage 2: Syndicate Wars,Hack,38,1,local,1,,0,,0,,retroachievements
+8899,"Dick Vitale's ""Awesome, Baby!"" College Hoops",Official,43,1,local,1,"Dick Vitale's 'Awesome, Baby!' College Hoops (USA)",2,"Dick Vitale's 'Awesome, Baby!' College Hoops (USA)",0,,"nointro,retroachievements"
+8914,Chester Cheetah: Wild Wild Quest,Official,32,1,local,1,Chester Cheetah - Wild Wild Quest (USA),2,Chester Cheetah - Wild Wild Quest (USA),0,,"nointro,retroachievements"
+8927,Crayon Shin-chan: Arashi o Yobu Enji,Official,35,1,local,1,Crayon Shin-chan - Arashi o Yobu Enji (Japan),2,Crayon Shin-chan - Arashi o Yobu Enji (Japan),0,,"nointro,retroachievements"
+8963,~Prototype~ Scrabble,Prototype,11,1,local,1,Scrabble (Europe) (Proto),2,Scrabble (Europe) (Proto),0,,"nointro,retroachievements"
+9017,~Homebrew~ Demons of Asteborg,Homebrew,108,1,local,1,,0,,0,,"nointro,retroachievements"
+9043,~Hack~ Amy Rose in Sonic the Hedgehog 2,Hack,25,1,local,1,,0,,0,,retroachievements
+9097,Gouketsuji Ichizoku,Official,24,2,local,2,Gouketsuji Ichizoku (Japan),2,Gouketsuji Ichizoku (Japan),0,,"nointro,retroachievements"
+9159,~Hack~ Sonic the Hedgehog 2 Recreation,Hack,31,1,local,1,,0,,0,,retroachievements
+9180,~Unlicensed~ Top Fighter 2000 MK VIII,Unlicensed,20,1,local,1,Top Fighter 2000 MK VIII (Taiwan) (En) (Unl),2,Top Fighter 2000 MK VIII (Taiwan) (En) (Unl),0,,"nointro,retroachievements"
+9395,~Homebrew~ Metal Gear,Homebrew,52,2,local,1,Metal Gear (World) (v1.1) (Aftermarket) (Unl),3,"Metal Gear (World) (v1.1) (Aftermarket) (Unl),Metal Gear (World) (v1.2) (Aftermarket) (Unl)",0,,"nointro,retroachievements"
+9396,Mutant League Football,Official,41,1,local,1,"Mutant League Football (USA, Europe)",2,"Mutant League Football (USA, Europe)",0,,"nointro,retroachievements"
+9490,Combat Cars,Official,60,1,local,1,"Combat Cars (USA, Europe)",2,"Combat Cars (USA, Europe)",0,,"nointro,retroachievements"
+9771,The Faery Tale Adventure,Official,37,1,local,1,"Faery Tale Adventure, The (USA, Europe)",2,"Faery Tale Adventure, The (USA, Europe)",0,,nointro
+9902,Ballz 3D: Fighting at its Ballziest,Official,40,1,local,1,"Ballz 3D - The Battle of the Ballz (USA, Europe)",2,"Ballz 3D - The Battle of the Ballz (USA, Europe)",0,,"nointro,retroachievements"
+9933,~Hack~ Sonic: Brother Trouble,Hack,14,1,local,1,,0,,0,,retroachievements
+9939,PGA Tour Golf III,Official,59,1,local,1,"PGA Tour Golf III (USA, Europe)",2,"PGA Tour Golf III (USA, Europe)",0,,"nointro,retroachievements"
+10229,Street Fighter II: Special Champion Edition,Official,26,4,local,4,"Street Fighter II' - Special Champion Edition (USA),Street Fighter II' - Special Champion Edition (Europe)",4,"Street Fighter II' - Special Champion Edition (USA),Street Fighter II' - Special Champion Edition (Europe)",0,,"nointro,retroachievements"
+10340,~Hack~ Sonic the Hedgehog 2 XL,Hack,33,1,local,1,,0,,0,,retroachievements
+10568,Magical Taruruuto-kun,Official,22,1,local,1,Magical Taruruuto-kun (Japan),2,Magical Taruruuto-kun (Japan),0,,"nointro,retroachievements"
+11168,~Hack~ Sonic Delta 40Mb [Subset - No Hit],Hack,37,1,local,1,,0,,0,,retroachievements
+11170,Sylvester and Tweety in Cagey Capers,Official,17,1,local,1,,0,,0,,retroachievements
+11184,Cosmic Spacehead,Official,67,1,local,1,"Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)",2,"Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)",0,,"nointro,retroachievements"
+11185,~Hack~ Sonic 3D Blast: Director's Cut,Hack,50,1,local,1,Sonic 3D Blast - Director's Cut (World) (Unl),2,Sonic 3D Blast - Director's Cut (World) (Unl),0,,"nointro,retroachievements"
+11189,~Unlicensed~ Rockman X3,Unlicensed,9,1,local,1,Rockman X3 (Taiwan) (En) (Unl),2,Rockman X3 (Taiwan) (En) (Unl),0,,"nointro,retroachievements"
+11442,~Hack~ Metal Sonic Rebooted,Hack,50,1,local,1,,0,,0,,retroachievements
+11740,~Hack~ Sonic: Into the Void,Hack,30,1,local,1,,0,,0,,retroachievements
+12671,~Hack~ Sonic 1: Return to the Origin,Hack,18,1,local,1,,0,,0,,retroachievements
+12822,Mamono Hunter Yohko: Dai-7 no Keisho,Official,19,1,local,1,Mamono Hunter Youko - Dai 7 no Keishou (Japan),2,Mamono Hunter Youko - Dai 7 no Keishou (Japan),0,,"nointro,retroachievements"
+12830,~Unlicensed~ Angry Birds,Unlicensed,12,1,local,1,Angry Birds (Russia) (En) (Aftermarket) (Unl),2,Angry Birds (Russia) (En) (Aftermarket) (Unl),0,,nointro
+12865,Buck Rogers: Countdown to Doomsday,Official,44,1,local,1,"Buck Rogers - Countdown to Doomsday (USA, Europe)",2,"Buck Rogers - Countdown to Doomsday (USA, Europe)",0,,"nointro,retroachievements"
+12931,Sonic Eraser,Official,19,1,local,1,Sonic Eraser (Japan) (Sega Game Toshokan),2,Sonic Eraser (Japan) (Sega Game Toshokan),0,,"nointro,retroachievements"
+12933,Pac-Mania,Official,60,1,local,1,"Pac-Mania (USA, Europe)",2,"Pac-Mania (USA, Europe)",0,,"nointro,retroachievements"
+13109,~Homebrew~ Pier Solar and the Great Architects,Homebrew,45,2,local,1,"Pier Solar and the Great Architects (Japan) (En,Fr,Es) (Aftermarket) (Unl)",2,"Pier Solar and the Great Architects (Japan) (En,Fr,Es) (Aftermarket) (Unl)",0,,"nointro,retroachievements"
+13225,Micro Machines: Turbo Tournament 96,Official,68,1,local,1,Micro Machines - Turbo Tournament 96 (Europe) (J-Cart),2,Micro Machines - Turbo Tournament 96 (Europe) (J-Cart),0,,"nointro,retroachievements"
+13421,~Hack~ Ultimate Mortal Kombat Trilogy,Hack,170,1,local,1,,0,,0,,retroachievements
+13454,Langrisser II,Official,100,3,local,3,Langrisser II (Japan) (Rev B),2,Langrisser II (Japan) (Rev B),0,,"nointro,retroachievements"
+13921,~Homebrew~ 30 Years of Nintendon't,Homebrew,10,1,local,1,30 Years of Nintendon't (World) (Digital) (Aftermarket) (Unl),2,30 Years of Nintendon't (World) (Digital) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+13943,~Homebrew~ Cave Story MD,Homebrew,84,1,local,1,,0,,1,Cave Story - Doukutsu Monogatari (World) (En) (v0.7.0) (Aftermarket) (Unl),"nointro,retroachievements"
+14114,~Unlicensed~ Felix the Cat,Unlicensed,29,1,local,1,Felix the Cat (Russia) (Aftermarket) (Unl),2,Felix the Cat (Russia) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+14327,~Homebrew~ L'Abbaye des Morts,Homebrew,18,1,local,1,,0,,1,"Abbaye des Morts, L' (World) (Beta) (Aftermarket) (Unl)","nointro,retroachievements"
+14403,~Hack~ Yoshi in Sonic the Hedgehog 2,Hack,59,1,local,1,,0,,0,,retroachievements
+14607,~Unlicensed~ Sonic Jam 6,Unlicensed,15,2,local,2,Sonic Jam 6 (Taiwan) (En) (Pirate),2,Sonic Jam 6 (Taiwan) (En) (Pirate),0,,"nointro,retroachievements"
+14749,~Unlicensed~ LEGO Batman,Unlicensed,38,1,local,1,Lego Batman (Russia) (Aftermarket) (Unl),2,Lego Batman (Russia) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+14772,~Hack~ Sonic Delta 40Mb,Hack,164,1,local,1,,0,,0,,retroachievements
+15327,~Unlicensed~ Angry Birds in Russia,Unlicensed,14,1,local,1,Angry Birds in Russia (Russia) (Aftermarket) (Unl),2,Angry Birds in Russia (Russia) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+15328,Powerball,Official,27,1,local,1,Powerball (USA),2,Powerball (USA),0,,"nointro,retroachievements"
+15329,~Unlicensed~ Mario 3: Around the World,Unlicensed,12,1,local,1,Mario 3 - Around the World (Russia) (Aftermarket) (Unl),2,Mario 3 - Around the World (Russia) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+15370,~Hack~ Sonic 3 and Amy Rose,Hack,30,1,local,1,,0,,0,,retroachievements
+15387,~Homebrew~ Xeno Crisis,Homebrew,54,1,local,1,,0,,0,,"nointro,retroachievements"
+16047,Shadow of the Beast: Mashou no Okite,Official,42,1,local,1,Shadow of the Beast - Mashou no Okite (Japan) (En),2,Shadow of the Beast - Mashou no Okite (Japan) (En),0,,"nointro,retroachievements"
+16210,Bare Knuckle III,Official,48,2,local,2,Bare Knuckle III (Japan),2,Bare Knuckle III (Japan),0,,"nointro,retroachievements"
+16270,~Hack~ Sonic in Troll Island,Hack,52,1,local,1,,0,,0,,retroachievements
+16281,~Hack~ Blue Sphere Plus,Hack,35,1,local,1,,0,,0,,retroachievements
+16285,~Unlicensed~ Mario 4: A Space Odyssey,Unlicensed,13,1,local,1,Mario 4 - Space Odyssey (Russia) (Aftermarket) (Unl),2,Mario 4 - Space Odyssey (Russia) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+16344,~Hack~ Sonic & Ashuro,Hack,27,1,local,1,,0,,0,,retroachievements
+16361,~Unlicensed~ Adventures of the Gummi Bears,Unlicensed,16,1,local,1,"Adventures of the Gummi Bears, The (Russia) (Aftermarket) (Unl)",2,"Adventures of the Gummi Bears, The (Russia) (Aftermarket) (Unl)",0,,"nointro,retroachievements"
+16518,~Hack~ Sonic the Hedgehog 2: Hold Right to Win Edition,Hack,18,1,local,1,,0,,0,,retroachievements
+16566,Ultracore,Official,56,1,local,1,"Ultracore (USA, Europe) (Switch, PS Vita)",2,"Ultracore (USA, Europe) (Switch, PS Vita)",0,,"nointro,retroachievements"
+17070,~Hack~ Bubsy in Sonic 2,Hack,18,1,local,1,,0,,0,,retroachievements
+17182,~Hack~ Rock n' Roll Racing,Hack,107,1,local,1,,0,,0,,retroachievements
+17392,~Homebrew~ Alter Ego,Homebrew,7,1,local,1,AlterEgo - Remastered (World) (Aftermarket) (Unl),2,AlterEgo - Remastered (World) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+17555,Richard Scarry's Busytown,Official,15,1,local,1,Richard Scarry's Busytown (USA),2,Richard Scarry's Busytown (USA),0,,"nointro,retroachievements"
+17666,~Hack~ An Ordinary Sonic ROM Hack,Hack,28,1,local,1,,0,,0,,retroachievements
+17687,~Homebrew~ 16-Bit Rhythm Land,Homebrew,60,1,local,1,,0,,0,,retroachievements
+17724,~Homebrew~ ~Demo~ Mega Man X,Homebrew/Demo,8,3,local,3,"Mega Man X (World) (ROM 1) (Demo) (Aftermarket) (Unl),Mega Man X (World) (ROM 3) (Demo) (Aftermarket) (Unl),Mega Man X (World) (ROM 2) (Demo 2) (Aftermarket) (Unl)",6,"Mega Man X (World) (ROM 1) (Demo) (Aftermarket) (Unl),Mega Man X (World) (ROM 3) (Demo) (Aftermarket) (Unl),Mega Man X (World) (ROM 2) (Demo 2) (Aftermarket) (Unl)",0,,"nointro,retroachievements"
+17762,~Homebrew~ Goldrush,Homebrew,13,1,local,1,Gold Rush (World) (Aftermarket) (Unl),2,Gold Rush (World) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+17765,~Homebrew~ Mega Flappy Sis,Homebrew,13,1,local,1,Mega Flappy Sis (World) (Aftermarket) (Unl),2,Mega Flappy Sis (World) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+17905,~Homebrew~ Barbarian: The Ultimate Warrior,Homebrew,9,1,local,1,Barbarian (World) (F.L.) (Amiga 500) (Aftermarket) (Unl),2,Barbarian (World) (F.L.) (Amiga 500) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+18428,Thomas the Tank Engine & Friends,Official,14,1,local,1,Thomas the Tank Engine & Friends (USA),2,Thomas the Tank Engine & Friends (USA),0,,"nointro,retroachievements"
+18481,~Unlicensed~ Bomber,Unlicensed,8,2,local,2,Bomber (USA) (Sega Gopher),2,Bomber (USA) (Sega Gopher),0,,"nointro,retroachievements"
+18770,Zombies Ate My Neighbors [Subset - Save All Victims],Official,54,1,local,1,,0,,0,,retroachievements
+19437,NFL Quarterback Club,Official,60,2,local,2,NFL Quarterback Club (World),2,NFL Quarterback Club (World),1,NFL Quarterback Club (World),"nointro,retroachievements"
+19703,~Hack~ Sonic VR,Hack,16,1,local,1,,0,,0,,retroachievements
+19884,~Hack~ Mortal Kombat: Arcade Edition,Hack,37,4,local,4,,0,,0,,retroachievements
+20031,Sonic 3 & Knuckles [Subset - Glitch Showcase],Official,63,1,local,1,,0,,0,,retroachievements
+20044,~Homebrew~ Flappy Bird,Homebrew,11,1,local,1,Flappy Bird (World) (Ru) (Aftermarket) (Unl),2,Flappy Bird (World) (Ru) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+20246,~Hack~ Knuckles the Echidna in Sonic the Hedgehog,Hack,24,1,local,1,,0,,0,,retroachievements
+20297,Knuckles the Echidna in Sonic the Hedgehog 2 [Subset - Hold Right To Lose],Official,21,1,local,1,,0,,0,,retroachievements
+20585,~Hack~ Luigi in Sonic 1,Hack,17,1,local,1,,0,,0,,retroachievements
+20596,~Hack~ Pepsi in Sonic the Hedgehog I,Hack,24,1,local,1,,0,,0,,retroachievements
+21365,~Hack~ Sonic the Hedgehog 2: Pink Edition,Hack,25,1,local,1,,0,,0,,retroachievements
+21513,~Unlicensed~ Angry Birds Star Wars,Unlicensed,11,1,local,1,Angry Birds - Star Wars (Russia) (Aftermarket) (Unl),2,Angry Birds - Star Wars (Russia) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+21995,~Homebrew~ Shaolin Carcará,Homebrew,11,1,local,1,Shaolin Carcara (World) (Pt-BR) (Aftermarket) (Unl),2,Shaolin Carcara (World) (Pt-BR) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+22074,~Hack~ Sonic Zoom,Hack,28,1,local,1,,0,,0,,retroachievements
+22098,~Hack~ Sonic Sunventure,Hack,22,1,local,1,,0,,0,,retroachievements
+22103,~Hack~ 137E0 Action 1 Steak,Hack,7,1,local,1,,0,,0,,retroachievements
+22188,Dynamite Headdy (Japan),Official,58,3,local,3,Dynamite Headdy (Japan),2,Dynamite Headdy (Japan),0,,"nointro,retroachievements"
+22299,~Homebrew~ Mega Q*bert,Homebrew,71,1,local,1,Mega Q-bert (World) (v1.2) (NTSC) (Aftermarket) (Unl),2,Mega Q-bert (World) (v1.2) (NTSC) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+22371,~Homebrew~ Super Byoon,Homebrew,7,1,local,1,Super Byoon (World) (Aftermarket) (Unl),2,Super Byoon (World) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+22594,~Hack~ Yeth,Hack,13,1,local,1,,0,,0,,retroachievements
+22689,~Homebrew~ Drunk as I Like: Gensokyo Drinking Attitude,Homebrew,14,1,local,1,Drunk as I Like (World) (Itch.io) (Aftermarket) (Unl),2,Drunk as I Like (World) (Itch.io) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+22858,~Hack~ Sonic the Hedgehog in Hellfire Saga,Hack,46,1,local,1,,0,,0,,retroachievements
+24119,~Homebrew~ Mega Casanova,Homebrew,6,1,local,1,"Mega Casanova (World) (En,Ru) (v1.3) (Digital) (Aftermarket) (Unl)",2,"Mega Casanova (World) (En,Ru) (v1.3) (Digital) (Aftermarket) (Unl)",0,,"nointro,retroachievements"
+24329,World of Illusion starring Mickey Mouse and Donald Duck [Subset - Multiplayer],Official,28,1,local,1,,0,,0,,retroachievements
+24333,Shadow of the Beast [Subset - Perfect Beast],Official,13,1,local,1,,0,,0,,retroachievements
+24356,Air Hockey,Official,6,2,local,2,"Air Hockey (Europe) (Sega Reactor),Air Hockey (Brazil) (Mega Drive 4)",4,"Air Hockey (Europe) (Sega Reactor),Air Hockey (Brazil) (Mega Drive 4)",0,,"nointro,retroachievements"
+24421,~Unlicensed~ Ben 10,Unlicensed,10,1,local,1,Ben 10 (Russia) (Aftermarket) (Unl),2,Ben 10 (Russia) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+24453,~Homebrew~ Mega Man: The Sequel Wars - Episode Red,Homebrew,135,1,local,1,Mega Man - The Sequel Wars - Episode Red (World) (v1.1) (Aftermarket) (Pirate),2,Mega Man - The Sequel Wars - Episode Red (World) (v1.1) (Aftermarket) (Pirate),0,,"nointro,retroachievements"
+24511,~Homebrew~ Mega Man: The Sequel Wars - Episode Red [Subset - Bonus],Homebrew,6,1,local,1,,0,,0,,retroachievements
+24618,~Unlicensed~ Pokémon Crazy Drummer,Unlicensed,36,1,local,1,Pokemon Crazy Drummer (China) (En) (Aftermarket) (Unl),2,Pokemon Crazy Drummer (China) (En) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+25018,~Homebrew~ Kekcroc,Homebrew,14,1,local,1,,0,,0,,retroachievements
+25807,~Hack~ Teenage Mutant Ninja Turtles: Shredder's Re-Revenge,Hack,25,1,local,1,,0,,0,,retroachievements
+25808,~Hack~ Teenage Mutant Ninja Turtles: Shredder's Re-Revenge [Subset - Multi],Hack,18,1,local,1,,0,,0,,retroachievements
+25811,~Hack~ Teenage Mutant Ninja Turtles: Shredder's Re-Revenge [Subset - Mania],Hack,9,1,local,1,,0,,0,,retroachievements
+26524,~Hack~ Shining Force Alternate,Hack,100,1,local,1,,0,,0,,retroachievements
+26731,~Hack~ Tails in Sonic the Hedgehog,Hack,24,1,local,1,,0,,0,,retroachievements
+26848,Academia do Saber,Official,27,1,local,1,Academia do Saber (Brazil) (Mega Drive 4),2,Academia do Saber (Brazil) (Mega Drive 4),0,,nointro
+26987,Phantasy Star II [Subset - Rolf Solo Challenge],Official,27,1,local,1,,0,,0,,retroachievements
+27464,~Homebrew~ TetrisMD,Homebrew,22,1,local,1,,0,,0,,retroachievements
+28819,~Homebrew~ Solitaire In Space,Homebrew,7,1,local,1,Solitaire in Space (World) (Proto) (Aftermarket) (Unl),2,Solitaire in Space (World) (Proto) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+29031,~Homebrew~ Foxy Land,Homebrew,22,1,local,1,Foxy Land (World) (Digital) (Aftermarket) (Unl),2,Foxy Land (World) (Digital) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+29147,~Homebrew~ sweetsdigger,Homebrew,12,1,local,1,Sweetsdigger (World) (Aftermarket) (Unl),2,Sweetsdigger (World) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+29149,~Hack~ Yakuza 1 Kiwami,Hack,32,1,unmatched,0,,0,,0,,
+29744,~Hack~ Touhou: An Aftermath of the Index,Hack,42,1,unmatched,0,,0,,0,,
+29766,~Hack~ Shining Force: Horizons,Hack,217,1,local,1,,0,,0,,retroachievements
+29787,~Homebrew~ Gravibots,Homebrew,25,1,local,1,Gravibots (World) (Aftermarket) (Unl),2,Gravibots (World) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+29895,Sonic the Hedgehog [Subset - Perfect Bonus],Official,24,1,local,1,"Sonic The Hedgehog (Japan, Europe, Korea) (En) (Rev A)",2,"Sonic The Hedgehog (Japan, Europe, Korea) (En),Sonic The Hedgehog (Japan, Europe, Korea) (En) (Rev A)",0,,"nointro,retroachievements"
+29933,~Hack~ Knuckles the Echidna in Sonic the Hedgehog [Subset - Hold Right to Lose],Hack,26,1,local,1,,0,,0,,retroachievements
+30030,~Homebrew~ Alice Sisters,Homebrew,16,1,local,1,,0,,0,,nointro
+30033,~Homebrew~ FX Unit Yuki: The Henshin Engine,Homebrew,33,1,local,1,,0,,0,,retroachievements
+30734,~Hack~ ~Demo~ Gatoslip: Chapter 0,Hack/Demo,28,1,local,1,,0,,0,,retroachievements
+30900,~Hack~ Sonic 1: The Next Level,Hack,12,1,unmatched,0,,0,,0,,
+30901,Tetris (M2),Official,17,1,local,1,"Tetris (USA) (Mega Drive Mini, Genesis Mini)",2,"Tetris (USA) (Mega Drive Mini, Genesis Mini)",0,,"nointro,retroachievements"
+30927,Marble Madness (Japan),Official,12,1,local,1,Marble Madness (Japan) (En),2,Marble Madness (Japan) (En),0,,nointro
+31684,Darius,Official,38,1,local,1,"Darius (World) (Mega Drive Mini, Genesis Mini)",2,"Darius (World) (Mega Drive Mini, Genesis Mini)",0,,"nointro,retroachievements"
+31908,~Homebrew~ 2048,Homebrew,10,1,local,1,,0,,0,,retroachievements
+31909,~Hack~ ~Demo~ Pantufa the Cat: Extended Edition,Hack/Demo,50,1,local,1,,0,,0,,retroachievements
+32807,~Hack~ SNOLF: The Sonic Golf Experience!,Hack,31,1,local,1,,0,,0,,retroachievements
+32906,~Homebrew~ Super Star Wars Holiday Special,Homebrew,17,1,local,1,Super Star Wars - Holiday Special (World) (v1.1) (Aftermarket) (Unl),2,Super Star Wars - Holiday Special (World) (v1.1) (Aftermarket) (Unl),0,,nointro
+33062,~Homebrew~ Real Bout Fatal Fury Genesis,Homebrew,40,1,local,1,,0,,0,,retroachievements
+33403,~Homebrew~ Old Towers,Homebrew,16,1,local,1,Old Towers (World) (v1.2) (Aftermarket) (Unl),2,Old Towers (World) (v1.2) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+33999,~Homebrew~ Ryuthela,Homebrew,8,1,local,1,Ryuthela (World) (Aftermarket) (Unl),2,Ryuthela (World) (Aftermarket) (Unl),0,,"nointro,retroachievements"
+37193,~Unlicensed~ Teenage Mutant Ninja Turtles: The Legend Returns,Unlicensed,8,1,local,1,Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Unl),2,Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Unl),0,,"nointro,retroachievements"
+37602,Garfield: Caught in the Act - The Lost Levels,Official,12,1,local,1,Garfield - The Lost Levels (USA) (Sega Channel),2,Garfield - The Lost Levels (USA) (Sega Channel),0,,"nointro,retroachievements"
+37607,~Homebrew~ Waffle Painter,Homebrew,26,1,unmatched,0,,0,,0,,
+37828,~Hack~ Hatsune Miku in Sonic 1,Hack,39,1,unmatched,0,,0,,0,,
+38020,~Homebrew~ Fatal Fury One,Homebrew,34,1,local,1,Fatal Fury One (World) (Aftermarket) (Unl),2,Fatal Fury One (World) (Aftermarket) (Unl),0,,nointro
+38069,Streets of Rage 2 [Subset - Mania],Official,18,2,unmatched,0,,0,,0,,
+38620,~Unlicensed~ Pokémon II,Unlicensed,7,1,local,1,Pokemon II (China) (En) (Aftermarket) (Unl),2,Pokemon II (China) (En) (Aftermarket) (Unl),0,,nointro
+38628,~Hack~ Broken Knuckles,Hack,39,1,unmatched,0,,0,,0,,
+41154,~Homebrew~ Kunio no Nekketsu School Fighters,Homebrew,52,1,local,1,"Kunio no Nekketsu - School Fighters (World) (En,Ja) (v1.7) (Aftermarket) (Unl)",2,"Kunio no Nekketsu - School Fighters (World) (En,Ja) (v1.7) (Aftermarket) (Unl)",0,,nointro

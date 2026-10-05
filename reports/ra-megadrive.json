@@ -1,42 +1,58 @@
 {
-  "snapshot_id": 1,
+  "snapshot_id": 2,
   "console_id": 1,
-  "fetched_at": "2026-10-04T08:18:40.607281+00:00",
-  "ra_games_with_achievements": 612,
+  "fetched_at": "2026-10-05T05:18:26.050171+00:00",
+  "ra_games_with_achievements": 613,
   "status_totals": {
-    "local": 520,
+    "local": 606,
     "dat_only": 0,
-    "nointro_db_only": 1,
-    "unmatched": 91
+    "nointro_db_only": 0,
+    "unmatched": 7
   },
   "by_category": {
     "Official": {
-      "local": 453,
-      "unmatched": 14
+      "local": 466,
+      "unmatched": 1
     },
     "Unlicensed": {
-      "local": 26,
-      "unmatched": 1,
-      "nointro_db_only": 1
+      "local": 28
     },
     "Hack": {
-      "unmatched": 65,
-      "local": 1
+      "local": 62,
+      "unmatched": 5
     },
     "Prototype": {
       "local": 6
     },
     "Homebrew": {
-      "local": 33,
-      "unmatched": 9
+      "local": 41,
+      "unmatched": 1
     },
     "Homebrew/Demo": {
       "local": 1
     },
     "Hack/Demo": {
-      "unmatched": 2
+      "local": 2
     }
   },
-  "local_roms_with_achievements": 673,
-  "rule": "RA hash = MD5 of the complete file; exact hash equality only"
+  "local_roms_with_achievements": 942,
+  "rule": "RA hash = MD5 of the complete file; exact hash equality only",
+  "local_games_by_source": {
+    "nointro": 14,
+    "nointro,retroachievements": 506,
+    "retroachievements": 86
+  },
+  "retroachievements_collections": {
+    "RA - Sega Genesis": {
+      "in_nointro_dat": 654,
+      "ra_hash_unknown": 5,
+      "ra_only": 275
+    }
+  },
+  "collection_files_with_unknown_ra_hash": 5,
+  "missing_by_category": {
+    "Hack": 5,
+    "Homebrew": 1,
+    "Official": 1
+  }
 }
