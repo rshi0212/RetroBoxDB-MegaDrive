@@ -1,10 +1,10 @@
 {
-  "tag": "megadrive-catalog-20261006-2",
-  "title": "Mega Drive Catalog: naming normalized, one schema for fifteen platforms",
+  "tag": "megadrive-catalog-20261006-3",
+  "title": "Mega Drive Catalog: one schema for twenty-three platforms",
   "platform": "megadrive",
   "catalog_name": "RetroBoxDB.MegaDrive.Catalog.sqlite",
-  "base_url": "https://github.com/rshi0212/RetroBoxDB-MegaDrive/releases/download/megadrive-catalog-base-20261006-2/RetroBoxDB.MegaDrive.Catalog.sqlite",
-  "base_sha256": "c57de8570ff62deeee09cc5897e83257e03c58b4ad70d61c7f439b8663996bf1",
+  "base_url": "https://github.com/rshi0212/RetroBoxDB-MegaDrive/releases/download/megadrive-catalog-base-20261006-3/RetroBoxDB.MegaDrive.Catalog.sqlite",
+  "base_sha256": "2721d5d7a09ccacbee48757d681b1e8186eac57c16a12b75ac3e38d02385123f",
   "data_table_sha256": {
     "archive_entries": {
       "rows": 5369,
@@ -47,8 +47,8 @@
       "sha256": "a368ac0a8b370f47965993f83c9194d078d78943fcdebd9468290f95d74adabe"
     },
     "events": {
-      "rows": 38,
-      "sha256": "1bc9ec1f1238e86374234a5222b401cf2223621d06fd0aae1b9962c496421536"
+      "rows": 40,
+      "sha256": "087dc444496f66e7de0e2d6b6ad7021f7eae44258ebc6963eb9295e10c2e3f5b"
     },
     "fds_hardware": {
       "rows": 0,
@@ -125,6 +125,10 @@
     "meta": {
       "rows": 23,
       "sha256": "a90b036a18d9d70bf9d2c1096ff440acce2b237045a413b78010b15a5b2a57b6"
+    },
+    "msx_hardware": {
+      "rows": 0,
+      "sha256": "d27cf02566368e3887c71b1c9860a2d5c62de09c8015bb24f3231bf92bc79655"
     },
     "naming_decisions": {
       "rows": 2703,
@@ -214,6 +218,10 @@
       "rows": 6794,
       "sha256": "fb95f894c3d00528dad1f989307ddee9739c4bc824d4016aee89f163b793aaeb"
     },
+    "pce_hardware": {
+      "rows": 0,
+      "sha256": "89bb45ffcf0a90c76bf0461001f7162856a2170a601a10834156757ce53ef7d5"
+    },
     "platforms": {
       "rows": 1,
       "sha256": "32520519d711ce622ed0378c91794025b1025a78a1d5bd52f8a49689d759da89"
@@ -269,6 +277,10 @@
     "repair_attempts": {
       "rows": 0,
       "sha256": "3c642e0d29d1e5dab60d2328c3d565be7c0acc7c70e44cb33566db7e538d7ffa"
+    },
+    "rom_annotations": {
+      "rows": 0,
+      "sha256": "eb081c996d4937ce6fad179a0fb6bd6fce7cbf9dd23a328aa578924ff4d42a61"
     },
     "rom_components": {
       "rows": 11877,
@@ -346,6 +358,10 @@
       "rows": 6796,
       "sha256": "cfb7eef542b2068120cab5c1769cab1a7344527a0f5f30669a8f418030083a36"
     },
+    "vb_hardware": {
+      "rows": 0,
+      "sha256": "517f834f0e1aee837276d1e82c4128fdb1d52a002d02af1fa78d1699e19b1b44"
+    },
     "ws_hardware": {
       "rows": 0,
       "sha256": "db3b69505e80a7a046eb7fae0f6d4ba62fa9a50462e32bc8885593fccdf1844d"
@@ -420,6 +436,10 @@
       "kind": "python",
       "path": "tools/normalize_db.py"
     },
+    "msx_route.py": {
+      "kind": "python",
+      "path": "tools/msx_route.py"
+    },
     "tests_v4.py": {
       "kind": "python",
       "path": "tests/test_v4.py"
@@ -479,6 +499,38 @@
     "storage-experiment-pokemini": {
       "kind": "json",
       "path": "assessment/data/storage-experiment-pokemini.json"
+    },
+    "storage-experiment-gamegear": {
+      "kind": "json",
+      "path": "assessment/data/storage-experiment-gamegear.json"
+    },
+    "storage-experiment-pcengine": {
+      "kind": "json",
+      "path": "assessment/data/storage-experiment-pcengine.json"
+    },
+    "storage-experiment-supergrafx": {
+      "kind": "json",
+      "path": "assessment/data/storage-experiment-supergrafx.json"
+    },
+    "storage-experiment-msx1": {
+      "kind": "json",
+      "path": "assessment/data/storage-experiment-msx1.json"
+    },
+    "storage-experiment-msx2": {
+      "kind": "json",
+      "path": "assessment/data/storage-experiment-msx2.json"
+    },
+    "storage-experiment-virtualboy": {
+      "kind": "json",
+      "path": "assessment/data/storage-experiment-virtualboy.json"
+    },
+    "storage-experiment-gameandwatch": {
+      "kind": "json",
+      "path": "assessment/data/storage-experiment-gameandwatch.json"
+    },
+    "storage-experiment-supracan": {
+      "kind": "json",
+      "path": "assessment/data/storage-experiment-supracan.json"
     },
     "storage-curves": {
       "kind": "json",
